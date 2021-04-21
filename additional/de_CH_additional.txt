@@ -245,7 +245,6 @@ fünfgängig
 Funkenwurf
 funny
 futieren
-Garagist
 gegenchecken
 Gegenmehr
 gegenprüfen
@@ -281,13 +280,10 @@ Handbike
 Handmehr
 Handover
 Handselfer
-Harass
-Harasse
 Haushaltgerät
 Haushaltgeräte
 Haushaltpapier
 Hegegemeinschaft
-Heimet
 Helferteam
 Hellraumprojektor
 Heumilch
@@ -398,7 +394,6 @@ Natel
 Nati
 Nebenerwerbsbäurin
 neokommunistisch
-Netflix
 Netizen
 Newsdesk
 Newsflow
@@ -416,7 +411,6 @@ Offside
 Oknophilie
 Oldienacht
 oldschool
-Onleihe
 Oppidum
 Orthorektiker
 Orthorektikerin
@@ -600,7 +594,6 @@ speditiv
 Speedminton
 Speedstacking
 Spitalpflege
-Spitex
 Splitscreen
 Sportstacking
 Spotify
