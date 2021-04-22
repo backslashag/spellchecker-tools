@@ -2,7 +2,7 @@
 ## About
 This Repository contains a few modified swiss german tools for hunspell based translations tool. Use it on your risk!
 If you want to make any additions, feel free to create a pull request.
-Please note, that the extension for open office, libre office and thunderbird is neither developed not maintained by backlash. This means, changes in this repository will not have any influence on the original projects.
+Please note, that the extension for [open office](https://extensions.openoffice.org/en/project/german-de-ch-frami-dictionaries), [libre office](https://extensions.libreoffice.org/en/extensions/show/german-de-ch-frami-dictionaries) and thunderbird is neither developed nor maintained by backslash. This means, changes in this repository will not have any influence on the original projects.
 ## Files & Structure
 
 ### de-ch
