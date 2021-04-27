@@ -592,12 +592,7 @@ Thrashmetal
 Thumbnail
 Ticketautomat
 Tikitaka
-Tinder
-tindern
 tischen
-Tobel
-Töff
-Töffli
 Toolbar
 Toolset
 Topping
@@ -606,12 +601,7 @@ torhungrig
 Tourguide
 Touristinfo
 Touristinformation
-Townhouse
-Tracing
 tracken
-Traktanden
-Traktandenliste
-Traktandum
 transflektiv
 treuhändig
 Trialog
@@ -621,10 +611,6 @@ trimedial
 Trimedialität
 trimodal
 Trivialisierung
-Trottinett
-Trute
-Trutenfleisch
-Tumbler
 tümeln
 Tunneling
 tweeten
@@ -690,4 +676,3 @@ wurfgewaltig
 zonieren
 Zugskomposition
 zukunftsgewandt
-Zwängerei
