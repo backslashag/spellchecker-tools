@@ -12,7 +12,7 @@ This directory contains the extension which in general can be downloaded in scop
 ### additional
 The directory additional contains a text file with new words which are not part of the extension yet. We use it in our own spellchecker solution provided by wproofreader to improve the base quality of the dictionary included in the extension. Terms which are listed here should become part of the extension sooner or later, but this takes time… So new terms will be added to the additiona-file first of all and will be mooved to the extension later on.
 
-### Usage on Mac OSX
+## Usage on Mac OSX
 The dictionary can be used systemwide on OSX. To do so, follow these steps:
 1. Open a terminal window
 2. Execute this command - it will download and copy the files to correct directory. Please note, that curl is required: 
