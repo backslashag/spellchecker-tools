@@ -16,79 +16,10 @@
 # /F will add in (for gendered nouns)
 # Use `prefix_verb` to prepend the given prefix to all forms of the verb (does not work for verbs with "ß" yet).
 # The lines in `prefix_verb` syntax will also be used by GermanTagger.
-Aalborg/S #name
-Aarhus #name
-Aarwangen/S #name
-Achau/S #name
-Accenture/S #name
-Acolon #name
-Adalbertstr. #name
-Adalbertstraße #name
-Adnan/S #name
-Adolfstraße #name
-Adriana/S #name
-Adrienne/S #name
-Agata/S #name
-Aggi/S #name
-Agnieszka/S #name
-Ahmad #name
-Ahnatal/S #name
-Ahrensbök/S #name
-Alain/S #name
-Albertina/S #name
-Alberto/S #name
-Albstädter/NS #name
-Albufeira/S #name
-Alena/S #name
-Alessa/S #name
-Alessandra/S #name
-Alexia/S #name
-Alexis #name
-Alia/S #name
-Aliyah/S #name
-Alpina/S #name
-Altlandsberg/S #name
-Altusried/S #name
-Altzella #name
-Alvar/S #name
-Alvin/S #name
-Alzenau/S #name
-Alzenauer/S #name
-Amelie/S #name
-Anastasio/S #name
-Andiparos #name
-Andree/S #name
-Angerinsel #name
-Annabell/S #name
-Annenstraße #name
-Annerose/S #name
-Anny/S #name
-Anthea/S #name
-Antium #name
-Antoine/S #name
-Antonie #name
-Antonie/S #name
-Antoniusquartier/S #name
-AP #abk
-Apenrade/S #name
-apoBank #name
-Apuleius #name
-Aradippou/S #name
-Arimathäa #name
-Arion/S #name
-Arles #name
-Arnulfpark/S #name
-Arriva/S #name
-Arsinoë #name
-Artemidoros #name
-Artjom/S #name
-Artur/S #name
-Arturo/S #name
-Aschach/S #name
-Asgardia #name
-Asimov/S #name
-Aston Martin/S #name
-Aßling/S #name
+
+
+
+
 Auma-Weidatal #name
 AutoHotkey #name
 AutoIt #name
