@@ -17,29 +17,7 @@
 # Use `prefix_verb` to prepend the given prefix to all forms of the verb (does not work for verbs with "ß" yet).
 # The lines in `prefix_verb` syntax will also be used by GermanTagger.
 
-.gitignore #name
-.htaccess #name
-.htaccess-Datei
-.htaccess-Dateien
-.pdf-Format/S
-14-Tage-Geld-zurück-Garantie/N
-3-Tage-Woche/N
-30-Tage-Geld-zurück-Garantie/N
-30-Tage-Trend/S
-31-Tage-Geld-zurück-Garantie/N
-3sat
-4-Tage-Woche/N
-5-Tage-Woche/N
-6-Tage-Woche/N
-7-Tage-Geld-zurück-Garantie/N
-7-Tage-Inzidenz
-7-Tage-Inzidenzen
-7-Tage-Trend/S
-7-Tage-Woche/N
-7-Tages-Inzidenz
-7-Tages-Inzidenzen
-A-cappella-Gruppe/N
-Aalto-Theater/S #name
+
 AAP #abk
 Aarberg/S #name
 Aarbergen/S #name
@@ -8420,7 +8398,6 @@ Friedrichssegen/S #name
 Friedrichsthal/S
 Frielendorf/S #name
 friemelig/A #ugs
-Friendly Fire/S #eng
 Friendzone
 Friesenquartier/S #name
 Friesoythe #name
@@ -8435,10 +8412,6 @@ Frischemarktes
 Fristenplan/S
 Fristerfordernis
 Fristerfordernisse/NS
-fristgebunden/A
-fristgemäß/A
-Fristverlängerungsantrag/S
-Fristverlängerungsanträge/N
 fristwidrig/A
 Fritsch/S #name
 Frittelle
@@ -9937,10 +9910,7 @@ Haspa/S #name
 Hasselbach/S #name
 Hasselblad #name
 Hasselmann/S #name
-Haßfurt/S #name
-Hasso Plattner/S #name
 Hatchback/S #eng
-Hate Speech #eng
 Hater/NS
 Haterkommentar/S
 Haterkommentare/N
@@ -13486,13 +13456,6 @@ Kanonliteratur
 Kantabilität
 Kantelung
 Kantelungen
-kantonsärztlich/A
-Kantonsratssitz
-Kantonsratssitze/NS
-Kantonsratswahl
-Kantonsratswahlen
-Kantor-Carl-Ehrich-Grundschule #name
-Kantor-Carl-Ehrich-Schule #name
 Kantungen
 Kanzelaufgang/S
 Kanzeldeckel/NS
@@ -13505,7 +13468,6 @@ Kapellbrücke #name
 Kapellknaben
 Kaperangriff/S
 Kaperangriffe/N
-Kapernaum/S #name
 Kapillaraszension
 Kapillaraszensionen
 Kapillardepression
@@ -19942,16 +19904,8 @@ prioritätsmäßig/A
 Prioritätsregel/N
 Prioritätstag/S
 Prioritätstage/NS
-Pripjat/S #name
-Priska/S #name
-Prisoner of War #eng
 Prius
 Priv.-Doz. #abk
-Privacy Shield/S #eng
-Private Equity/S #eng
-Privatsphäreneinstellungen
-Privatsphärenschutz
-Privatsphärenschutzes
 Pro-Life #eng
 Proaktivität
 Probandenbefragung
@@ -21000,7 +20954,6 @@ Regenerationskapazität
 Regenerationskapazitäten
 Regenerator/S
 Regeneratoren
-regensicher/A
 Reggaeton/S #name
 Regieabteilung
 Regiebericht/S
@@ -21490,8 +21443,6 @@ Retablierens
 retablierst
 retabliert/A
 retabliertest
-Retargeting/S #eng
-Reto/S #name
 Retourenabteilung
 Retourenabteilungen
 Retourenanfrage/N
@@ -23597,19 +23548,12 @@ siebzehnmal
 Siedepunkterniedrigung
 siedlungsplanerisch/A
 siedlungswasserwirtschaftlich/A
-siegelführend/A
-Siegelmaschine/N
-Siegelwachs
-Siegelwachses
-Siegenthaler/S #name
 siegfähig/A
 Siegmar/S #name
 Siegmund/S #name
 Siegrist/S #name
 Sielleitung
 Sielleitungen
-Siemens Energy #name
-Siemens Gamesa/S #name
 Siepmann/S #name
 Siersburg #name
 Sievers #name
@@ -23619,7 +23563,6 @@ Siggi/S #name
 Sigmakarzinom/S
 Sigmakarzinome/N
 Sigmoid
-Signalement/S
 Signalisierungsprotokoll/S
 Signalisierungsprotokolle/S
 signalisierungstechnisch/A
@@ -28014,7 +27957,6 @@ Vibrorinne/N
 vibrotaktil/A
 Vick/S #name
 Vicky/S #name
-Victorinox #name
 Videogames
 Videografie
 videografiere/N
