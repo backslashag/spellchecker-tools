@@ -21,8 +21,6 @@
 AAP #abk
 Aarberg/S #name
 Aarbergen/S #name
-Aareal Bank #name
-Abacus #name
 ABAP/S #abk
 ABB/S #name
 Abbas #name
@@ -197,7 +195,6 @@ abmindertest
 abnehmerorientiert/A
 Abnehmindustrie
 abnehmwillig/A
-Abo-Nr. #abk
 Abodauer/N
 Abofunktion
 Abogebühr
@@ -210,8 +207,6 @@ Abostatus
 Abosystem/S
 Abou-Chaker-Clan/S #name
 Abou-Chaker/S #name
-About You/S #name
-ABOUT YOU/S #name
 Abozahlen
 Abozeitraum/S
 Abozeiträume/N
@@ -274,7 +269,6 @@ Absinkgeschwindigkeit
 Absinkgeschwindigkeiten
 Absitzraum/S
 Absitzräume/N
-Absolute Beginner/N #name
 Absorberschacht
 Absorberschächte/N
 Absorberschachtes
@@ -442,7 +436,6 @@ abzuwinkeln
 abzuwinken
 abzuzinsen
 abzuzwacken
-Abzw. #abk
 AC #abk
 AC-Schalter/NS
 AC-Verkabelung
@@ -565,7 +558,6 @@ Adressierungsschemata
 Ads #eng
 AdSense #name
 Adstringenz
-Advanced Encryption Standard/S
 Advantage/S #eng
 advektiv/A
 Advertiser/NS #eng
@@ -664,7 +656,6 @@ Ahlers #name
 Ahmedabad/S #name
 Ahmet/S #name
 ahndungswürdig/A
-ähnl. #abk
 Ähnlichkeitsanspruch/S
 Ahoj-Brause
 ährenförmig/A
@@ -673,19 +664,12 @@ Aidan #name
 Aigeus #name
 Aigner/S #name
 Aileen/S #name
-Air Canada/S #name
-Air Force #eng
-Air France/S #name
-Air India/S #name
-Air Wick/S #name
 Airbox
 Airboxen
-Airbus Defence #name
 Airbus-Typ/S
 Airbus-Typen
 Airlinecode
 Airlineschiene/N
-AirPods
 Airportshuttle/S #eng
 Airways #eng
 Aisha/S #name
@@ -806,9 +790,7 @@ allgemeinpädiatrisch/A
 Allgüte
 Allgütige/N
 Allgütiger
-Allianz Direct
 Allmannsdorf/S
-Allnet Flat/S
 Allnet-Flat/S
 Allokierung
 Allopurinol/S #name
@@ -842,8 +824,6 @@ Alprazolam #name
 Alpsee/NS
 Alsfelder #name
 Alstom/S #name
-alstria office REIT #name
-alstria office REIT-AG #name
 Alstroemeria
 Alt-Right #eng
 Altair #name
@@ -872,7 +852,6 @@ Aluminiumerzlagerstätte/N
 Aluminiumlitzenkabel/NS
 Alunietmutter/N
 Alutec #name
-Alva Edison
 Alveolarfortsatz
 Alveolarfortsatzes
 Alveolarkamm/S
@@ -880,7 +859,6 @@ Alveolenmanagement/S
 Alzheimerdiagnose/N
 Amadou/S #name
 Amarok #name
-Amazon Marketplace #name
 Amazonia/S #name
 Ambassador
 Ambiance
@@ -889,7 +867,6 @@ Ambientebeleuchtung
 Ambientetrauung
 Ambientetrauungen
 Ambiguitätstoleranz
-Ambilight/S #name
 ambilokal/A
 Ambitionsniveau/S
 Ambitus
@@ -901,10 +878,7 @@ ambulantisiert/A
 ambulantisiertest
 Amelia/S #name
 Amelioration
-America First #eng
-American Way of Life
 Americano/S
-Amerigo Vespucci/S #name
 AMEX #name
 AMG/S #name #abk
 Amigo/S
@@ -1020,7 +994,6 @@ Anfrageprozess
 Anfrageprozesse/NS
 Anfragevolumen/S
 angeblafft/A #ugs
-Angebots-Nr.
 angebotsbasiert/A
 angebotsbezogen/A
 Angebotseinholer/NS
@@ -1035,8 +1008,6 @@ angehetzt
 angekaut/A
 Angeld
 angeleckt/A
-Angelina Jolie/S #name
-Angelo/S #name
 angemailt #ugs
 Angemessenheitsanalyse/N
 Angemessenheitsbeschluss
@@ -1050,7 +1021,7 @@ angerotzt/A #ugs
 angeschissen #ugs
 angeschmissen #ugs
 angeschmuddelt/A #ugs
-angestupst  #ugs
+angestupst #ugs
 angesurft #ugs
 angetäuscht/A
 angeteasert/A
@@ -1429,8 +1400,6 @@ apperzipierend/A
 apperzipierst
 apperzipiert/A
 apperzipiertest
-Apple Pages #name
-Apple Pencil/S #name
 Appliance/S
 Applikabilität
 Applikant
@@ -1446,8 +1415,6 @@ Approbationsurkunde/N
 Approbationsverfahren/S
 Approximationsfehler/NS
 Apraxie/N
-Après-Ski
-Après-Ski-Party/S
 aprikosengroß/A
 Aptamere/N
 Aquajogging
@@ -1504,7 +1471,6 @@ Arboristin
 Arboristinnen
 ArbSchG
 Arcaden #name
-Arch Linux #name
 Archaeopteryx #name
 archäogeophysikalisch/A
 Archipel-de-Mingan
@@ -1541,8 +1507,6 @@ Aromaöl/S
 Aromaöle/N
 Aromapad/S
 Aromatase
-aromaversiegelt/A
-Aromenvielfalt
 Aroundtown/S #name
 Arpeggio/S
 Arrak/S
@@ -1552,12 +1516,8 @@ Arrhenius-Gesetz
 Arrhenius-Gesetzes
 Arrondierungsfläche/N
 Arslan/S #name
-Art Director/S
-Art.-Nr. #abk
 artenschutzrelevant/A
 Articulatio
-Artificial Intelligence #eng
-Artikel-Nr.
 Artsiom/S #name
 Arvato/S #name
 Asana/S #name
@@ -1571,7 +1531,6 @@ Aschehäufchen/S
 Aschemann/S #name
 Aschesauger/NS
 ASD #abk
-ASD-Nr.
 Asgard/S #name
 Ashwagandha
 Asiatika
@@ -1596,7 +1555,6 @@ Assimilationsdruck/S
 Assistentinnenrolle
 assistiv/A
 Assmann/S #name
-Associated Press #name
 Associates #name #eng
 Association/S #eng
 Astaxanthin
@@ -1612,7 +1570,6 @@ Astronomieturm/S
 Äsung
 Asystolie
 AT #abbr
-Atalanta Bergamo/S #name
 atemberaubender/A
 Athanasios #name
 Atherom/SE
@@ -1666,7 +1623,6 @@ Auditvorbereitung
 Auditzeit
 Auditzeiten
 Auenbäume/N
-Auenhauser Weg/S #name
 Auenpflanze/N
 Auerswald/S #name
 Aufarbeitungskommission
@@ -1719,7 +1675,7 @@ aufgekeucht
 aufgelasert/A
 aufgemessen/A
 aufgepackt/A
-aufgepimpt  #ugs
+aufgepimpt #ugs
 aufgeploppt #ugs
 aufgeraucht/A
 aufgereinigt/A
@@ -1770,10 +1726,10 @@ aufmessend/A
 aufmesst
 aufmisst
 aufmontiert/A
-aufpimpe  #ugs
-aufpimpen  #ugs
-aufpimpst  #ugs
-aufpimpt  #ugs
+aufpimpe #ugs
+aufpimpen #ugs
+aufpimpst #ugs
+aufpimpt #ugs
 aufploppe #ugs
 aufploppen #ugs
 aufploppend/A
@@ -1833,7 +1789,6 @@ Auftragschweißen/S
 Auftragsentkopplungspunkt
 Auftragsentkopplungspunkte/NS
 Auftragserteilungsdatum/S
-Auftragsnr. #abk
 auftragsrelevant/A
 Auftretensweise/N
 auftuend/A
@@ -1894,7 +1849,7 @@ aufzumischen
 aufzumontieren
 aufzupacken
 aufzupflügen
-aufzupimpen  #ugs
+aufzupimpen #ugs
 aufzuploppen #ugs
 aufzupressen
 aufzupusten
@@ -1930,7 +1885,6 @@ Augenbrauenpinsel/NS
 Augenjucken/S
 Augenlidstraffung
 Augenlidstraffungen
-Augmented Reality
 Augmented-Reality-Brille/N
 Augustusstatue/N
 auktionierend/A
@@ -2108,8 +2062,6 @@ Ausstrahlungszeiten
 Ausstreifbeutel/NS
 austauschpflichtig/A
 Austerschulte/S #name
-Austin Powers #name
-Austrian Airlines
 Auswahlermessen/S
 Auswaschverhalten/S
 Auswechselvorgang/S
@@ -2260,7 +2212,7 @@ AVS #abk #name
 AVUS
 AVV/S #abk
 AW #abk
-Awareness  #engl
+Awareness #engl
 AWS
 AwSV #abk
 Axialgelenklager/NS
@@ -2281,7 +2233,6 @@ AZ #abk
 Azadeh/S #name
 Azathioprin
 Aztekenherrscher/NS
-Azubi-Ident-Nr.
 Azubiaufgabe/N
 Azubigehalt/S
 Azubigehälter/N
@@ -2317,8 +2268,6 @@ backofenfest/A
 Backoffice/S #eng
 Backofficesales
 Backpulvergemisch/S
-Backstage/S
-Backstreet Boy/S #name
 Backstubenleiter/NS
 Backstubenleiterin
 Backstubenleiterinnen
@@ -2360,7 +2309,6 @@ Bag/S
 Bagatellverstoß
 Bagatellverstöße/N
 Bagatellverstoßes
-Baggy Pants #eng
 Bahai
 Bahaitum/S
 Bahlingen/S #name
@@ -2369,7 +2317,6 @@ Bahrdorf/S #name
 Bahrenfeld/S #name
 Baier/S #name
 Baileys #name
-Baked Beans #eng
 Bakersfield/S #name
 Bakterienschüttler/S
 bakterienspezifisch/A
@@ -2459,7 +2406,6 @@ Basenji
 Basensättigung
 bashen
 Bashing/S #eng
-Basic Needs #eng
 Basilarmembran
 Basilikumsamen/S
 Basisreproduktionszahl
@@ -2473,7 +2419,6 @@ Batch-Processing/S #eng
 Batchprocessing/S #eng
 Bathseba/S #name
 Batikklamotten
-Batman and Robin
 batteln
 Battle/S #eng
 Battlefield/S #name
@@ -2549,7 +2494,6 @@ BBW/S #name #abk
 BCDI #abk
 BCG/S #abk #name
 BCS #abk
-Bd.
 BDI #abk
 BDM #abk
 BDSU
@@ -2629,13 +2573,8 @@ bedingungsgemäß/A
 Bednorz #name
 Bedürfnisweckung
 Beef #eng
-Beef Brisket/S #eng
 Beendigungsformel/N
 Beermann/S #name
-Beerpong/S
-Beethovenallee
-Beethovenstück/S
-Beethovenstücke/NS
 Beetle/S #name #eng
 Beetpflanze/N
 Beetrand
@@ -3021,7 +2960,6 @@ Besorgungsarbeiten
 bespiegelt/A
 besprech #ugs
 Besprinklerung
-Best Practice/S #eng
 Best-of-Alben
 Best-of-Album/S
 Best-of-CD/S
@@ -3035,10 +2973,8 @@ Bestätigungsmail
 Bestäubungsdienstleister/NS
 Bestehenszeit
 Bestehenszeiten
-Bestell-Nr.
 Bestellbarkeit
 bestellberechtigt/A
-Bestellungs-
 Bestellungsbestätigung
 Bestellungsbestätigungen
 Bestellungsdetails
@@ -3225,9 +3161,6 @@ Biesen
 Bieterliste/N
 Bieterrückmeldung
 Bifteki #name
-Big Brother/S #name
-Big Buddha/S #name
-Big Data/S #eng
 Big-Mac-Index
 Biggi/S #name
 Bikarbonatpuffer/NS
@@ -3263,15 +3196,12 @@ Billabong/S #name
 Billhorner #name
 BillPay/S #name
 Billund/S #name
-Billy the Kid
 biloba
 BIM #abk
 Bimodalität
-bin Salman/S #name
 Binance
 bindungsarm/A
 bindungsrelevant/A
-Bing Search #name
 Bing/S #name
 Binge-Watching/S
 Binningen/S #name
@@ -3322,7 +3252,6 @@ Birkner/S #name
 Birmane/N
 birnenartig/A
 Birte/S #name
-bis denne #ugs
 Bischofsgrün/S #name
 Bischofswerda/S #name
 Bismarckdenkmal/S
@@ -3336,7 +3265,6 @@ BitLocker #name
 BitLocker/S #name
 Bitpanda/S #name
 Bitrix #name
-Bitter Lemon/S #eng
 Bitterkuvertüre/N
 Bitterorange/N
 Bittformel/N
@@ -3349,8 +3277,6 @@ BKH #abk
 BKT
 blablabla #ugs
 BlaBlaCar/S #name
-Black Box
-Black Friday Week/S #eng #name
 Black-Lives-Matter-Movement/S #name
 BlackBerry/S #name
 Blackboxes
@@ -3359,7 +3285,6 @@ Blackmail/S #eng
 Blackrock/S #name
 BlackRock/S #name
 Blacky/S #name #eng
-Blade Runner/S #eng
 Blade-Server/NS
 Blagen #ugs
 Blankenhain/S #name
@@ -3469,7 +3394,6 @@ Boardtyp/S
 Boardtypen
 Boateng/S #name
 Bobbio/S #name
-Bobbycar/S
 Bobingen/S #name
 Bodemann/S #name
 Bodenbeschichtungssystem/S
@@ -3488,10 +3412,8 @@ Bodyshape-Leggings
 Bodyshaping/S #eng
 Bodysuit/S #eng
 Bodywork
-Bœuf Bourguignon
 Bogenhofen/S #name
 Bogner/S #name
-Bohemian Rhapsody #en
 Böhmer/S #name
 Bohrmuldenschlüssel/NS
 Bohrpfahlbeton/S
@@ -3500,7 +3422,6 @@ Bohrpfahlwände/N
 Bohrungskomplettierung
 Bohrungstiefe/N
 Bokel/S #name
-Boko Haram
 Boldt/S #name
 Bolivariana #name
 Böllenfalltor/S #name
@@ -3599,7 +3520,6 @@ BPA #abk
 BPMN #abk
 BPS #abk
 Brackel/S #name
-Brad Pitt/S #name
 Bradley/S #name
 Bradykinese
 Brăila/S #name
@@ -3831,7 +3751,6 @@ Büchsenmacherhandwerk/S
 Buchtenhaltung
 buchungsfähig/A
 Buck/S #name
-Bucket List #eng
 Buddy/S #name
 Buderus #name
 Büfettvorschläge/N
@@ -3881,8 +3800,6 @@ Burgos #name
 Bürgstadt/S #name
 Burgstaller/S #name
 Burgunderviertel/S
-Burj Khalifa/S
-Burkard/S #name
 Bürkle/S #name
 Burmeister/S #name
 Burmester/S #name
@@ -3904,8 +3821,6 @@ Buschenschankgesetz
 Buschenschankgesetzes
 Buschenschanktradition
 Büsenbachtal/S #name
-Business Angel/S #eng
-Business Model Canvas #eng
 Business-Class
 Business-to-Business
 Business-to-Consumer
@@ -3961,7 +3876,6 @@ Calenberger #name
 Cali #name
 Calibri/S #name
 Caligiuri/S #name
-Call of Duty/S #name
 Call-to-Action #eng
 Callcentergespräch/S
 Callcentergespräche/NS
@@ -3999,7 +3913,6 @@ Cancún/S #name
 Candle-Light-Dinner
 Candle-Light-Dinnern
 Candle-Light-Dinners
-Candy Crush #name
 Canesten #name
 Canitz #name
 Cannabidiole
@@ -4018,14 +3931,9 @@ Cannon-Bard-Theorie
 Cantillon #name
 Capcom #name
 Capgemini/S
-Capital Bra #name
-Capitol Hill #name
-Capitol Hill/S #name #eng
 Capitol/S #name #eng
 Capo
 Cappuccini
-Captain Cook/S #name
-Captain Kirk/S
 Car-Jacking/S #eng
 Car-Sharing/S
 car2go/S #name
@@ -4040,8 +3948,6 @@ CarDelMar/S #name
 Cardio
 Cardio-Training/S
 cardiovaskulär/A
-Career Day
-Career Day/S #name
 Caren/S #name
 Carfentanyl
 Cargobike/S
@@ -4085,7 +3991,6 @@ Casio/S #name
 Caspar-Voght-Schule #name
 Cassandra/S #name
 Castañeda/S #name
-Castel Gandolfo
 Castingshow/S
 Castle/S #eng
 Catalent #name
@@ -4160,7 +4065,6 @@ CGN #abk
 CH #abbr
 Chabert/S #name
 Chai
-Chai Latte #name
 Chairman #eng
 Chairmen #eng
 Chaise/N
@@ -4169,14 +4073,12 @@ Challenge/S
 champagnerblond/A
 Champagnertheke/N
 Championship/S #eng
-Champs-Élysées
 Chancenkonto/S
 Change/S #eng
 Changelog/S #eng
 Changeset/S
 Channeling/S
 Chantal/S #name
-Chaos Communication Congress #name
 Chaosbedingungen
 Chaoshöhle/N
 Chaoskampf
@@ -4205,7 +4107,6 @@ Check-in-Automaten
 Check-in-Schalter/SN
 Check-in/S
 Check-out/S #eng
-Checked Swing
 Checker/S
 Cheddar
 Cheerleading
@@ -4226,7 +4127,6 @@ Cheryl/S #name #eng
 Chester/S #name
 Chesterton/S #name
 Chevreuse #name
-Chevrolet Tahoe #name
 Chiapudding/S
 Chiara/S #name
 Chick-fil-A/S #name
@@ -4266,7 +4166,6 @@ Chloroquin
 Chlorothalonil/S
 Chlorreiniger/NS
 Chlortablette/N
-Chocolate Chip Cookies
 Chodowiecki/S #name
 Cholangitis
 Cholin/S
@@ -4281,10 +4180,6 @@ Christianismus
 Christkinddorf/S
 Christoffel/S #name
 Christologien
-Chrome-Add-on/S
-Chrome-Plug-in/S
-Chrome-Plugin/S
-Chromebook/S #name
 chromgegerbt/A
 chromglänzend/A
 Chromring/S
@@ -4295,7 +4190,6 @@ Chronotypen
 Chrupalla/S #name
 Chunk/S #eng
 Chunking/S #eng
-Chupa Chups #name
 Churros
 Chymotrypsin
 Chymotrypsinogen/S
@@ -4409,14 +4303,12 @@ coden
 Codesharing/S #eng
 Codewars
 Codierungsbuch/S
-Coding School #eng
 Coding/S
 Coenen/S #name
 Coenzym/S
 Coenzyme/N
 Cofaktor/S
 Cofaktoren
-Coffee to go
 Coffee-to-go
 Coffee-to-go-Shop/S
 Coiffeurgeschäft/S
@@ -4426,12 +4318,9 @@ Coiffeurwartestuhl/S
 Coiffeurwartestühle/N
 Coiffeuse/N
 Coimbatore #name
-Coin Master/S #name
 Coke #name
 Colberg-Heldburg/S #name
 Colbitz #name
-Cold Case/S
-ColdFusion/S #name
 Coldplay/S #name
 Coleoptera
 Coleslaw/S #eng
@@ -4462,12 +4351,7 @@ committet
 committete
 committeten
 committetest
-Common Law #eng
-Common Voice
 Communitymaske/N
-Compact Disc/S #eng
-Compact Disk/S #eng
-Complex Event Processing
 Compliance-Abteilung
 Compliance-Abteilungen
 Compliance-Beauftragte/N
@@ -4477,18 +4361,13 @@ Compoundbögen
 Compoundbogen/S
 Compoundkern/S
 Compoundkerne/NS
-CompuGroup Medical/S #name
 computerlinguistisch/A
 computertomografisch/A
 Computing/S #eng
-Concept Art/S #eng
-Concept Store/S #eng
 Concept-Car/S #eng
 Conchita/S #name
 Conchotomie/N
 Conergy #name
-Confed Cup/S #name
-Confederations Cup/S #name
 Config-File/S
 Confluence #name
 Congstar/S #name
@@ -4499,7 +4378,6 @@ Connectivity #eng
 Conradt/S #name
 Consorsbank/S #name
 Constantinescu/S #name
-Consumer Reports #name
 Contact-Tracing-App/S
 Containergestellung
 Content-Marketing/S
@@ -4508,15 +4386,12 @@ Contentbereich/S
 Contenterstellung
 Contentstrategie/N
 Continentale #name
-Continuous Delivery #eng
-Continuous Deployment/S #eng
 Control/S #eng
 Controllersteuerung
 Controllingmitarbeiter/NS
 Controllingmitarbeiterin
 Controllingmitarbeiterinnen
 Converse #name
-Conversion Rate
 Conversion/S #eng
 COO #abk
 Cookiehinweis
@@ -4543,7 +4418,6 @@ Cordura #name
 Cordycepinsäure
 Core/S #eng
 Corel #name
-Corendon Airlines #name
 Coriolis-Kraft
 Coriolis-Kräfte/N
 Corlette/N
@@ -4598,15 +4472,9 @@ Coronaviridae
 Coronavirus
 Coronazeit
 Coronazeiten
-Corporate Governance #eng
-Corporate Identities #eng
-Corporate Identity #eng
-Corporate Social Responsibilities #eng
-Corporate Social Responsibility #eng
 Corporate/S #eng
 Corrina/S #name
 Corsair #name
-Cortal Consors
 Cortana #name
 Cortisolantwort
 Cortisoneinnahme/N
@@ -4617,10 +4485,6 @@ Cosima/S #name
 Cosma/S #name
 CosmosDirekt/S #name
 Cosplayer/NS
-Cost per Acquisition #eng
-Cost per Action #eng
-Cost per Click #eng
-Cost per Lead #eng
 Cost-per-Hire
 Cottage/S
 Cotton/S #eng
@@ -4630,7 +4494,6 @@ Couchpotatoes #eng
 Couleurfahrt
 Couleurfahrten
 Coulombbarriere/N
-Counter Strike/S #name
 Counterpart/S #eng
 County/S #eng
 Couponfeld/S
@@ -4644,7 +4507,6 @@ Coutinho/S #name
 Coversong/S
 Covestro #name
 COVID
-Covid-19/S #name
 Covidiot #ugs
 Covidioten #ugs
 Cowboyslang/S
@@ -4675,7 +4537,6 @@ crashten #eng
 Crawford/S #name
 Crawler/NS
 Creative-Commons-Lizenz
-Credit Suisse #name
 Creditreform/S #name
 Credits
 Cremekuchen/S
@@ -4725,7 +4586,6 @@ Cruiser/S #eng
 Cruising/S #eng
 cruist #eng
 Crumble
-Crystal Meth
 CS #abk
 CSI/S #name
 CSV
@@ -4739,17 +4599,12 @@ CTS #name
 Cuenca #name
 Cuisine
 Culmitz #name
-culpa in contrahendo
-Cunnersdorf/S #name
 Curevac/S
 CureVac/S #name
 Curitiba/S #name
 Curriculumsänderung
 Curriculumsänderungen
 Cursorfunktion
-Customer Care/S #eng
-Customer Journey #eng
-Customer Journey/S
 Customization
 Customizations #eng
 Customizing
@@ -4822,8 +4677,6 @@ DAP #abk
 Daphnien
 Daria/S #name
 Dario/S #name
-Darjeeling/S
-Dark Room/S #eng
 Darkroom/S #eng
 Darlegungslast
 Darlegungslasten
@@ -4839,14 +4692,11 @@ dartet
 dartete
 darteten
 dartetest
-Darth Vader/S
 Dartspielen/S
 darübergießen #todo
-Darʿā #name
 Dasing/S #name
 Dasinger #name
 DAT
-Data Warehouse #eng
 Data-Mining/S #eng
 Datamining/S #eng
 Dataport/S
@@ -4907,10 +4757,6 @@ dazwischenzuwerfen
 DD #abk
 DD-WRT/S #name
 DDP/S #abk
-de luxe
-De Niro/S #name
-de Vries #name
-Dead Heat/S #eng
 Deadheat/S
 Deadlock/S
 DEB
@@ -4944,7 +4790,6 @@ Decompiler/S #eng
 dediziere/N
 dedizierst
 Deejay/S
-Deep Learning/S
 Deep-Learning-Forschung
 Deep-Tech
 Deepfake/S #eng
@@ -5035,10 +4880,6 @@ deliktspezifisch/A
 deliktsunfähig/A
 Deliktsunfähigkeit
 delirant/A
-Delitzscher #name
-Delivery Hero/S #name
-Delkredere
-Dellwarze/N
 Delvaux #name
 Demenzgruppe/N
 Demenzrisiko/S
@@ -5175,7 +5016,6 @@ DGE #abk
 DGUV
 DHBW #abk
 DHT #abk
-Di.
 Diabetesschulung
 Diabetesschulungen
 Diabetesversorgung
@@ -5187,7 +5027,6 @@ Diagnostikphase/N
 Diakonissenarbeit
 Dialektbereich
 Dialer/SN
-Dialog Semiconductor/S #name
 Dialysepflichtigkeit
 Diaminoxidase
 Diamond-Bay-Klippen
@@ -5209,14 +5048,11 @@ Dichtestress
 Dichtestresses
 Dichtezusammenhang/S
 dichtschließend/A
-Dick Cheney #name
 Dickens #name
 Dickentoleranz
 Dickentoleranzen
-Dickpic/S #eng #ugs
 Dickung
 Dickungen
-Diclofenac/S #name
 Didaktiklehrer/NS
 Didaktiklehrerin
 Didaktiklehrerinnen
@@ -5224,7 +5060,6 @@ Diedesfeld/S #name
 Diekmann/S #abk
 Dielung
 Dielungen
-Diemelsee/S  #name
 Dieneruniform
 Dieneruniformen
 Dienstbarkeiten
@@ -5248,7 +5083,6 @@ dieswöchigem
 dieswöchigen
 dieswöchiger
 dieswöchiges
-Dieter Nuhr/S #name
 Dietkirchen/S #name
 Dietz #name
 Dietze/S #name
@@ -5316,15 +5150,8 @@ Dinnershow/S
 Diodor/S #name
 Dioxinhöchstbelastung
 Dioxinhöchstbelastungen
-Dipl.-Inf. #abk
-Dipl.-Inform. #abk
-Dipl.-Kfm.
-Dipl.-Päd.
-Dipl.-Päd. #abk
 Diplokokken
 Diplomatik
-Director's Cut #eng
-Director’s Cut #eng
 Direktabhebungsfunktion
 direktiver/A
 Direktmailing/S
@@ -5332,7 +5159,6 @@ direktorial/A
 Dirichletform
 Dirigierarbeit
 Dirnenunterkünfte/N
-Dirty Talk/S #eng
 Disengagement
 Diskonfirmation
 Diskonter/NS
@@ -5367,7 +5193,6 @@ dispositioniert/A
 Disruption
 Disruptionen
 Disruptionsphase/N
-Diss.
 Dissektor/S
 Dissektoren
 Dissertant
@@ -5430,7 +5255,6 @@ DocuSign/S #name
 DOCX #abk
 Dödel/S
 Doerte/S #name
-Dogs of Berlin #name
 Dogwalking
 Döhring/S #name
 dokimastisch/A
@@ -5458,7 +5282,6 @@ Dominanzgebaren/S
 Domingo/S #name
 Dominico/S #name
 Dominikus #name
-Donald Duck/S
 Donatello/S #name
 Donath/S #name
 Dönerläden
@@ -5536,8 +5359,6 @@ Dotcomunternehmen/S
 Dotierungsdichte/N
 Dotwork
 Douglas #name
-Dow Chemical #name
-Dow Jones Industrial #name
 downcyceln
 Downcycling
 Downloadcenter/S
@@ -5567,7 +5388,6 @@ Dozentenprofil/S
 Dozentenprofile/N
 Dozententeam/S
 DPMA/S #name #abk
-Dr.in
 Draft/S #eng
 Drag-and-drop #eng
 Drag-and-Drop #eng
@@ -5738,7 +5558,6 @@ DSSV #abk
 DSV/S #abk #name
 DTAG #abk
 DTL/S #abk
-Dual Use
 Dual-Vorwärtszähler/NS
 Duathlon
 Dübelung
@@ -5751,13 +5570,10 @@ Ducati/S #name
 Duce
 Duchenne
 DuckDuckGo/S #name
-duckmäuserisch/A
-Dudenhofen/S #name
 Dudweiler/S #name
 Due-Diligence-Checkliste/N
 Due-Diligence-Prüfung
 Due-Diligence-Prüfungen
-duktal/A
 Duldungsanspruch/S
 Duldungsanspruches
 Duldungsantrag/S
@@ -5964,15 +5780,12 @@ E-Scooter/SN
 E-Shisha/S
 E-Sports
 E-Wallet/S
-E.ON/S #name
-EA Sports #name
 EA/S #name #abk
 EAC #abk
 EagleRider/S #name
 Earbuds #eng
 Eastminster/S #name
 easy #eng
-Easy Rider/S #eng
 Easybank/S #name
 easyJet/S #name
 EasyJet/S #name
@@ -6022,8 +5835,6 @@ Eco-Modi
 Eco-Modus
 Ecolab #name
 Economy #eng
-Economy Class #eng
-Economy-Class #eng
 Economyclass
 Ecosia/S #name
 Eddi/S #name
@@ -6045,16 +5856,13 @@ Edukanden
 Edukandin
 Edukandinnen
 Eemshaven/S #name
-eene meene
 EEWärmeG #abk
 Effektmodifikation
 Effektwissen/S
 efferent/A
 Effertsbach/S #name
 Effi #name
-Effi Briest
 effizienzsteigernd/A
-Effretikon/S #name
 EFQM #abk
 Egalitätsprinzip/S
 Égalité
@@ -6095,17 +5903,13 @@ Eichler/S #name
 eichrechtlich/A
 eichrechtskonform/A
 Eickhoff/S #name
-Eid al-Adha
-Eid al-Fitr
 Eidelstedt/S #name
 eiderdänisch/A
 Eidesschwur/S
-eidg. #abk
 Eidleistende/N
 Eidleistender
 Eidschwur/S
 Eiergraupe/N
-eig. #abk
 Eigelegen
 Eigenanreise/N
 eigenethnisch/A
@@ -6456,10 +6260,6 @@ Ekaterina/S #name
 EKG/S #abk
 Ekloge/N
 EKT #abk
-El Arenal
-El Arenal/S #name
-El Chapo/S #name
-El Clásico
 Elaborationsstrategie/N
 Elaboriertheit
 Elaine/S #name
@@ -6475,8 +6275,6 @@ Elbstation
 Elbstiftung
 Elbuferpromenade/N
 Eleanor/S #name
-Electoral College/S #eng #name
-Electronic Book/S #eng
 Elektivzentrum/S
 Elektra #name
 Elektrifizierungsstrategie/N
@@ -6522,15 +6320,12 @@ Eliminationsdiät
 Eliminationsdiäten
 Eliot/S #name
 Elisabetha/S #name
-Elise-Bartels-Straße #name
 Elitenkritik
-Elizabeth Warren/S #name
 Ellebach/S #name
 Ellenbeuge/N
 Elliot/S #name
 Ellmeier/S #name
 Elmina/S #name
-Elon Musk/S #name
 Eloxal
 Eloxalanlage/N
 Eloxalschicht
@@ -6553,7 +6348,6 @@ Elsenfeld/S #name
 Eltern-Kind-Beziehung
 elternbedingt/A
 elternfreundlich/A
-Elton John/S
 Elton/S #name
 Elva/S #name
 Elztal/S #name
@@ -6580,7 +6374,6 @@ Embolus
 Embrach/S #name
 EMEA/S #abk
 Emeli/S #name
-Emerging Market/S #eng
 Emerson/S #name
 Emetophobie
 EMG #abk
@@ -6611,10 +6404,6 @@ empfindbar/A
 Empfindlichkeitsanalyse/N
 Empfindlichkeitstestung
 Empfindlichkeitstestungen
-Empire State Index
-Empire State Indexes
-Employer Branding #eng
-Employer Reputation #eng
 emporzutauchen
 emporzutragen
 emporzutreiben
@@ -6659,18 +6448,15 @@ energiesparsamsten
 energiesparsamster
 energiesparsamstes
 energiespeichernd/A
-Energy Drink/S
 Energy-Drink/S #eng
 Engagementnachweis
 Engagementnachweise/NS
 Engelein
 Engelhardt/S #name
-Engelhartszell/S #name
 Engelke/S #name
 Engelmann/S #name
 Engelsflügelchen/S
 Engineer/S #eng
-Engler-Bunte-Institut/S #name
 Englert/S #name
 Engnisse/N
 Engramm/S
@@ -6907,8 +6693,6 @@ EPU #abk
 EQ #abk
 EQC/S #name
 EQS #abk
-Equal Pay Day/S
-Equilibrium/S
 Erarbeitungsverfahren/S
 Erarbeitungszeit
 Erarbeitungszeiten
@@ -7193,8 +6977,6 @@ Escortherren
 Escortservice/S #eng
 ESET/S #name
 ESG #abk
-ESG #abk
-ESG #abk: 2
 ESG-konform/A
 ESG-Kriterien
 ESG-Kriterium/S
@@ -7248,19 +7030,16 @@ etatisiertest
 ETFE #abk
 Ethen
 Ethernet/S #eng
-Ethical Fashion
 Ethnienvermischung
 ethnisiert/A
 Ethno-Look/S
 ethnomethodologisch/A
 Ethoxyquin/E
-Etihad Airways #name
 Etikettierungsansatz
 Etikettierungsansatzes
-Etsy  #name
+Etsy #name
 Ettenheim/S #name
 Ettmannsweiler/S #name
-etw.
 etymologisiert
 EU-DSGVO
 Eudaimonia
@@ -7273,8 +7052,6 @@ Eukalyptusarten
 Eukalyptusholz
 Eunomie
 Euphorisierung
-EURO STOXX
-Euro Stoxx #name
 Eurocom #name
 EURONICS #name
 Europcar #name
@@ -7293,7 +7070,6 @@ euthanasiertest
 euthym/A
 Eutopie
 EV #abk
-ev. #abk
 Evakuationsanlage/N
 Evakuierungspunkt/S
 Evakuierungspunkte/NS
@@ -7391,7 +7167,6 @@ Expressunternehmen/S
 Expressverfahren/S
 Exsikkose
 external/A
-Extinction Rebellion/S #name
 extragalaktisch/A
 Extraktionstechnik
 Extraktionstechniken
@@ -7405,7 +7180,6 @@ extremophil/A
 extremsportbegeistert/A
 Extrusionstechnik
 EXW
-Exxon Mobil/S #name
 ExxonMobil/S
 Exzenterschneckenpumpe/N
 Exzitabilität
@@ -7502,7 +7276,6 @@ Fahrzeugkombi/S
 Fahrzeugkran/S
 Fahrzeugkrane/NS
 fahrzeugunabhängig/A
-Fair Fashion
 Fair-Use-Policy
 Fairfax #name
 Fairnessgedanke
@@ -7535,8 +7308,6 @@ Fällungsgenehmigung
 Fällungsgenehmigungen
 Fällzeiten
 Falschparken/S
-False Friends #eng
-False Positive/S #eng
 Faltenbalgventil/S
 Faltenbalgventile/N
 Falterfutterpflanze/N
@@ -7650,7 +7421,6 @@ Faulturmreinigungen
 Favicon/S
 Favoritenprodukt
 Favoritenprodukte/NS
-Fax-Nr.
 Faxbestätigung
 Faxbestätigungen
 Faxdokument
@@ -7663,7 +7433,6 @@ Fazle-Omar-Moschee
 FB #abk
 FBA/S #abk #name
 FBH #abk
-FC Everton
 FCB/S #abk
 FCI #abk
 FCK #abk
@@ -7671,7 +7440,6 @@ FDA #name
 FDG #abk
 featuren #eng
 Fed-Chef/S
-Federal Express
 Federstähle/N
 federunterstützt/A
 Feedbackbearbeitung
@@ -7742,12 +7510,8 @@ Felgenveredelung
 Felice/S #name
 Felicia/S #name
 felin/A
-Femidom/S
 Feminismusbewegung
-Femme fatale
-Fendt/S #name
 Fenestron
-Feng Shui
 Fengler/S #name
 Fenja/S #name
 Fennoskandien/S #name
@@ -7862,7 +7626,6 @@ Fichtner/S #name
 Fidelia/S #name
 Fidelio
 Fidelity #eng
-Fidor Bank #name
 Fidor/S #name
 Fieguth/S #name
 Fiesheit
@@ -7909,7 +7672,6 @@ Filtrationszeit
 Filtrationszeiten
 Filzer/NS
 FIN #abk
-Fin de Siècle
 Finaldrama/S
 Finalkoordinaten
 Finance #eng
@@ -7955,8 +7717,6 @@ firmtest
 Firmvorbereitung
 Firmvorbereitungen
 Firmwares #eng
-first class
-First Mover/S #eng
 first-class
 Firstanschluss
 Firstanschlussziegel/NS
@@ -7966,7 +7726,6 @@ Fischgrätmuster/NS
 Fischlein/S
 Fischotterschutz
 Fischotterschutzes
-Fish and Chips
 Fisher-Information
 Fisher-Informationsmatrix
 Fiskalisierung
@@ -8125,10 +7884,6 @@ Fluoreszenzveränderung
 Flüssigerdgas/E
 Flüssigkeitsverhalt/S
 Flüsterlautstärke
-Fly Egypt/S #name
-Fly Emirates #name
-Flying Dutchman #name
-Flying Food/S #eng
 FM #abk
 FMC/S #name
 FMCG #abk #eng
@@ -8259,7 +8014,6 @@ Fotosyntheseleistung
 Fotovoltaikbranche
 Foundation/S
 Founder/SN
-Fox News
 Foxconn/S #name
 FP/S #abk
 FPLC #abk #name
@@ -8302,20 +8056,10 @@ Frederick/S #name
 Frederik/S #name
 Frederiksen/S #name
 Fredrik/S #name
-Free Float/S #eng
-Free Flow/S #eng
-Free Now/S #name
-Free Riding/S #eng
-Free Skiing/S #eng
 Freefloat/S #eng
 Freeflow/S #eng
 Freelancerin
 Freeman/S #name
-Freemium-Account/S
-Freemium-Dienst/E
-Freemium-Dienstes
-Freemium-Modell/S
-Freemium/S #eng
 freenet/S #name
 Freenet/S #name
 Freeriding/S #eng
@@ -8329,7 +8073,7 @@ Freibadwetter/S
 freidenkend/A
 Freifräsung
 Freifräsungen
-freigerubbelt/A  #ugs
+freigerubbelt/A #ugs
 freigetestet/A
 freihatte
 freihatten
@@ -8372,7 +8116,6 @@ Fremdzündungsmotor/S
 Fremdzündungsmotoren
 Frenzel/S #name
 frequent/A
-Fresenius Medical Care/S #name
 Freshdesk/S #name
 freudebringend/A
 Freundesclique/N
@@ -8467,13 +8210,10 @@ Frustrationserleben/S
 Frustrationserlebnis
 Frustrationserlebnisse/NS
 Frustwähler/NS
-FS #abk
-FSK
 FT/S #name
 FTI/S #name
 FTPS #abk
 FTS #abk
-Fuchs Petrolub/S #name
 Fuchsia/S
 Fuckboy/S #ugs
 Fugenverdübelung
@@ -8496,8 +8236,6 @@ Führungsteamentwicklung
 Fujiwara #name
 Fulbright-Stipendien
 Fulbright-Stipendium/S
-Full Metal Jacket/S #name
-Full Service #eng
 Full-HD
 Full-Service-Dienstleister/NS
 Fullbuckle/S #eng
@@ -8505,8 +8243,6 @@ Füllenhof/S #name
 Füllstandssensor/S
 Füllstandssensoren
 Füllungstherapie/N
-Fun Fact/S #eng
-Fun/S #eng
 Funboard/S #eng
 Fundamentbalken/S
 Fundamenterder/NS
@@ -8591,7 +8327,6 @@ FYI #abk #ugs
 Fynn/S #name
 FZ #abk
 FZÄ #abk
-G Suite/S #name
 GA/S #abk
 Gabapentin/S
 Gabelhofen #name
@@ -8613,12 +8348,9 @@ Gaffer-Foto/S
 Gaffer-Video/S
 Gafferschutz
 Gafferschutzes
-Gaggenau/S #name
 Gaildorf/S #name
 Gaillard/S #name
 Galeazzi
-Galeria Karstadt Kaufhof/S #name
-Galeria Kaufhof/S #name
 Galette/S
 Galgos
 Galiamelone/N
@@ -8631,7 +8363,6 @@ Galonstreifen/S
 Galtür/S #name
 Galvanotechnik
 gambianisch/A
-Game of Thrones #name
 Gamechanger/NS #eng
 GameCube #name
 Gamemode/S
@@ -8723,7 +8454,6 @@ Gauklertrick/S
 Gauland/S #name
 Gauting/S #name
 Gazellenkamp/S #name
-Gazzetta dello Sport/S #name
 GDA/S #name #abk
 GDPR #abk
 GDPR-konform/A
@@ -8749,9 +8479,8 @@ geböllert
 Gebotsform
 Gebotsstrategie/N
 Gebotsverfahren/S
-Gebr. #abk
 gebrainstormt
-gebrauch  #Imperativ
+gebrauch #Imperativ
 Gebrauchsnormal
 Gebrauchsnormale/N
 gebrummelt/A
@@ -8925,7 +8654,6 @@ gemorst
 gemulcht/A
 Gemüseschäler/NS
 genadelt
-Gender Pay Gap/S #eng
 Gender-Gap/S
 Gender-Pay-Gap/S #eng
 gendere
@@ -9175,7 +8903,6 @@ Getrenntsammlungsquote/N
 Getrenntsammlungsquotient
 Getrenntsammlungsquotienten
 Getrenntsein/S
-Getty Images #name
 GetYourGuide/S
 Gewächshausbetrieb/S
 gewähr
@@ -9264,7 +8991,6 @@ Gipsformerei
 Gipsformereien
 Girardethaus #name
 Girardethauses #name
-Girls High School #eng
 Giselle/S #name
 Gispersleben/S #name
 Giswil/S #name
@@ -9273,7 +8999,6 @@ Git/S #name
 Giuliani/S #name
 Giuliano/S #name
 Giulietta/S #name
-Giuseppe Conte/S #name
 GKK/S #name #abk
 GL #abk
 GLA #abk #name
@@ -9369,15 +9094,10 @@ Gojibeere/N
 Gojim
 Goldach/S #name
 Goldbeck/S #name
-Golden Delicious
-Golden Globe/S
-Golden Goal/S
-Golden Retriever/S #eng
 Golderdbeere/N
 Golderz
 Golderze/NS
 Goldkronach/S #name
-Goldman Sachs
 Goldmarie
 Goldschmidt/S #name
 Goldschmiederei
@@ -9391,19 +9111,7 @@ Gomaringen/S #name
 Gombobohne/N
 Gommersheim/S #name
 Gondorf/S #name
-González #name
 goodbye #eng
-Goodie/S #eng
-Goodiebag/S
-Google Assistant/S #name
-Google Books #name
-Google Finance #name
-Google Meet/S
-Google Play/S #name
-Google Search #name
-Google Street View #name
-GoPro/S #name
-Gorch Fock
 Gordana/S #name
 Gordon/S #name
 Goretti #name
@@ -9494,7 +9202,6 @@ Granville/S #name
 graphematisch/A
 graphenorientiert/A
 Graphenoxid
-Graphic Novel/S
 Gräsergruppe/N
 Gräslein/S
 Gratifikationsforschung
@@ -9575,16 +9282,12 @@ größenveränderbar/A
 Großgründlach/S #name
 Großliebental/S
 Grossmann/S #name
-grosso modo
 Großpetersdorf/S #name
 großspannig/A
 Großvenediger/S #name
 großzumachen
 Grötzinger/S #name
 Group/S #eng
-Growth Hacker/SN #eng
-Growth Hacking/S #eng
-Grüffelo/S #name
 Gruftgewölbe/NS
 Gruga
 grünblättrig/A
@@ -9624,8 +9327,6 @@ GTX
 Guadalajara/S #name
 Guadix #name
 Guangdong/S #name
-Guardia Civil
-Guardiola/S #name
 guayusa
 Gubernative
 Guderian/S #name
@@ -9767,7 +9468,6 @@ halbgebacken/A
 halbgefüllt/A
 Halbherzigkeiten
 halbstandardisiert/A
-Hall of Fame #eng
 Hallaca/S
 Halloweenkostüm/ES
 Halloweenkostümen
@@ -9785,8 +9485,6 @@ Haltverboten
 HAM-Nat #abk
 Hamann/S #name
 Hämaturie/N
-Hamburg-Eidelstedt/S #name
-Hamburg-Iserbrook/S #name
 Hamilton/S #name
 hammermäßig/A
 Hämolymphe
@@ -9855,20 +9553,11 @@ Hanke/S #name
 Hankensbüttel/S #name
 Hannig/S #name
 Hanrath/S #name
-Hans Albers #name
-Hansa-Park/S #name
-Hänsch/S #name
-Hanseatic #name
-Hansi/S #name
-Hansjürg/S #name
 Hanstedt/S #name
 Hantelstange/N
 Hapag-Lloyd/S #name
 Happs
 HAProxy/S #name
-Hard Disk/S
-Hard Rock/S
-Hard- und Software
 Hardangerfjord
 Hardangerfjordes
 Hardegger/S #name
@@ -9963,21 +9652,9 @@ HD-TV/S
 HDD-Clock/S
 HDD/S #abk #eng
 HDI/S #name #abk
-Head-up-Display/S
-Head-up-Display/S #eng
-Head/S #eng
-Headerbild/S
-Headhunterin
-Headhunterinnen
-Headhunting/S #eng
-Headliner/SN #eng
 Headwriter/SN #eng
 Healthcare-Industrie
 Healthineers #name
-Heatmap/S
-Heatpipe/S
-Heatspreader/NS
-Heavy Metal/S
 hebammengeführt/A
 Hebammenmangel/S
 Hebammenwesen/S
@@ -10021,7 +9698,7 @@ heilerzieherisch/A
 Heiligenberg/S #name
 Heiligengeistfeld/S #name
 Heiligengeistfeldes #name
-Heiligengrabe/S  #name
+Heiligengrabe/S #name
 Heiligenwald/S #name
 Heilongjiang #name
 Heilpraktikerausbildung
@@ -10087,9 +9764,7 @@ Henkerbeil/S
 Henkerbeile/N
 Hennecke/S #name
 Hennigsdorf/S #name
-Henriette-Breymann-Gesamtschule #name
 Henschel/S #name
-Henstedt-Ulzburg/S #name
 Hentschel/S #name
 Hephata #name
 Heppner/S #name
@@ -10098,7 +9773,6 @@ herabgestreift
 Herabsendung
 herabzukühlen
 herabzuschlagen
-Heracleum mantegazzianum
 Heraeus #name
 Heraklion/S #name
 heranfliegend/A
@@ -10327,7 +10001,7 @@ herumprasst #ugs
 herumritt
 herumritten
 herumscharwenzelt #ugs
-herumschlurfen  #ugs #todo
+herumschlurfen #ugs #todo
 herumscrolle
 herumscrollens
 herumscrollst
@@ -10549,7 +10223,6 @@ Hi-Tech
 Hibakusha
 Hibiskusfrucht
 Hibiskusfrüchte/N
-Hidden Champion/S #eng
 HiDrive/S #name
 Hiebnummer/N
 Hiebzahl
@@ -10581,20 +10254,9 @@ hierherzugehören
 Hieroglyphenabfolge/N
 Hieronymuskloster/S
 Hietzing/S #name
-High Church
-High End
-High Fidelity
-High Heels
-High Impact #eng
-High Noon/S #eng
-High Potential/S
-High Snobiety
-High Society/S #eng
-High Speed/S
 High-End-Lösung
 High-End-Lösungen
 High-five-Geste/N
-High-Tech Gründerfonds #name
 High-Tech-Beschichtung
 High-Tech-Beschichtungen
 Highscore/S
@@ -12009,7 +11671,6 @@ Höflichkeitsanrede/N
 Höflichkeitslüge/N
 Hofstetten/S #name
 Hogenkamp/S #name
-Hohen-Cremmen/S #name
 Hohenburg/S #name
 Hohenhameln/S #name
 Hohenstein-Ernstthal #name
@@ -12018,12 +11679,10 @@ Hohenwarsleben/S #name
 Hohenwestedt/S #name
 höherentwickelt/A
 Hohkönigsburg/S #name
-Höhr-Grenzhausen #name
 Holding/S #eng
 Holdingstruktur
 Holdingstrukturen
 Holgerson/S #name
-Holiday on Ice #name
 Holidays #name
 Hollenbach/S #name
 Hollerblüten
@@ -12102,7 +11761,6 @@ Hookah/S
 Hopfensee/S #name
 Hoppe/S #name
 Höppner/S #name
-Horchata de Chufa
 Horchheim/S
 Horesca #name
 Horgenzell/S #name
@@ -12150,25 +11808,15 @@ hossa
 Hostingkosten
 Hostsystem/ES
 Hostwechsel/S
-Hot Pants #eng
-Hotfix #eng
-Hotfixes
-Hotkey/S
 Hotlinezeiten
-hotmail.com #name
 Houdini/S #name
 House #eng
-House of Cards #name
-House of Commons #eng
-House of Lords #eng
 Hoverboard/S
 Hövermann/S #name
-How I Met Your Mother #name
 Howard/S #name
 Howland/S #name
 Hoyer/S #name
 HRA #abk
-HRB # Handelsregister Abteilung B, sehr häufig im Impressum
 HRD
 HRIS
 Hrywnja
@@ -12184,8 +11832,6 @@ HU #abk
 Hubkolbenverdichter/NS
 HubSpot/S #name
 Huchenfeld/S #name
-Hücker-Aschen #name
-Huckleberry Finn/S
 Huesca #name
 hüftbreit/A
 Hüftkopfzentrum/S
@@ -12230,7 +11876,6 @@ Hundsrobbe/N
 Hünfeld/S #name
 Hunnenrede
 Hunspell/S #name
-Hunter Biden/S #name
 Hupenknopf
 Hupenknöpfe/N
 Huppertz #name
@@ -12352,7 +11997,6 @@ If-Satzes
 IFA
 IFC/S #name
 IFO #abk
-ifo Institut/S #name
 ifo-Barometer/S
 Ifo-Barometer/S
 ifo-Geschäftsklima/S
@@ -12489,14 +12133,12 @@ Inbetriebsetzungsformular/S
 Inbetriebsetzungsformulare/N
 Inbound
 Inbox
-Inc.
 Incheon #name
 Incidentmanager/NS
 Incoming/S #eng
 Indemnitätsgesetz
 Indemnitätsgesetzes
 Indemnitätsvorlage
-Independence Day/S #eng
 Independent-Studio/S
 Indersdorf/S #name
 Indersdorfer #name
@@ -12517,8 +12159,6 @@ Indoor
 Indra/S #name
 induktionsgeeignet/A
 Induktionswok/S
-Industrial Design/S #eng
-Industrial Designer/S #eng
 industriebezogen/A
 induzierend/A
 ineinanderzustecken
@@ -12558,7 +12198,6 @@ Infrastrukturlösung
 Infrastrukturlösungen
 Infrastrukturmerkmal/S
 Infrastrukturmerkmale/N
-Infratest dimap
 Infusionsbesteck/S
 Infusionsbestecke/N
 Infusionspumpe/N
@@ -12574,7 +12213,6 @@ Inhalationslösung
 Inhalationslösungen
 Inhalationssicherheit
 inhouse #eng
-Inhouse Consulting/S #eng
 Inhouse-Consulting/S #eng
 Inhouse-Mitarbeiter/NS
 Inhouse-Mitarbeiterin
@@ -12769,8 +12407,6 @@ Instandsetzungsteam/S
 Instandsetzungszeit
 Instandsetzungszeiten
 instant
-Instant Message/S
-Instant Messaging
 instantan/A
 Instantkaffee/S
 Instanzweg/S
@@ -12781,7 +12417,6 @@ instituierend/A
 instituierst
 instituiert/A
 instituiertest
-Institute for Advanced Study
 Institutionsanalyse/N
 Institutionsförderung
 Institutionsgeschichte
@@ -12806,8 +12441,6 @@ Integrativkinder/N
 Integrativkindes
 Integrin
 Integrine/N
-Intellectual Property #eng
-IntelliJ #name
 Intensitätsgraden
 Intensivausbildung
 Intensivbett/S
@@ -12827,8 +12460,6 @@ Intensivschwänzen/S
 intensivstationär/A
 Intensivuser/NS
 Intentionalismus
-Inter #name -- Italian soccer team
-Inter Mailand/S
 Interactive/S #eng
 interaktionistisch/A
 Interaktionsablauf/S
@@ -12874,8 +12505,6 @@ Intermediastudie/N
 Intermediate/S
 Intermediatereifen
 Intermediatereifens
-International School/S #name
-Internet of Things #eng
 Internet-Meme/S
 Internetpenetrationsrate/N
 interorganisational/A
@@ -12973,10 +12602,7 @@ Ionengetterpumpe/N
 Ionisator/S
 Ionisatoren
 Ionos #name
-iPad Air #name
 IPEX
-iPod/S #name
-IPv6
 IPX #abk
 Irankrise/N
 Iranpolitik
@@ -12989,7 +12615,6 @@ Irmhild/S #name
 Irmi/S #name
 Irmtraut/S #name
 iRobot/S #name
-Iron Man/S #name
 Irreführer/NS
 irrelevanter/A
 Irrenabteilung
@@ -13033,8 +12658,6 @@ Isoteniskop/S
 Isoteniskope/N
 isotopisch/A
 Ispringen #name
-Isra Vision/S #name
-ISRA VISION/S #name
 israelfreundlich/A
 Israelhass
 Israelhasses
@@ -13063,7 +12686,6 @@ Ivana/S #name
 Iveco/S #name
 IVF #abk
 Ivonne/S #name
-Ivy League
 Ivy/S #name
 Iwona/S #name
 IZR
@@ -13109,7 +12731,6 @@ Jamestown/S #name
 Jamie/S #name
 Jämthund
 Jämthunde/NS
-Jan Josef Liefers #name
 Janado #name
 Jandelsbrunn/S #name
 Janet/S #name
@@ -13149,22 +12770,6 @@ JBeitrO
 JC #abk
 JDBC
 JDK #abk
-Jean-Baptiste/S #name
-Jean-Christophe/S #name
-Jean-Luc/S #name
-Jeannette/S #name
-Jeannine/S #name
-Jeansgröße/N
-Jeanshersteller/NS
-Jeansläden
-Jeansladen/S
-Jeansmode/N
-Jeansmodell/S
-Jeansmodelle/N
-Jeansschnitt/S
-Jeansschuhe/N
-Jeansstoff/S
-Jeansstoffe/NS
 Jedermannsrecht/S
 Jedermannsrechtes
 Jedi-Ritter/NS
@@ -13176,7 +12781,6 @@ Jelka/S #name
 Jemeinigkeit
 Jenga/S #name
 Jenna/S #name
-Jens Spahn/S #name
 Jente/S #name
 Jentzsch/S #name
 Jerichower #name
@@ -13184,14 +12788,12 @@ Jérôme/S #name
 Jesajaforschung
 Jesana/S #name
 Jesper/S #name
-Jesse James
 Jesse/S #name
 Jesuitenaltar/S
 Jesuitenmissionar/S
 Jesuitenmissionare/N
 Jesustyp
 Jesustypen
-Jet Airways #name
 Jethro/S #name
 Jetset/S
 Jetstream/S
@@ -13199,7 +12801,6 @@ Jettel/S #name
 Jevenstedt/S #name
 Jevenstedter #name
 Jharia #name
-Jhd.
 JHWH
 JHWHs
 Jiffy #name
@@ -13207,7 +12808,6 @@ Jihadist
 Jihadisten
 Jihlava/S #name
 Jimdo #name
-Jimmy Carter/S
 Jimmy/S #name
 Jinping/S #name
 jippie
@@ -13222,16 +12822,13 @@ Jo-Jo-Effekte/SN
 Jo-Jo/S
 joa #ugs
 Joaquín/S #name
-Job-Nr.
 Jobcoaching/S
-Joe Kaeser/S #name
 Joelina/S #name
 Johanneskirchen/S #name
 Johanneum/S
 Johannsen/S #name
 Johns-Hopkins-Universität
 Jöhstadt/S #name
-Joint Venture/S
 Joke/S #eng
 Joko/S #name
 Jokus
@@ -13242,7 +12839,6 @@ Jolina/S #name
 Jöllenbeck #name
 Jollenhafen/S
 Jolyn/S #name
-Jom Kippur
 Jonah/S #name
 Jonglierball/S
 Jonglierbälle/N
@@ -13255,7 +12851,6 @@ Jossa #name
 Jossgrund/S #name
 Jostabeere/N
 Josua/S #name
-Jour fixe/S #name
 Jourgebäck/S
 Journalistenclub/S
 Jovin/S #name
@@ -13286,11 +12881,9 @@ Juggernaut #name
 juhu
 Juice #eng
 Jule/S #name
-Julian Assange #name
 Julie/S #name
 Juliett/S #name
 Julietta/S #name
-Julius-Wegeler-Schule #name
 Julklapp/S
 Jump/S #eng
 Juna/S #name
@@ -13318,7 +12911,6 @@ Junkmail/S
 Jürgensen/S #name
 Jurij/S #name
 Jurin/S #name
-just for fun #eng
 Justizbeitreibungsordnung
 justizbekannt/A
 Justizbeschäftigte/N
@@ -13629,7 +13221,6 @@ KBV #abk
 KD #abk
 KDG
 KDW/S #name
-Keanu Reeves #name
 Kehlbalkenlage/N
 kehrtzumachen
 Keilerchen/S
@@ -13726,12 +13317,10 @@ Kiezspaziergänge/N
 Kieztreff/S
 KiJuHi #abk
 Kik #name
-Kilianstädten/S #name
 Kilic/S #name
 Kilifi
 Killian/S #name
 kilometertief/A
-Kim Jong-un/S
 Kimberly/S #name
 Kimmschicht
 Kimmschichten
@@ -13749,7 +13338,6 @@ Kinderrechteverbesserungsgesetz
 Kinderrechteverbesserungsgesetzes
 kindzentriert/A
 Kinematiken
-King of Queens #name
 Kingsbury/S #name
 Kingsize
 Kingsize-Bett/S
@@ -13802,7 +13390,6 @@ Kitta/S
 Kitzscher/S #name
 Kitzsteinhorn/S #name
 Kivu/S #name
-KIZ Royal
 KJHG
 KJP #abk
 KK #abk
@@ -13868,7 +13455,6 @@ Kleegrasanbau/S
 Kleegrases
 Kleemann/S #name
 Kleinaspach/S #name
-Kleiner Perkins
 Kleinfeller/S #name
 Kleingetier/S
 Kleinkalibergeschoss
@@ -13971,7 +13557,6 @@ Knickschutzes
 Kniegelenksdistorsion
 Kniegelenksdistorsionen
 Knieorthese/N
-Knights of Labor #eng
 Knobi #abk #ugs
 Knoblauchhochzeit
 Knoblauchhochzeiten
@@ -13995,7 +13580,6 @@ Knurrtöne/N
 Knusperhülle/N
 Knuspervergnügen/S
 Knutscher/NS
-Ko Phi Phi/S #name
 ko-konstruktiv/A
 koalesziert/A
 Kobaltstaub/S
@@ -14418,7 +14002,6 @@ KPI/S #abk
 KPMG #abk
 Krabbelrolle/N
 krach #ugs
-Kraft Foods #name
 kräftezehrendste
 kräftezehrendstem
 kräftezehrendsten
@@ -14515,8 +14098,6 @@ Krepitation
 Krepitationen
 Kreß #name
 Kresseschaumsüppchen/S
-Kretanische Kartoffeln
-Kretanischen Kartoffeln
 Kretschmer/S #name
 Kretzschmar/S #name
 Kreuzungssituation
@@ -14785,9 +14366,6 @@ Kyocera/S #name
 Kyra/S #name
 kΩ
 L-Citrullin/S
-L'Oréal/S #name
-L'TUR/S #name
-L’Oréal/S #name
 LA/S #name
 Laatzen/S #name
 Labdakiden
@@ -14857,7 +14435,6 @@ Lagesinn/S
 Lageverfolgung
 Lagevorteil/S
 Lagevorteile/N
-Lagotto Romagnolo
 Laiendolmetscher/NS
 Laiendolmetscherin
 Laiendolmetscherinnen
@@ -14871,7 +14448,6 @@ Laiinnen
 Laila/S #name
 Laios #name
 Lakeside #name
-Lakritzsoße/N
 Laktoseunverträglichkeit
 Lallmonolog/S
 Lallmonologe/N
@@ -14953,7 +14529,6 @@ Laserstrahlschneideanlage/N
 Laserstrahlverbindungsschweißen/S
 Lasertracker/NS
 Laskowski/S #name
-Last Christmas #eng #name
 Last-minute-Angebot/S
 Last-minute-Angebote/N
 Last-minute-Flug/S
@@ -14962,9 +14537,7 @@ Last-minute-Fluges
 Last-minute-Reise/N
 Lästerschwester/N
 László/S #name
-lat.
 LATAM #name
-Late Mover/S #eng
 Late-Night-Show/S
 Lateinübung
 Lateinübungen
@@ -15021,7 +14594,6 @@ Lavaliermikrofone/N
 Lavendelmuseum/S
 Lavendelseife/N
 LAVES #name
-Law and Order #eng
 Laya/S #name
 Layoutaufbau/S
 layoute/N
@@ -15121,7 +14693,7 @@ Legobaustein/S
 Legobausteine/N
 Legoland
 leguminosenfrei/A
-Lehman-Gruppe  #name
+Lehman-Gruppe #name
 Lehmwellerbau/S
 Lehnarten #name
 Lehnert/S #name
@@ -15214,7 +14786,7 @@ Lenormand/S
 Lentia
 Léon/S #name
 Leona/S #name
-Leoni/S  #name
+Leoni/S #name
 Leonstein/S #name
 Leony/S #name
 Leopardenprint
@@ -15242,7 +14814,6 @@ Lestrade/S #name
 Letalitätsrate/N
 Leto/S #name
 Letrozol #name
-Letter of Intent #eng
 Letztstand/S
 Leuchtenberg/S #name
 Leuchtenberger #name
@@ -15261,15 +14832,11 @@ Levenshtein-Distanz
 Levenshtein-Distanzen
 Levetiracetam
 Levy/S #name
-Lewada-Zentrum/S
 Lewandowski/S #name
 Lewis #name
-Lewis Hamilton/S #name
 Lewy-Körper-Demenz
 Lewy-Körperchen-Demenz
 Leybold/S #name
-LfM
-LG Chem/S #name
 LGBT
 LGBTQ
 LGBTQIA #abk
@@ -15281,9 +14848,7 @@ Liberalisierungsreform
 Liberalisierungsreformen
 Libertarianismus
 Liberté
-Liberty Medal
 Libraries
-Library of Congress #name
 lichtbrechend/A
 Lichterdecke/N
 Lichternacht
@@ -15372,7 +14937,6 @@ Liegenschaftszinssatz
 Liegenschaftszinssatzes
 Lifecycle/S
 Lifehack/S
-Lifelong Learning
 LiFePo #name
 Lifestyleartikel/NS
 Liftertuch/S
@@ -15393,7 +14957,6 @@ Lilith/S #name
 Lilja/S #name
 Lilli/S #name
 Lily/S #name
-Limbach-Oberfrohna #name
 Limettendressing/S
 Limettenschale/N
 Limited #eng
@@ -15401,9 +14964,6 @@ Limitentscheidung
 Limitentscheidungen
 Limiter/NS
 Limitliste/N
-Limmerstraße #name
-Limoncello
-Limp Bizkit/S #name
 Lindener #name
 Lindenweg/S
 Lindeverfahren/S
@@ -15418,30 +14978,18 @@ Linearführungen
 Linearmelder/NS
 Linearregler/NS
 Liner/SN #eng
-Lines of Code #eng
 Lingenfeld/S #name
 Linguistikstudium/S
-Linkaustausch/S
-Linkbait/S #eng
-Linkbaiting #eng
-Linkbuilding
 Linkenfraktionschef/S
 Linkenpolitiker/NS
 Linkenpolitikerin
 Linkenpolitikerinnen
-Linkfunktion
-Linkfunktionen
 Linköping/S #name
 linksgesinnt/A
 linkspopulistisch/A
-Linktext
-Linktexte/NS
-Linkziel/S
-Linkziele/N
 Linnemann/S #name
 linst #ugs
 Lintgasse #name
-Lionel Messi/S #name
 Lipase/N
 Lipidambulanz
 Lipidambulanzen
@@ -15508,10 +15056,6 @@ LMA #abk
 LMX #name #abk
 LNatSchG
 Lo-Fi
-Load Balancer/SN #eng
-Load Balancing #eng
-Loadbalancer/S #eng
-Loadbalancing/S #eng
 lobbyiere
 lobbyieren
 lobbyierend/A
@@ -15699,8 +15243,6 @@ LRK #abk
 LS #abk
 LT
 LTC
-ltd.
-Ltd.
 LU #abbr
 Luan/S #name
 Lübbe/S #name
@@ -15708,13 +15250,10 @@ Lübcke/S #name
 Lubmin #name
 Lübtheen/S #name
 Lübz #name
-luca app
-Luca App
 Luca-App
 Lüchow/S #name
 Luciano/S #name
 Lucie/S #name
-Lucien Favre/S #name
 Lucien/S #name
 Lucille/S #name
 Lucinda/S #name
@@ -15724,9 +15263,6 @@ Lucky/S #name
 Lucretia/S #name
 Lüdeke/S #name
 Lüdersdehnung
-Lüdersring/S #name
-Ludgerusschule #name
-Lüdinghausen/S #name
 Ludolf/S #name
 Ludwigsfeld/S #name
 Ludwigskreisel/S #name
@@ -15750,7 +15286,6 @@ Lüfterschaltung
 Lüfterstufe/N
 luftfahrzeugtechnisch/A
 luftgetragen/A
-Lufthansa Miles #name
 Luftleckage/N
 Lufttaxi/S
 Lüftungskonvektor/S
@@ -15817,8 +15352,6 @@ Maasai
 Maaßen/S #name
 Mac/S #name
 Macan #name
-Macarons
-MacBook Air #name
 mach #ugs
 Machbarkeitsabklärung
 Machbarkeitsabklärungen
@@ -15827,8 +15360,7 @@ Machbarkeitsprüfung
 Machbarkeitsprüfungen
 Machermentalität
 Machertum/S
-Machine Learning/S
-Machorka/S
+MMachorka/S
 Mächtigkeitsrelation
 Mächtigkeitsrelationen
 machts #ugs
@@ -15949,7 +15481,6 @@ Malgorzata/S #name
 Malheft
 Malhefte/NS
 Malik/S #name
-Mall of Berlin #name
 Malle/S #name #ugs
 malme/N
 Malmesser/NS
@@ -15981,7 +15512,6 @@ Management-Buy-out/S #eng
 Management-Buyout/S #eng
 Managementsystem/S
 Managementsysteme/N
-Manchester United
 Mandantenakquise
 Mandantenberatung
 Mandantenberatungen
@@ -16032,7 +15562,6 @@ Manthey/S #name
 Manu/S #name
 Manufactum/S #name
 Maple #name
-Maple Leaf/S #name
 Mar-a-Lago/S #name
 Maracanã/S #name
 Maradona/S #name
@@ -16040,7 +15569,7 @@ Marbella/S #name
 Marcella/S #name
 Marché
 Marchese
-Marchtrenk/S  #name
+Marchtrenk/S #name
 Marcin/S #name
 Marciniak/S #name
 Mareike/S #name
@@ -16097,7 +15626,6 @@ Maronibäume/N
 Maroon/S
 Marquardsen/S #name
 Marquardt/S #name
-Marquis de Sade
 Marriott #name
 Marschner/S #name
 Marsianer/NS
@@ -16193,8 +15721,6 @@ Masterunit/S #eng
 Mastervorbereitungsphase/N
 MaStR #abk
 Masurenallee #name
-Mata Hari/S
-Matcha Tee/S #name
 Matchball/S
 Matchbesuch/S
 Matchbesuche/NS
@@ -16239,7 +15765,7 @@ Mattenhöhe/N
 Mattenlänge/N
 Mattenrahmen/S
 Matteo/S #name
-Matthew/S  #name
+Matthew/S #name
 Matthiesen/S #name
 Mattis #name
 Maturierung
@@ -16275,7 +15801,6 @@ Mbit #abk
 MBUX #name
 Mbyte #abk
 MC/S
-mc²
 McCain/S #name
 McCartney/S #name
 McFit #name
@@ -16290,8 +15815,6 @@ MCT-Öl/S
 MCT-Öle/N
 MDF #abk
 MDMA #abk
-mea culpa
-Meat Loaf/S #name
 MEB-Architektur
 MEB-Plattform
 Mechanisierungsverfahren/S
@@ -16315,7 +15838,6 @@ Mediaplan/S
 Mediapläne/N
 Mediationssitzung
 Mediationssitzungen
-Medical Care/S #eng
 Medicane/S
 Medicopter #name
 Medicus
@@ -16362,7 +15884,6 @@ Megastrukturalist
 Megastrukturalisten
 Megastrukturalistin
 Megastrukturalistinnen
-Meghan Markle/S #name
 Meghan/S #name
 Mehmet/S #name
 Mehnert/S #name
@@ -16436,7 +15957,6 @@ Melissenblätter/N
 Melk/S #name
 Meltdown/S
 Melvin/S #name
-Member of Parliament #eng
 Member/NS #eng
 Membranfläche/N
 Membranoxygenierung
@@ -16589,7 +16109,6 @@ Michelbach/S #name
 Michelson-Interferometer/NS
 Michelson/S #name
 Michi/S #name
-Mickey Maus
 Mickiewicz #name
 Micky/S #name
 Micra #name
@@ -16701,7 +16220,6 @@ mini
 Minibaggerhänger/NS
 Minimierungsaufgabe
 Minimierungsproblem/S
-Minimum Viable Product/S #eng
 Minimumgesetz
 Minimumgesetzes
 Mining/S #eng
@@ -16729,10 +16247,8 @@ Mischlingskind
 Mischlingskinder/N
 Mischlingskindes
 Mischlingsrüde/N
-Missa solemnis
 Misserfolgserlebnis
 Misserfolgserlebnisse/NS
-Missing Link/S
 Missionierungsreise/N
 Missionsprojekt
 Missionsprojekte/NS
@@ -16843,7 +16359,6 @@ mitzuunterstützen
 mitzuzocken #ugs
 MIV #abk
 Mixdauer/N
-Mixed Martial Arts
 Mixerschüssel/N
 Mizellenwasser/S
 MJ
@@ -16978,7 +16493,6 @@ Mondenlichtes
 Mondeo #name
 Mondregolith/S
 Moneymaker/SN #eng
-MongoDB #name
 Moni/S #name
 monoalphabetisch/A
 Monoamin/S
@@ -17001,13 +16515,10 @@ Monteverde/S
 Montgelas #name
 Montiermaschine/N
 Montréal/S #name
-Monty Python/S #name
 MOOC/S
 Moodboard/S #eng
 Moodlekurs
 Moodlekurse/NS
-Moody's #name
-Moody’s #name
 Moonboot/S #eng
 Moonrover/NS
 Moosbach/S #name
@@ -17073,12 +16584,8 @@ Motopädie
 motopädisch/A
 Motordurchölung
 Motorikförderung
-Motorola Razr/S #name
 Motorsägenkette/N
 Moulure
-Mountain View/S #name
-Mourinho/S #name
-Moussaka
 Move/S #eng
 Movicol #name
 Movie #eng
@@ -17101,10 +16608,8 @@ MSI
 MSIE/S #name #abk
 MSPD #abk
 MSS #abk
-mTAN
 MTRA
 Muammar/S #name
-Muay Thai
 muckelig/A
 Müdigkeitserkennung
 Muffenseite/N
@@ -17171,7 +16676,6 @@ Multinomialverteilung
 Multinomialverteilungen
 multioptional/A
 Multiparadigmensprache/N
-Multiple Choice
 Multiple-Choice-Antwort
 Multiple-Choice-Antworten
 Multiple-Choice-Aufgabe/N
@@ -17245,7 +16749,6 @@ MwSt-Rechnung
 MwSt-Rechnungen
 MX #abk
 MXN #abk
-My Lai
 mybet/S #name
 Mybet/S #name
 Myelitis
@@ -17520,8 +17023,6 @@ Namaste
 Namedropping/S
 Namespace/S #eng
 Namhaftmachung
-Nancy Pelosi/S #name
-Nanga Parbat
 Nanobot/S
 Nanokomposit
 Nanokomposite/N
@@ -17542,7 +17043,6 @@ Naschmarktes
 Nasenbasaliom/S
 Nash-Gleichgewicht
 Nash-Gleichgewichte/NS
-Nasi Goreng #name
 Nasivin #name
 Nassabriebklasse/N
 Nässeperiode/N
@@ -17560,13 +17060,8 @@ Nastasija/S #name
 NAT #abk
 Nathalia/S #name
 Nathanael/S #name
-National Basketball Association
-National Football League
-National Hockey League
-National Rifle Association
 Nationalitätsgruppe/N
 Nationalstadion/S
-Nations League
 NATIX
 Natodraht
 Natriumtetraborat
@@ -17584,17 +17079,14 @@ Navarino/S #name
 Navier-Stokes-Simulation
 Navigationen
 Navy #eng
-Navy Seal/S #name
 Nawalny/S #name
 Naya/S #name
 NBC #abk
 NBP #abk
 NCS #abk #name
 NDIR #abk
-Ndrangheta/S #name
 NDW #abk
 Neal/S #name
-Nearshoring/S #eng
 Nebenberuflichkeit
 Nebenbuhlerschaft
 nebeneinanderzuhalten
@@ -17611,7 +17103,6 @@ negativistisch/A
 negativsträngig/A
 Negativum
 nehm #ugs
-Neil Armstrong/S
 Neitzel/S #name
 Neiva/S #name
 Nektarspender/NS
@@ -17720,8 +17211,6 @@ Neuroradiologe/N
 Neurotechnologie
 neurotechnologisch/A
 neurotypisch/A
-Neusalza-Spremberg #name
-Neustadt-Glewe #name
 Neutralbereich/S
 Neutralbereiche/N
 Neutralgraufilter/NS
@@ -17732,15 +17221,11 @@ Neutralposition
 Neutralteilcheninjektion
 Neutralteilcheninjektionen
 neutralweiß/A
-Neutraubling/S #name
-Neutraublinger/NS #name
 Neuwagendisponent
 Neuwagendisponenten
 Neuwagendisponentin
 Neuwagendisponentinnen
-New Work/S #name
 Newark/S #name
-Newcastle United/S #name
 Newsartikel/NS
 Newsbereich
 Newsbereiche/S
@@ -17772,11 +17257,7 @@ Nickeluhr
 Nickeluhren
 Nicknames
 Nicolaus #name
-Nicole Kidman/S
-Nidau/S #name
 Niebuhr/S #name
-Nieder-Olm #name
-Niederbexbach/S #name
 Niederlassungsberater/NS
 Niederlassungsberaterin
 Niederlassungsberaterinnen
@@ -17881,7 +17362,6 @@ NMR
 NMS #abk
 NN
 Noack/S #name
-noch und nöcher
 Nochvorsitzende/N
 Nochvorsitzender
 Nockenwellenverstellung
@@ -17914,12 +17394,10 @@ Noppenstein/S
 Noppensteine/NS
 noppig/A
 Norah/S #name
-Norbert Röttgen/S #name
 Nord-Stream-Pipeline #name
 nord-südöstlich/A
 nord-südwestlich/A
 Nordend #name
-Nordic Walking
 nordost-südwestlich/A
 Nordschleswigsche
 Nordschleswigschem
@@ -17954,7 +17432,6 @@ Normverstöße/N
 Normverstoßes
 Normvorgabe/N
 Norsk-Hydro-Werk/S #name
-North Sentinel Island #name
 Nortorf/S #name
 Nortorfer #name
 Nosologie
@@ -17988,8 +17465,6 @@ Nouvelle-France #name
 Novalgin
 Novellenanalyse/N
 Novellenform
-Novellenform
-Novellenform: 2
 novembergrau/A
 Novembergraus
 Novemberrevolutionär/S
@@ -18173,7 +17648,6 @@ Oftringen/S #name
 ÖGK #abk #name
 oha
 Ohlsdorf/S #name
-Ohlsdorfer Friedhof/S #name
 Ohrenkneifer/NS
 Ohrenkriecher/NS
 Ohrwaschlkaktus
@@ -18233,14 +17707,12 @@ Olympiakos #name
 Olympique/S #name
 Omama/S
 Omar/S #name
-Omelette surprise
 Ömer/S #name
 Omid/S #name
 Omni-Channel
 Omnichannel
 omnidirektional/A
 OMR/S #name
-on air
 On-Demand-Angebot
 On-Demand-Angeboten
 On-Demand-Funktion
@@ -18298,8 +17770,6 @@ OOP #abk
 Op-Art
 Opatija #name
 Opec
-Open Air/S #eng
-Open Source
 Open-Air-Kino/S
 Open-Air-Konzert
 Open-Air-Konzerte/NS
@@ -18381,7 +17851,6 @@ Ordnungswidrigkeitengesetz
 Ordnungswidrigkeitengesetzes
 Orest #name
 Öresund #name
-Organic Search #eng
 organisationskulturell/A
 Organisationsskills
 organisationsstark/A
@@ -18430,7 +17899,6 @@ Ostenhellweg/S #name
 Osteoarthritis
 Osteochondrose
 Osteodensitometrie
-Osteogenesis imperfecta
 Osteopathin
 Osteopathinnen
 Osteoporosen
@@ -18462,7 +17930,6 @@ Ottensheim/S #name
 Otto-Bennemann-Schule #name
 Otzenhausen/S #name
 Ouija-Brett
-out of the box
 Out-of-the-box-Lösung
 Out-of-the-box-Lösungen
 Outbreak #eng
@@ -18523,7 +17990,6 @@ Packungsanleitung
 Packungsanleitungen
 Pad
 PAD #abk
-Pad Thai
 Pad/S #eng
 Pädagogiken
 Pädagogikunterricht/S
@@ -18583,7 +18049,6 @@ Palmblattteller/NS
 Palmesel/NS
 Palmstock/S
 Palmstöcke/N
-Palo Alto
 Panamera/S #name
 Panathinaikos #name
 Pandemieausbreitung
@@ -18690,8 +18155,6 @@ Parsing/S #eng
 parst
 parste
 parsten
-parsten
-parsten: 2
 parstest
 parstet
 Parteiprogrammes
@@ -18775,7 +18238,6 @@ Pastiche
 Pastoratsgarten/S #name
 Pastorenfamilie/N
 Patchdose/N
-Patek Philippe
 patientengerecht/A
 patiniere/N
 patinierend/A
@@ -18815,7 +18277,6 @@ Pavoni #name
 Pawlik/S #name
 Pawlohrad #name
 Pawlowski/S #name
-Pax Americana
 Pay-TV
 Payam/S #name
 Payload #eng
@@ -18893,18 +18354,13 @@ Pentester/NS
 Pentesterin
 Pentesterinnen
 Penzing/S #name
-Peperoncini
-Peperoncino
 Peperoniwurst
 Pepitaanzug/S
 Pepitaanzüge/N
 Pepitakostüm/S
 Pepitakostüme/N
-Peppa Wutz #name
 Peptidrückgrat/S
 Peptidrückgrate/N
-per aspera ad astra
-Perchtoldsdorf/S #name
 Perestrojka #russ
 Perez #name
 Performance-Marketing/S
@@ -19056,7 +18512,6 @@ Pfefferminzlikör/S
 Pfefferminzliköre/N
 Pfeiferin
 Pfeiferinnen
-Pfeiffer Vacuum/S #name
 Pfeilerbau/S
 Pfeilerzahn/S
 Pfeilerzelle/N
@@ -19125,7 +18580,6 @@ Pfundskerl/S
 Pfundskerle/N
 Pfützenbildung
 PGW/S #abk
-Ph.D.
 Phantasialand/S #name
 Phantomspeiseadapter/NS
 Pharma-Start-up/S
@@ -19133,21 +18587,18 @@ Pharmakogenetik
 Pharmakovigilanz
 Phasenverschiebungsdifferenz
 Phasenverschiebungswinkel/NS
-Phat Thai
 PhD/S
 Phenprocoumon
 Phenylacetaldehyd
 Phenylethanol/S
 Phenylgruppen
 Phenylketonurie
-Philips Hue #name
 Phillip/S #name
 Philomene/S #name
 Philosophiestunde/N
 Phlebologe/N
 Phlebologin
 Phlebologinnen
-Phnom Penh/S #name
 Phonetisierung
 phononisch/A
 Phonoschrank/S
@@ -19196,7 +18647,6 @@ Piercerinnen
 Pieroth/S #name
 Pierrot/S
 Piesteritz #name
-Pietro Lombardi/S #name
 Pietsch/S #name
 Pietschmann/S #name
 Pietzsch/S #name
@@ -19233,7 +18683,6 @@ pingtest
 Pinkwart/S #name
 Pinole/N
 Pinosylvin
-Pinot Noir
 Pinselbestäubung
 Pinselgröße/N
 Pinzettenzange/N
@@ -19318,8 +18767,6 @@ Planstück/S
 Planstücke/N
 Plantarfasziitis
 Plantarsehne/N
-Planten un Blomen
-Planten un Blomen/S
 Plantiefe
 Plantiefen
 Planum/S
@@ -19410,7 +18857,6 @@ PoC/S #abk
 Pochette/N
 Pockenerkrankung
 Pockenerkrankungen
-Pocket Bike/S #eng
 Pocking/S #name
 podcaste
 podcasten
@@ -19440,9 +18886,6 @@ Pogo/S
 Pöhler #name
 Pöhlmann/S #name
 poikilotherm/A
-Point of Interest #eng
-Point of no Return #eng
-Point of Sale/S #eng
 Point/S #eng
 Pointer/NS
 Pokéball/S #name
@@ -19455,7 +18898,6 @@ Pokerspiele/N
 Pokerwoche/N
 Pokhara #name
 Pokljuka #name
-pol. #abk
 Poldi/S #name
 Polenböller/NS #ugs
 policiere
@@ -19468,7 +18910,6 @@ Policy #eng
 polierbar/A
 Polikliniken
 Politainment
-Political Correctness
 Politikerkind
 Politikerkinder/N
 Politikerkindes
@@ -19633,14 +19074,11 @@ Positionierungsvorschläge/N
 Positiva
 Positivum
 Posselt/S #name
-post mortem
-Post-it/S #eng
 Postenkommandant
 Postenkommandanten
 Postenkommandantin
 Postenkommandantinnen
 Posterdruck/S
-Postgres
 Posthitis
 Postident-Verfahren
 Postmodernisten
@@ -19782,7 +19220,6 @@ Präventologinnen
 Präzipitin/S
 Präzisionsmikrodosierer/NS
 Pre-Roll/S #eng
-Predictive Maintenance
 Predigttätigkeit
 Preetz #name
 preisbedingt/A
@@ -19852,8 +19289,6 @@ Primärerzeugnisse/NS
 Primärfaktor/S
 Primärfaktoren
 Primärfrequenz
-Primärfrequenz
-Primärfrequenz: 2
 Primärfrequenzen
 Primärschulden
 Primarschullehrer/NS
@@ -19863,7 +19298,6 @@ Primärsichtung
 Primärsichtungen
 Primärstruktur
 Primärzementit
-Prime Air/S #name
 Primebook #name
 Priming/S #eng
 Primkörper/SN
@@ -19872,10 +19306,6 @@ Primzahlendichte
 Primzahlsatz
 Primzahlsatzes
 Primzahlverteilung
-Prince Charles #name
-Prince of Wales #eng
-Princess of Wales #eng
-Principia Mathematica
 Pringles #name
 Printanzeige/N
 Printerzeugnis
@@ -19928,15 +19358,12 @@ Problemlöserin
 Problemlöserinnen
 Problemlösezyklus
 Processmonitoring
-Product Manager/S
-Product Owner/S
 Product-Placement/S #eng
 Productplacement/S #eng
 produktionsbezogen/A
 Produktlebenszyklusanalyse/N
 Produktrange/S
 Produzentenfamilie/N
-Prof.in
 Professional/S
 Professionalisierungsprozess
 Professionalisierungsprozesse/NS
@@ -19951,8 +19378,6 @@ Progesteronmangel/S
 Progger/NS #eng #ugs
 progredierend/A
 Prohlis #name
-Project A/S #name
-Project Manager/S #eng
 projekteigen/A
 Projektilwaffe/N
 Projektinteressierte/N
@@ -20002,8 +19427,6 @@ Promotionzelte/NS
 Promovideo/S
 Pronomenart
 Pronomenarten
-Proof of Concept/S #eng
-Proofs of Concept #eng
 Propagationsrichtung
 Propagationsrichtungen
 Property #eng
@@ -20022,7 +19445,6 @@ Prorogation
 Proselytismus
 Proseminararbeit
 Proseminararbeiten
-ProSiebenSat.1/S #name
 Prospektbeilage/N
 Prospektor/S
 Prospektoren
@@ -20178,7 +19600,6 @@ Pulitzer-Preis #name
 Pulitzer-Preis/E #name
 Pulitzer-Preise/NS #name
 Pulkes
-Pull Request/S #eng
 Pull-Faktor/S
 Pull-Faktoren
 Pull-Medium/S
@@ -20206,9 +19627,7 @@ Pumptrack/S
 Pumuckl #name
 punktartig/A
 punktelos/A
-Punta Cana/S #name
 Puppenspielerstadt
-Purple Heart
 Purpurstäubchen/S
 Puschkinschule #name
 push
@@ -20278,7 +19697,6 @@ Pyroxengruppe
 Pÿur #name
 Qashqai/S #name
 Qassem/S #name
-Qatar Airways #name
 QC
 QED
 Qiagen/S #name
@@ -20319,12 +19737,6 @@ qualitätsseitig/A
 qualitätsspezifisch/A
 qualitätssteigernd/A
 qualitätstechnisch/A
-Quality Assurance #eng
-Quality by Design #eng
-Quality Engineering #eng
-Quality Gate/S
-Quality Investing #eng
-Quality of Service #eng
 Qualprodukt
 Qualprodukte/NS
 Quantencomputing
@@ -20394,7 +19806,6 @@ Querungsbereich/S
 Querungsbereiche/N
 Quetschverletzung
 Quetschverletzungen
-Quick Charge
 Quickborn/S #name
 Quidditch
 Quietscheente/N
@@ -20413,7 +19824,6 @@ Rabenaase/NS
 Racer #eng #name
 Rachenabstrich/S
 Rachenabstriche/N
-Racial Profiling
 Racing
 Rack-Server/NS
 Radare/N
@@ -20432,7 +19842,6 @@ Radfahrendenbefragung
 Radfahrendenbefragungen
 radikalfeministisch/A
 radikulär/A
-Radio Energy/S #name
 Radiologieassistent
 Radiologieassistenten
 Radiologieassistentin
@@ -20441,7 +19850,6 @@ Radiologiefachleute/N
 Radiologiefachmann/S
 radiophysikalisch/A
 Radisson #name
-Radisson Blu/S #name
 radiziere/N
 radizierend/A
 radizierst
@@ -20461,7 +19869,6 @@ Rafaella/S #name
 Raffinierungsprozess
 Raffinierungsprozesse/NS
 Raffstoreanlage/N
-Ragout fin
 Rahab/S #name
 Rahden/S #name
 Rahmjoghurt/S
@@ -20782,7 +20189,6 @@ Rave
 Ravenclaw #name
 RAW
 Rawls #name
-Raymond Loewy/S #name
 Raynaud-Phänomen/S
 rbb/S #name
 RBE/S #abk #name
@@ -20799,8 +20205,6 @@ Reagenzglasbefruchtung
 Reagenzglasbefruchtungen
 Reagenzglasklammer/N
 Reaktanz
-Real Estate #eng
-Real Estate Management/S
 Real-Estate-Management/S
 Realia
 Realignment/S #eng
@@ -20830,7 +20234,6 @@ Rebriefing/S
 Rebus
 Recall/S #eng
 ReCaptcha/S #name
-Recep Tayyip #name
 Rechberghausen/S #name
 Rechenschaftsberichten
 Rechenschaftsberichts
@@ -20871,7 +20274,6 @@ Recruiterin
 Recruiterinnen
 Recurvebögen
 Recurvebogen/S
-Red Hand Day/S #eng #name
 Redakteursausbildung
 Redaktionsgruppe/N
 Redaktionskalender/NS
@@ -20927,7 +20329,7 @@ Refinanzierungsinstrument/S
 Refinanzierungsinstrumente/N
 Reflektierbarkeit
 Reflexivverb/S
-Reförmchen/S  #ugs
+Reförmchen/S #ugs
 Reformierungsverfahren/S
 Refresh/S #eng
 Refresherkurs
@@ -21005,9 +20407,7 @@ Regressmöglichkeit
 Regressmöglichkeiten
 Regressprüfung
 Regressprüfungen
-regula falsi
 Regula-falsi-Verfahren/S
-Regular Fit #eng
 Regular-Fit #eng
 regularisiert/A
 Regulationsfähigkeit
@@ -21024,8 +20424,6 @@ Rehaziele/N
 Rehkopf/S
 Rehköpfe/N
 Rehkopfes
-Rehlingsbach/S #name
-Rehoboth/S #name
 Reibbrett/S
 Reibbretter/N
 Reibechtheit
@@ -21281,7 +20679,7 @@ Renaissancealtar/S
 Renaissancealtäre/N
 Renald/S #name
 Renata/S #name
-Renato/S  #name
+Renato/S #name
 Rendantur
 Rendanturen
 Rendement/S
@@ -21350,7 +20748,6 @@ Reputationsschäden
 Requirement/S #eng
 Requisitenraum/S
 Requisitenräume/N
-rer. nat.
 Resakralisierung
 Resakralisierungen
 Reschke/S #name
@@ -21482,7 +20879,6 @@ Rettermärkte/N
 Rettermarktes
 Rettichsalat/S
 Rettichsalate/NS
-Return on Invest/S #eng
 Retzlaff/S #name
 Reupload/S
 Rev.-Nr. #abk
@@ -21549,10 +20945,8 @@ Rhônetal/S
 Rhônetales
 rhythmogen/A
 Rhythmologie
-RIB Software #name
 Ribbeck/S #name
 Riccardo/S #name
-Richard Branson/S #name
 RichesMonts #name
 richtliniengebend/A
 Rickenbach/S #name
@@ -21643,15 +21037,12 @@ Rockergang/S
 Rockergruppe/N
 Rockerkriminalität
 Rockermilieu/S
-Rocket Beans #name
-Rocket Internet/S #name
-Rocket League/S #name
 Rocky/S #name
 Rocuronium/S
 Rodenberg/S
 Rodenberg/S #name
 Roderick/S #name
-Rödermark/S  #name
+Rödermark/S #name
 Rodewisch #name
 Rodinal
 Rödinghausen/S #name
@@ -21756,7 +21147,6 @@ Röttgen/S #name
 Rotzblag/S
 Rotzblagen
 Rouen/S #name
-Round Table
 Roundup/S #name #eng
 Routenkontrollgerät/S
 Routenkontrollgeräte/N
@@ -21770,7 +21160,6 @@ Roxheim/S #name
 Roxil #name
 Roxy #name
 Roy/S #name
-Royal Dutch Shell/S #name
 RP #abk #name
 RPK
 RR #abk
@@ -21964,7 +21353,7 @@ rumfummelt
 rumgealbert
 rumgebastelt
 rumgebrüllt
-Rumgeeier/E #ugs        
+Rumgeeier/E #ugs
 rumgefahren
 rumgeführt
 Rumgefummel #ugs
@@ -22285,7 +21674,6 @@ Saatkartoffeln
 SAB #abk
 Sababurger #name
 säbelförmig/A
-Säbener Straße #name
 Sabi
 Sabri #name
 Sachantinomie
@@ -22295,7 +21683,6 @@ sachgebunden/A
 sachgegenständlich/A
 sachgrundbezogen/A
 sachrichtig/A
-Sachsen LB
 Sachsen-Anhalt/S
 Sachsendamm/S #name
 Sachsenhagen/S #name
@@ -22335,7 +21722,6 @@ saftigsten
 saftigster
 saftigstes
 Sägenfertigung
-Sagrada Família
 sags #ugs
 sagts #ugs
 Saharahitze
@@ -22454,12 +21840,10 @@ Sanktionssysteme/N
 Sans-serif-Font/S
 Sans-Serif-Schrift
 Sans-Serif-Schriften
-Santa Monica
 saphirfarben/A
 Sapiosexualität
 SAPUI #abk
 SAR
-Sarah Lombardi/S #name
 Saratow/S
 Saratow/S #name
 Sardinenbüchse/N
@@ -22497,7 +21881,6 @@ Satzungszweck/S
 Sauberlaufmatte/N
 Sauberlaufzone/N
 Saubermacher/NS
-Saudi Aramco/S #name
 Sauerstoffbarrierefolie/N
 sauerstoffdicht/A
 Säugetiermilch
@@ -22519,7 +21902,6 @@ savannengelb/A
 Savant/S
 Savonette/N
 Savoy/S #name
-Sawsan Chebli/S #name
 Saxonette #name
 SCA #abk
 Scancode/S
@@ -22764,10 +22146,6 @@ Schließplanentwurf/S
 Schließplanentwürfe/N
 Schlitterkurs
 Schlömer/S #name
-Schloß Holte-Stukenbrock/S #name
-Schloß Holte/S #name
-Schlössle-Galerie #name
-Schloßstraße  # often still uses old spelling with 'ß'
 Schluchteingang/S
 Schluchteingänge/N
 Schluckaufs
@@ -22851,7 +22229,7 @@ Schnorchelhalter/NS
 Schnorchelmaske/N
 Schnorchelrohr/S
 Schnorchelrohre/NS
-Schnöseln  #ugs
+Schnöseln #ugs
 Schnullerkette/A
 Schnulzensänger/NS
 Schnupperbeurteilung
@@ -22958,8 +22336,6 @@ Schuldnergesellschaft
 Schuldnergesellschaften
 Schülerdemo/S
 SchülerVZ #name
-SchülerVZ #name
-SchülerVZ #name: 2
 Schulmorgen/S
 Schulreifemodell/S
 Schulreifetest/S
@@ -23081,7 +22457,6 @@ Schwuppdizität #ugs
 Sci-Fi-Film/S
 Sci-Fi-Filme/N
 Science
-Science Fiction
 Science-Fiction-Film/S
 Science-Fiction-Filme/N
 Science-Fiction-Serie/N
@@ -23112,8 +22487,6 @@ SE #abk
 SEA #abk
 Sea-Watch #name
 Séance/N
-Search Engine Optimisation #eng
-Search Engine Optimization #eng
 Search/S #eng
 Sebastián/S #name
 Sechs-Tage-Woche/N
@@ -23132,7 +22505,6 @@ sechstausendsiebenhundert
 sechstausendvierhundert
 sechstausendzweihundert
 sechstjüngste/A
-Second Hand
 Second-Level-Support/S
 Secondhandkleidung
 sedativ/A
@@ -23346,14 +22718,11 @@ Sercos
 Serena/S #name
 Serendipität
 Serendipitätsprinzip/S
-Serge Gnabry/S #name
 Sergei/S #name
 Serialisierungsformat/S
 Serialisierungsformate/NS
 Serialnummer/N
 Seriation
-Series A
-Series B
 Serkan/S #name
 Seroprävalenz
 Seroprävalenzen
@@ -23363,7 +22732,6 @@ Serrano
 Serumprotein/S
 Serumproteine/N
 serverlos/A
-Service Worker/S #eng
 Servicetechnikerforum/S
 Servierhilfe/N
 Servierteller/NS
@@ -23438,7 +22806,6 @@ Shiva/S #name
 SHK/S
 Shlomo/S #name
 Shockley-Gleichung
-Shooting Brake/S #eng
 Shootout/S
 Shopanalyse/N
 Shopbesucher/NS
@@ -23447,7 +22814,6 @@ Shopbesucherinnen
 Shopentwicklung
 Shoperöffnung
 Shoperöffnungen
-Shopfloor Management/S
 Shopgestaltung
 Shopify #name
 Shopperin
@@ -23467,7 +22833,6 @@ Shore-Härteprüfung
 Shore-Härteprüfungen
 Shore-Prüfung
 Shore-Prüfungen
-Short Seller/N #eng
 Shorthorn/S
 Shortseller/SN #eng
 Shortstory/S #eng
@@ -23621,9 +22986,6 @@ Singer-Songwriter/NS
 Singer-Songwriterin
 Singer-Songwriterinnen
 Singer/S #name
-Single Malt Whisky/S
-Single Point of Truth #eng
-Single Source of Truth #eng
 Single-Page-Design/S
 Singlefrau
 Singlefrauen
@@ -23703,7 +23065,6 @@ Skiathos #name
 Skilanglaufen/S
 Skillset/S #eng
 Skillsgruppe/N
-Skinny Fit #eng
 Skinny-Fit #eng
 skippe/N
 skippst
@@ -23745,26 +23106,18 @@ Slangsprache
 Sleeve/S #eng
 slicen
 Slide/S #eng
-Slim Fit
-Slim Fit #eng
 Slim-Fit #eng
 Slipanlage/N
 Slotaussparung
 Slotaussparungen
 Slotblende/N
 Slotmaschine/N
-Slow Fashion
 SLP
 SLpB
 SLS #abk
 Slytherin/S #name
-Small Cap/S #eng
-Small Talk/S #eng
 Smallcap/S #eng
 Smalltalk/S #eng
-Smart City
-Smart City/S
-Smart Home/S
 Smartbroker #name
 Smartcard/S
 SmartHome #name
@@ -23921,7 +23274,7 @@ Sorbitol/S
 Sorgentelefon/S
 Sorgerechte/N
 Sorgerechtsangelegenheiten
-Sorpesee/S  #name
+Sorpesee/S #name
 Sortenempfehlung
 Sortenempfehlungen
 Sortenerhaltung
@@ -23946,7 +23299,6 @@ soundsovieler
 soundsovielmal
 Sourcing/S #eng
 Sousa/S #name
-Southwest Airlines #name
 souveräner/A
 Souvláki
 Soxhlet-Henkel-Zahl
@@ -23964,10 +23316,6 @@ sozialorientiert/A
 sozialpsychiatrisch/A
 sozialverträglich/A
 sozio-emotional/A
-Sozio-oekonomische Panel
-Sozio-oekonomischen Panel
-Sozio-oekonomischen Panels
-Sozio-oekonomisches Panel
 Sozioinformatik
 soziokratisch/A
 Soziologiestudium/S
@@ -24154,7 +23502,6 @@ Spondylodese
 Spondylose/N
 SpongeBob/S #name
 Sponsoraufgaben
-Sponsored Post/S
 Sponsorenakquise
 Sponsorenpaket/S
 Sponsorenpakete/NS
@@ -24256,7 +23603,6 @@ SRG
 SRK #abk
 SRP/S #abk #name
 SRW #abk #name
-SSC Neapel/S #name
 SSGT
 ssh-Verbindung
 ssh-Verbindungen
@@ -24265,8 +23611,6 @@ ssh-Zugänge
 SSID/S #abk
 SSO #abk
 SSV #abk
-St Mary's #name
-St Mary’s #name
 Staatssekretärsposten/S
 Stäbchenprobe/N
 Stäbelow/S #name
@@ -24278,9 +23622,7 @@ Stabpipette/N
 Stabtomate/N
 Stachelbeerbusch/S
 Stachelbeerbüsche/N
-Stachybotrys chartarum
 Stackgröße/N
-Stadecken-Elsheim/S #name
 Stadelmann/S #name
 Stadia/S #name
 Stadler/S #name
@@ -24432,7 +23774,6 @@ Starverkäuferinnen
 Stasimitarbeiter/NS
 Stasimitarbeiterin
 Stasimitarbeiterinnen
-State of the Art
 Statikgesetze/NS
 Stationärmotor/S
 Stationärmotoren
@@ -24479,10 +23820,8 @@ Statistikdaten
 Stativsystem/S
 Stativsysteme/N
 stattzuhaben
-Statue of Liberty
 Statutarstadt
 Statutarstädte/N
-Statute Law #eng
 Stauanlage/N
 staubgrau/A
 Staudenkomposition
@@ -24513,7 +23852,6 @@ Steckerbrett/S
 Steckerbretter/N
 Steckrübeneintopf/S
 Steckrübeneintopfes
-Stedelijk Museum
 Stefaniensaal/S #name
 Steffie/S #name
 Stegemann/S #name
@@ -24548,7 +23886,6 @@ Stelzlager/NS
 Stempelungen
 Stenbeck/S #name
 Stencil
-Stenglingser Weg/S
 stenosierend/A
 Stenotypie
 Stéphane/S #name
@@ -24825,7 +24162,6 @@ strieztest
 Stringplan/S
 Stringpläne/N
 Stringplanung
-Stripe Connect
 Stripe/S #name
 Striplokal
 Striplokale/N
@@ -25006,7 +24342,6 @@ Sumo
 Sumoringer/NS
 Sündermann/S #name
 SunExpress #name
-Super Bowl/S #name
 Superbowl/S
 supereinfach/A
 superelastisch/A
@@ -25025,9 +24360,7 @@ Supervisandin
 Supervisandinnen
 Supervisions-Konzept/E
 Supervisors #eng
-supi #ugs
 supplementiert/A
-Supply-Chain-Management/S
 Supportangebot/S
 Supportangebote/NS
 Supportaufwand/S
@@ -25048,8 +24381,6 @@ Supportzeiten
 Suppressor/S
 Suppressoren
 Supreme
-Supreme Court #eng
-Sürenheide/S #name
 Surferlebnis
 Surferlebnisse/NS
 Surferszene
@@ -25061,20 +24392,15 @@ Surimi
 Surrealität
 Surround
 Surroundanlage/N
-Sursee/S #name
 Survey/S
-SuS
 Susann/S #name
 Suspensionsart
 Suspensionsarten
 Suspensionspartikel/N
 Süßkartoffelstampf/S
 Süßlichkeit
-Sustainability #eng
-sustainable #eng
 SUT #abk
 Suworow/S #name
-SVG/S #abk #name
 SW #abk
 Swap/S #eng
 swappe
@@ -25082,11 +24408,9 @@ swappen #eng
 swasiländisch/A
 Swetlana/S #name
 Swiffer #name
-Swing State/S #eng
 Swingjugend
 Swingtanzszene
 Swiss
-Swiss Life/S #name
 Swisttal/S #name
 Switzerland #eng
 Swoboda/S #name
@@ -25267,11 +24591,7 @@ Tauchresort/S
 Täuffelen/S #name
 Taupo #name
 tausendachthundert
-tausendachthundert
-tausendachthundert: 2
 tausendachthundertfünfzig
-tausendachthundertfünfzig
-tausendachthundertfünfzig: 2
 Tausendblattgewächs
 Tausendblattgewächse/NS
 tausendblättrig/A
@@ -25306,7 +24626,6 @@ Tchoukball
 TCI #abk
 TDI/S #abk
 TDV
-Tea Party/S #name
 Teakholzleiter/N
 Teamabstimmung
 Teamabstimmungen
@@ -25574,8 +24893,6 @@ Temperiergeräte/NS
 Temporaladverb/S
 Temporaladverbien
 Temporalbewusstsein/S
-Temptation Island #name
-Tennenbronn/S #name
 Tennō/S
 Tenochtitlán/S #name
 Tenorsänger/S
@@ -25594,8 +24911,6 @@ Terminologielehre
 Terminologieverwaltung
 Terminplananpassung
 Terminplananpassungen
-Terms of Payment #eng
-Terms of Trade #eng
 Terracotta
 Terraform/S #name
 Terraforming
@@ -25638,7 +24953,6 @@ Testudo
 Tête-à-Tête
 Tether #name
 Tétouan/S #name
-Tetra Pak/S
 Tetraplegiker/NS
 Tetraplegikerin
 Tetraplegikerinnen
@@ -25669,22 +24983,11 @@ Thade/S #name
 Thalassämie/N
 Thälmannstraße #name
 Thalwil/S #name
-Thames Clipper
 Thanksgiving #eng
-Thanksgiving Day/S #eng
-Thasos #name
 THB
-The Cure/S #name
-The Guardian #name
-The Independent
-The New York Times
-The Voice of Germany
-The Witcher/S #name
 Theaterplastiker/NS
 Theaterplastikerin
 Theaterplastikerinnen
-Theia #name
-Theiß #name
 Thekenaufsatz
 Thekenaufsätze/N
 Thekenaufsatzes
@@ -25696,7 +24999,6 @@ Thekenfronten
 Thekenmitarbeiter/NS
 Thekenmitarbeiterin
 Thekenmitarbeiterinnen
-Thelen/S #name
 Thematisierungsfunktion
 Thematisierungshäufigkeit
 Thematisierungshäufigkeiten
@@ -25829,8 +25131,6 @@ Tigerbarsch/S
 Tigerbarsche/NS
 Tigerhaut
 Tiguan/S #name
-Tijuana/S #name
-TikTok #name
 Tilemann/S #name
 Tilgungsbedingungen
 Tilgungsbescheinigung
@@ -25845,12 +25145,7 @@ Tilgungssatzänderungen
 Tilgungssatzwechsel/NS
 Tilgungszeichen/S
 Tilidin
-Tim Cook/S #name
 Timaios #name
-Time-to-Market
-Timeline/S
-Timesharing/S #eng
-Timestamp/S #eng
 Timișoara/S #name
 Timmendorf/S #name
 Timmermeisterschule #name
@@ -25861,10 +25156,6 @@ Timur/S #name
 Tinchen/S #name
 Tine/S #name
 tintenverschmiert/A
-Tiny House
-Tiny House Movement/S
-TinyMCE #name
-TinyMCE/S #name
 Tioga/S #name
 Tischautoklav
 Tischautoklaven
@@ -25911,13 +25202,10 @@ Tokenisierung
 Töle/N #ugs
 Toleranzbesoffenheit
 Tolino/S #name
-Toll Collect
-Tollensesee/S #name
 Tollerei
 Tollitätenpaar/S
 Tollitätenpaare/NS
 Tollwood #name
-Tom Sawyer/S
 Tomatensugo
 Tommaso #name
 Toms #name
@@ -25953,7 +25241,6 @@ törichterweise
 Torii
 Torpedoluke/N
 Torquato #name
-Torquato Tasso
 Torque #eng
 Torrevieja/S #name
 Torrosioneffekt/S
@@ -26353,7 +25640,6 @@ Trüffelgericht/S
 Trüffelgerichte/NS
 Trujillo/S
 Trulle
-Trump Jr.
 truppenärztlich/A
 Truppleiter/NS
 Truppleiterin
@@ -26376,13 +25662,11 @@ Tscherenkowstrahlung
 Tschick/S
 TSE #abk
 TSN #abk
-TT.MM.JJJJ
 TT/S #name
 Tubenfalz
 Tubenfalzes
 Tufan/S #name
 TUHH #abk
-TUI fly/S #name
 Tuiskonia #name
 Tulipa
 Tüllrock/S
@@ -26403,7 +25687,6 @@ Tupperparty/S
 Türenschlagen/S
 Türkeiaufenthalt/S
 Türkeiaufenthalte/NS
-Turkish Airlines #name
 Turnaround/S #eng
 Turnbeutelvergesser/NS
 Turnbeutelvergesserin
@@ -26430,20 +25713,14 @@ TÜV-geprüft/A
 TÜV-zertifiziert/A
 Twilio/S #name
 Twillband/S
-Twin Peaks
 Twingo/S #name
 TWINT
 Twitch
-Twitch.tv
-Two and a Half Men #name
 Typhusimpfstoff/S
 Typhusimpfstoffe/NS
-Typo/S
-TYPO3/S #name
 TypoScript #name
 U-Turn/S #eng
 Übelkeiten
-Uber Black/S #name
 überallher
 Überarbeitungskriterien
 Überarbeitungskriterium/S
@@ -26898,15 +26175,8 @@ Uniriese/N
 unironisch/A
 Unit-Test/S
 Unit/S #eng
-United Airlines #name
-United Internet/S #name
-United Nations #name
-United Parcel Service
-United States #name #eng
-United States of America #eng
 United-Airlines-Flug/S
 Unittest/S
-Univ.-Prof. #abk
 univariat/A
 Universalienforschung
 Universitätsmensa
@@ -27089,7 +26359,6 @@ Uranerzaufbereitungsbetriebe/NS
 Uranerzbergbau/S
 Uranerze/NS
 Uranerzlagerstätte/N
-Urban Gardening
 Urbegriff/S
 Urbegriffe/N
 Ureigentümlichkeit
@@ -27121,9 +26390,6 @@ US-Marshal/S
 US-Start-up/S
 usable #eng
 USB-Dongle/S #eng
-Use Case/S
-User Experience
-User Journey/S
 UserBenchmark #name
 Userliste/N
 Userzahlen
@@ -27140,7 +26406,6 @@ Uttendorf/S #name
 UWZ #abk
 V-Brake/S
 VA #abk
-Vaginalbereich/S
 Vaginismus
 Vaginose/N
 Vahrn #name
@@ -27195,7 +26460,6 @@ Vanillenote/N
 Vanja/S #name
 Vans
 Vantage #eng
-Vantage Towers
 Vape #eng #ugs
 Vaper/NS #eng
 Vapiano #name
@@ -27211,7 +26475,6 @@ Vásquez #name
 Vaterländle
 Vaupel/S #name
 VBB
-VBS #abk
 VC/S #abk
 VDA #abk
 VDL #abk
@@ -27641,9 +26904,6 @@ Vernunftprinzip
 Vernunftprinzipien
 Verödungsbehandlung
 Verödungsbehandlungen
-Verona Pooth/S #name
-Veronique/S
-Véronique/S
 verpackungsarm/A
 Verpackungsinfo/S
 Verpflegungsart
@@ -27658,9 +26918,6 @@ Verpflegungspunkt
 Verpflegungspunkte/NS
 Verpflegungszelt
 Verpflegungszelte/NS
-Verpixelung
-Verpixelungen
-verplant/A
 Verpressgut/S
 Verpressgutes
 verpresst/A
@@ -28024,12 +27281,6 @@ Virenscan/S
 Virgel/N
 Virginal/S
 Virginale/N
-Virtual Console
-Virtual Console #eng #name
-Virtual Network
-Virtual Private Network/S #eng
-Virtual Realities
-Virtual Reality
 Virtual-Reality-Bilder/N
 Virtual-Reality-Brille/N
 Virtual-Reality-Technologie
@@ -28084,7 +27335,6 @@ Vivienne/S #name
 Vizekusen #name
 Vizes
 VK #abk
-Vladimir Nabokov/S
 VLAN/S
 VLC/S #name
 Vliesabdeckung
@@ -28092,7 +27342,6 @@ Vliesabdeckungen
 Vlogger/NS
 Vloggerin
 Vloggerinnen
-vlt.
 VMs
 VN #abk
 VNC #abk
@@ -28102,9 +27351,6 @@ Vogelbräu #name
 Vogelsanger #name
 Vogelscharen
 Voglauer/S #name
-Voice of Germany/S #name
-Voicemail/S #eng
-Voiceover
 Voile
 Vojta/S #name
 Vojtatherapie
@@ -28117,8 +27363,6 @@ Volksbegehrensgesetz
 Volksbegehrensgesetzes
 Volksliedbearbeitung
 Volksliedbearbeitungen
-Volkswagen up/S #name
-Volkswagen Up/S #name
 VolkswagenStiftung #name
 Vollacetal
 vollautonom/A
@@ -28521,8 +27765,6 @@ vorzuverurteilen
 vorzuwalten
 vorzuwenden
 vorzuwiegen
-Voß #name
-Votecall/S #eng
 Votierung
 Votivkerze/N
 Votivstatue/N
@@ -28537,8 +27779,6 @@ Vulkaniergruß
 Vulkaniergrußes
 Vulnerabilitäts-Stress-Modell/S
 Vulnerabilitätsgrenze/N
-VW up/S #name
-VW Up/S #name
 VwGH #abk
 VwGVG
 VZ #abk
@@ -28581,15 +27821,9 @@ Waibstadt/S #name
 Waidhofen/S #name
 Waipu/S #name
 WAIS-IV #abk
-Wakeboard/S
-Wakeboarder/NS
-Wakeboarderin
-Wakeboarderinnen
-Wakeboarding
 Walbecker
 Waldbrunn/S #name
 Walderdbeere/N
-Waldmössingen/S #name
 Waldorf/S #name
 Waldorfschüler/NS
 Waldorfschülerin
@@ -28598,7 +27832,6 @@ Waldsassen #name
 Waldschmidt/S #name
 Waldshut-Tiengen #name
 waldwachstumskundlich/A
-Walk of Fame #eng
 walkstabil/A
 Wallberg/S #name
 Wallbox
@@ -28617,9 +27850,6 @@ Walrücken/S
 Walschleben/S #name
 Walsum/S #name
 Walsumer #name
-Walt Disney/S #name
-Walter-Borjans #name
-Waltershofen/S #name
 Walton/S #name
 Walzerbahn
 Walzerbahnen
@@ -29054,9 +28284,7 @@ Werkvertragsbeschäftigte/N
 Werkvertragsbeschäftigter
 werkzeugspezifisch/A
 Wernerwerkdamm/S #name
-Wernher von Braun/S
 Wernher/S #name
-Wernicke/S #name
 wertberichtigt/A
 Werteunion #name
 Wertschätzungsbedürfnis
@@ -29072,9 +28300,7 @@ Weserkurier/S
 Weserpark/S #name
 Wesley/S #name
 Wessi/S
-Westenhellweg/S #name
 Westerfilde/S #name
-Western Blotting
 Westernjacke/N
 Westerzgebirge
 Westerzgebirge/S
@@ -29086,14 +28312,11 @@ Wetteraukreises
 wettkampfkonform/A
 WeWork/S #name
 Weyand/S #name
-WfbM #abk
-Whg.
 Whirlpoolüberdachung
 Whirlpoolüberdachungen
 Whistleblowing/S
 Whiteboardmarker/NS
 Whitney/S #name
-Wi-Fi Direct
 Wichernstraße #name
 wichteln
 Wichtelopfer/NS
@@ -29385,9 +28608,6 @@ Word-Plug-in/S
 Word-Plugin/S
 Worddokument/S
 Worddokumente/N
-WordPress-Add-on/S
-WordPress-Plug-in/S
-WordPress-Plugin/S
 Work-out/S #eng
 Workflow/S #en
 Workshopleiter/NS
@@ -29395,12 +28615,9 @@ Workshopleiterin
 Workshopleiterinnen
 Workspace/S #name
 Workwear #eng
-World Wide Web/S
 World/S #eng
 Wörle/S #name
 Wörner/S #name
-Worst Case/S #eng
-Worstcase/S #eng
 wortlastig/A
 Wostok/S #name
 Wouters #name
@@ -29436,7 +28653,6 @@ Wundscheuern/S
 Wunscherfüller/NS
 Wunstorfer #name
 würd #ugs
-wurst # "jemandem wurst sein"
 wurste
 wursten
 wurstest
@@ -29456,10 +28672,8 @@ Wuxal #name
 WVL/S #name
 WW/S #name #abk
 WWW
-Wyatt Earp
 XAIN
 Xanax #name
-Xanthan
 XAS
 Xcode/S #name
 XDAX #name
@@ -29476,7 +28690,6 @@ XY #abk
 XYZ #abk
 Yachtcharter
 Yachtcharterer/NS
-Yahoo Search #name
 Yakkäse/S
 YAML/S #abk
 Yannic/S #name
@@ -29489,12 +28702,8 @@ Yazd #name
 yeah
 Yealink #name
 Yellen/S
-Yellow Press
 YFood/S #name
 Yggdrasil/S #name
-Yildirim/S #name
-Yildiz #name
-Yilmaz #name
 yippie
 Yo-Yos
 Yogablock/S
@@ -29630,7 +28839,6 @@ zerbrech #ugs
 zerdenken #ugs
 Zerfallskinetiken
 Zerlegungstabelle/N
-Zero Day/S
 Zerschneidungsvorgang/S
 Zerschneidungsvorgänge/N
 zerschroten #ugs #todo
@@ -30547,9 +29755,6 @@ Zyklusunregelmäßigkeit
 Zyklusunregelmäßigkeiten
 Zystenniere/N
 Zystoskopie/N
-Zytglogge #name
 Zytokinsturm/S
 Zytokinstürme/N
 Zytopathologie
-ΔT
-µm
