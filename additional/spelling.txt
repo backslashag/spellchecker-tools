@@ -14,7 +14,7 @@
 # /A will add e, er, es, en, em (for adjectives - no comparative, no superlative)
 #             if the word already ends in 'e', only r, s, n, m will be added
 # /F will add in (for gendered nouns)
-# Use `prefix_verb` to prepend the given prefix to all forms of the verb (does not work for verbs with "ß" yet).
+# Use `prefix_verb` to prepend the given prefix to all forms of the verb (does not work for verbs with "ss" yet).
 # The lines in `prefix_verb` syntax will also be used by GermanTagger.
 
 
@@ -292,8 +292,8 @@ Abstellungsperiode/N
 Abstimmbarkeit
 abstimmungsfähig/A
 abstimmungstechnisch/A
-Abstoßhilfe/N
-Abstoßzone/N
+Abstosshilfe/N
+Abstosszone/N
 abstrahierbar/A
 Abstraktionismus
 Abstreifgitter/SN
@@ -311,7 +311,7 @@ Abtanzball
 Abtauverhalten/S
 abteilungsbezogen/A
 abteilungsintern/A
-abteilungsmäßig/A
+abteilungsmässig/A
 Abteimauer/N
 abticken #ugs
 Abtrennbarkeit
@@ -380,7 +380,7 @@ abzulochen
 abzulocken
 abzumarken
 abzumeiern
-abzumeißeln
+abzumeisseln
 abzumindern
 abzumindernde
 abzuminderndem
@@ -526,8 +526,8 @@ Adenauerhaus
 Adenauerhauses
 adenoidzystisch/A
 Adesso/S #name
-Adhäsivverschleiß
-Adhäsivverschleißes
+Adhäsivverschleiss
+Adhäsivverschleisses
 Adiabatenexponent
 Adiabatenexponenten
 adidas #eigenname
@@ -914,8 +914,8 @@ Amy/S #name
 Amyloid-Precursor-Protein/S
 AMZ/S #abk
 Anadiplose/N
-Anaerobengefäß
-Anaerobengefäße/NS
+Anaerobengefäss
+Anaerobengefässe/NS
 Analgesie
 analogisierend/A
 Analysenspektrum/S
@@ -1162,9 +1162,9 @@ Anreizprogramme/NS
 Anrichtung
 Ansammlungsverbot/ES
 anschaffungsnah/A
-anscheiße #ugs
-anscheißen #ugs
-anscheißt #ugs
+anscheisse #ugs
+anscheissen #ugs
+anscheisst #ugs
 Anschiebetisch/S
 Anschiebetische/NS
 anschleichend/A
@@ -1178,7 +1178,7 @@ Anschuldigungsschrift
 Anschuldigungsschriften
 Anschwung/S
 anseh #ugs
-Ansichreißen/S
+Ansichreissen/S
 ansichtig
 ansimsen #ugs
 Ansparung
@@ -1194,7 +1194,7 @@ ansteckendster
 ansteckendstes
 ansteckungsarm/A
 anstöpseln #ugs
-anstoßbedingt/A
+anstossbedingt/A
 Anströmung
 anstupse #ugs
 anstupsen #ugs
@@ -1344,7 +1344,7 @@ anzureiben
 anzusägen
 anzusäuern
 anzuschleppen
-anzuschmeißen #ugs
+anzuschmeissen #ugs
 anzuschmieden
 anzuschüren
 anzuschwärmen
@@ -1352,7 +1352,7 @@ anzuschweigen
 anzusegeln
 anzusinnen
 anzusitzen
-anzuspießen
+anzuspiessen
 anzuspritzen
 anzuspüren
 anzustänkern
@@ -1415,7 +1415,7 @@ Approbationsurkunde/N
 Approbationsverfahren/S
 Approximationsfehler/NS
 Apraxie/N
-aprikosengroß/A
+aprikosengross/A
 Aptamere/N
 Aquajogging
 aquakulturell/A
@@ -1715,11 +1715,11 @@ auflasteten
 auflastetest
 Auflastung
 aufmach #ugs
-Aufmaßerstellung
-Aufmaßerstellungen
-Aufmaßtechniker/NS
-Aufmaßtechnikerin
-Aufmaßtechnikerinnen
+Aufmasserstellung
+Aufmasserstellungen
+Aufmasstechniker/NS
+Aufmasstechnikerin
+Aufmasstechnikerinnen
 aufmerksamkeitserregend/A
 aufmesse/N
 aufmessend/A
@@ -1762,7 +1762,7 @@ aufschlauen
 aufschlecke #ugs
 aufschlecken #ugs
 aufschleckst #ugs
-Aufschließung
+Aufschliessung
 Aufsetzung
 aufsichtsähnlich/A
 aufsichtskonform/A
@@ -1785,7 +1785,7 @@ Auftragetechniken
 Auftragnehmerfirma
 Auftragnehmerfirmen
 Auftragsbestätigungs-E-Mail/S
-Auftragschweißen/S
+Auftragschweissen/S
 Auftragsentkopplungspunkt
 Auftragsentkopplungspunkte/NS
 Auftragserteilungsdatum/S
@@ -1974,7 +1974,7 @@ Auskragungen
 Auskunftsbefugte/N
 Auskunftsbefugter
 auskunftsberechtigt/A
-auskunftsgemäß/A
+auskunftsgemäss/A
 auskungeln #ugs
 Auslagenvorschuss
 Auslagenvorschüsse/N
@@ -2007,7 +2007,7 @@ Auspolsterungen
 Ausproduktion
 Ausradierungen
 Ausraubung
-ausreißgesichert/A
+ausreissgesichert/A
 Ausrichthilfe/N
 Ausrichtungslogik
 Ausrichtungsposition
@@ -2023,7 +2023,7 @@ aussamte
 aussamten
 Ausschalter/SN
 Ausschlagung
-Ausschließlichkeitsvermittler/NS
+Ausschliesslichkeitsvermittler/NS
 Ausschmelzverfahren/S
 Ausschnitthaftigkeit
 ausschöpfend/A
@@ -2036,18 +2036,18 @@ Ausschwemmung
 Ausschwemmungen
 ausschwenkbar/A
 ausseh #ugs
-Außengastro #ugs
-Außenliegenschaften
-Außensechskantschaft
-Außenseiterfigur
-Außenseiterfiguren
-Außerbetriebnahmetaster/NS
-Außerkrafttretensdatum/S
-außersteuerlich/A
-Äußerungsbögen
-Äußerungsbogen/S
-Äußerungsrecht
-Äußerungsrechtes
+Aussengastro #ugs
+Aussenliegenschaften
+Aussensechskantschaft
+Aussenseiterfigur
+Aussenseiterfiguren
+Ausserbetriebnahmetaster/NS
+Ausserkrafttretensdatum/S
+aussersteuerlich/A
+Äusserungsbögen
+Äusserungsbogen/S
+Äusserungsrecht
+Äusserungsrechtes
 Aussetzungsanordnung
 Aussetzungsanordnungen
 Ausspracheübung
@@ -2137,7 +2137,7 @@ auszuringen
 auszuroden
 auszusamen
 auszusaufen
-auszuschießen
+auszuschiessen
 auszuschildern
 auszuschlürfen
 auszuschmelzen
@@ -2284,7 +2284,7 @@ Badbeleuchtung
 Badenstedt/S #name
 Badentlüftung
 Badentlüftungen
-Bäderschließungen
+Bäderschliessungen
 Badge/S #name
 Badgestaltung
 Badhocker/SN
@@ -2306,9 +2306,9 @@ BAF
 BAFA/S #abk #name
 Bafin #name
 Bag/S
-Bagatellverstoß
-Bagatellverstöße/N
-Bagatellverstoßes
+Bagatellverstoss
+Bagatellverstösse/N
+Bagatellverstosses
 Bahai
 Bahaitum/S
 Bahlingen/S #name
@@ -2569,7 +2569,7 @@ Bedarfsvalidierung
 bedarfsweise
 bedienerunabhängig/A
 bedingungsfrei/A
-bedingungsgemäß/A
+bedingungsgemäss/A
 Bednorz #name
 Bedürfnisweckung
 Beef #eng
@@ -2707,14 +2707,14 @@ beispachtelst
 beispachtelt
 beispachtelte/N
 beispielartig/A
-beiß
-Beißattacke/N
-Beißerei
-beißfest/A
-Beißproblem/S
-Beißvorfall/S
-Beißvorfälle/N
-Beißwut
+beiss
+Beissattacke/N
+Beisserei
+beissfest/A
+Beissproblem/S
+Beissvorfall/S
+Beissvorfälle/N
+Beisswut
 Beiständin
 Beiständinnen
 Beitragssenkungsoption
@@ -2733,7 +2733,7 @@ beizubiegen
 Beizung
 beizuschaffen
 beizuschlafen
-beizuschließen
+beizuschliessen
 beizuschreiben
 beizuspachteln
 beizuzählen
@@ -2769,7 +2769,7 @@ Bell/S #name
 Bella/S #name
 Belledonne #name
 Bellenberg/S #name
-Bellermannstraße #name
+Bellermannstrasse #name
 Bello/S #name
 Belohnungselement
 Belohnungselemente/NS
@@ -2780,7 +2780,7 @@ Belustigungsort/ES
 Belustigungsorten
 bemähnt/A
 Bemängelung
-Bemaßungsstil/S
+Bemassungsstil/S
 bemehle/N
 bemehlst
 bemehlt/A
@@ -2840,8 +2840,6 @@ Beräumung
 Berberfrau
 Berberfrauen
 Berberis
-Berching/S #name
-Berchtoldstag
 berechnendste
 berechnendstem
 berechnendsten
@@ -2874,13 +2872,10 @@ Berkowitz #name
 berlinert
 Bernard/S #name
 Bernfried/S #name
-Bernhard-Nocht-Institut/S
-Bernhard-Nocht-Institutes
 Bernhausen/S #name
 Bernie/S #name
-Bernkastel-Kues #name
 Bernkastel/S #name
-Bernoullistraße #name
+Bernoullistrasse #name
 Bernsteinen
 Bernsteinfelsen/S
 Berstdruck/S
@@ -2896,7 +2891,7 @@ berufsunerfahren/A
 berufungsrechtlich/A
 Berührlinie/N
 berührungssicher/A
-berußt/A
+berusst/A
 Besamungsmethode/N
 besänne/N
 besäume/N
@@ -2928,14 +2923,14 @@ Beschichtungsabweichungen
 Beschichtungsoberfläche/N
 Beschlagset/S
 Beschlagtechnik
-Beschließung
-beschlussgemäß/A
+Beschliessung
+beschlussgemäss/A
 beschneidungsfrei/A
 Beschneiungsmaschine/N
 Beschneiungszwecke/N
 Beschränkungskonzept/S
 Beschränkungskonzepte/N
-beschreibungsgemäß/A
+beschreibungsgemäss/A
 Beschriftungsbild
 Beschriftungsbilder/N
 Beschriftungsbildes
@@ -2985,7 +2980,7 @@ Bestellungsvorgänge/N
 besternt/A
 Bestickungen
 bestimmungsgerecht/A
-Bestoßungen
+Bestossungen
 Bestrafungsaktion
 Bestrafungsaktionen
 bestverschlossen/A
@@ -3352,7 +3347,7 @@ Blohm/S #name
 Blomberg-Fritsch-Krise
 Blondierungen
 Blu-Ray-Player/NS #eng
-Blücherstraße #name
+Blücherstrasse #name
 Bluecode
 Bluegrass
 Blueprint/S #eng
@@ -3484,8 +3479,8 @@ bösartigsten
 bösartigster
 bösartigstes
 Bosbach/S #name
-Boßelturnier/S
-Boßelturniere/N
+Bosselturnier/S
+Bosselturniere/N
 Bossigasse #name
 Bosskämpfe/N
 Bot/S
@@ -3557,7 +3552,7 @@ Braterdäpfel/N
 Braterdapfel/S
 Brauchwassererwärmung
 Brauchwasserquelle/N
-Braukämperstraße #name
+Braukämperstrasse #name
 braungolden/A
 Braunhirsemehl/S
 Bräunungsgrad/ES
@@ -3579,7 +3574,7 @@ Breinlinger/S #name
 Breitband-Hochtöner/NS
 breitbasig/A
 breitbuschig/A
-Breitdornschließe/N
+Breitdornschliesse/N
 Breitenmoser/S #name
 Breitnau/S #name
 Breitscheid/S #name
@@ -3693,7 +3688,7 @@ Brüggemann/S #name
 brüh
 Brüheinheit
 Brüheinheiten
-Brühlstraße #name
+Brühlstrasse #name
 Bruhn/S #name
 Brühzeit
 Brühzeiten
@@ -3830,7 +3825,7 @@ Büsing/S #name
 Buskapstein/S
 Buskapsteine/N
 Busoni/S #name
-Bussardstraße #name
+Bussardstrasse #name
 Bütgenbach/S #name
 Büttelborn/S #name
 Butterreinfett/S
@@ -4024,7 +4019,7 @@ CDI #abk
 CDN/S #abk #eng
 CE
 Cécile/S #name
-Cecilienstraße
+Cecilienstrasse
 Ceconomy/S #name
 Cederik/S #name
 Cedrik/S #name
@@ -4196,7 +4191,7 @@ Chymotrypsinogen/S
 Chypre
 CI #abk
 Ciabatta/S
-Cicerostraße
+Cicerostrasse
 Ciechanowiec #name
 Cineastik
 cinephil/A
@@ -4224,7 +4219,7 @@ Clare/S #name
 Clariant #name
 Clarissa/S #name
 Clásico
-Claßen/S #name
+Classen/S #name
 Classic/S #eng
 Classroom/S #name
 Claude-Christophe/S #name
@@ -4444,7 +4439,7 @@ Coronainfektionen
 coronainfiziert/A
 coronakonform/A
 Coronakrise/N
-coronamäßig/A
+coronamässig/A
 Coronamutationsgebiet/S
 Coronamutationsgebiete/N
 coronapositiv/A
@@ -4693,7 +4688,7 @@ dartete
 darteten
 dartetest
 Dartspielen/S
-darübergießen #todo
+darübergiessen #todo
 Dasing/S #name
 Dasinger #name
 DAT
@@ -5047,7 +5042,7 @@ Dichteschätzungen
 Dichtestress
 Dichtestresses
 Dichtezusammenhang/S
-dichtschließend/A
+dichtschliessend/A
 Dickens #name
 Dickentoleranz
 Dickentoleranzen
@@ -5062,7 +5057,6 @@ Dielung
 Dielungen
 Dieneruniform
 Dieneruniformen
-Dienstbarkeiten
 Dienstgradschlaufe/N
 Dienstleisterauswahl
 Dienstleistertätigkeiten
@@ -5134,7 +5128,7 @@ Dilemmasituationen
 Dillsauce/N
 Dimensionierungsprozess/E
 Dimensionsreduzierung
-Dimitroffstraße #name
+Dimitroffstrasse #name
 Dimmschalter/NS
 Dimona #name
 Dingelsdorf/S
@@ -5325,7 +5319,7 @@ Dorngrasmücke/N
 Dornstadt/S #name
 Doro/S #name
 Dorota/S #name
-Dorothea-Erxleben-Straße #name
+Dorothea-Erxleben-Strasse #name
 Dorothea-Neff-Preis
 Dorothea-Neff-Preise/NS
 Dorothy/S #name #eng
@@ -5417,23 +5411,23 @@ dranzugehen
 dranzukriegen
 dranzunehmen
 dranzusetzen
-draufbeiße
-draufbeißen
-draufbeißt
+draufbeisse
+draufbeissen
+draufbeisst
 draufgebissen
 draufgegangen #ugs
 draufgehabt #ugs
 draufgeschaut
-draufgestoßen
+draufgestossen
 draufschaue
 draufschauen
 draufschauend/A
 draufschaust
 draufschaute/N
 draufschautest
-draufstoßen #todo
+draufstossen #todo
 drauftippen
-draufzubeißen
+draufzubeissen
 draufzugeben
 draufzugehen
 draufzuhalten
@@ -5478,7 +5472,7 @@ dreitausendsiebenhundert
 dreitausendvierhundert
 dreitausendzweihundert
 Drempelbereich/S
-Dreßler/S #name
+Dressler/S #name
 Drewes #name
 Drexler/S #name
 Driftwinkel/NS
@@ -5633,7 +5627,7 @@ Durchlademöglichkeit
 Durchlademöglichkeiten
 Durchlassbereich/E
 Durchlauchten
-Durchmessergröße/N
+Durchmessergrösse/N
 durchökonomisiert/A
 Durchölung
 Durchölungszeit
@@ -5646,7 +5640,7 @@ Durchschnittsverbräuche/N
 Durchschubsicherung
 Durchschubsicherungen
 Durchschubspülmaschine/N
-Durchschweißung
+Durchschweissung
 durchscrolle
 durchscrollen
 durchscrollend/A
@@ -5954,7 +5948,7 @@ einbrockst #ugs
 einbrockt #ugs
 Einbürgerungszusicherung
 Einbürgerungszusicherungen
-Eindämmungsmaßnahme/N
+Eindämmungsmassnahme/N
 Eindämmungsplan/S
 Eindämmungspläne/N
 eindrille/N
@@ -6007,8 +6001,8 @@ Einhell #name
 einherzugehen
 einherzuschreiten
 einherzustolzieren
-einhundertdreißigtausend
-einhundertunddreißigtausend
+einhundertdreissigtausend
+einhundertunddreissigtausend
 einigzugehen
 einköcheln #todo
 einkomponentig/A
@@ -6079,7 +6073,7 @@ Einschätzungsspielraum/S
 Einschätzungsspielräume/N
 Einschätzungsverfahren/S
 Einschätzungsvorschläge/N
-einscheißen #ugs
+einscheissen #ugs
 einschiebbar/A
 Einschiffungsdaten
 Einschiffungsdatum/S
@@ -6268,7 +6262,7 @@ Elbauenpark/S
 Elbeästuar/S
 Elbenepos
 Elbetal/S #name
-Elbgaustraße #name
+Elbgaustrasse #name
 Elbgrund #name
 Elbsee/S #name
 Elbstation
@@ -6366,12 +6360,7 @@ emballierend/A
 emballierst
 emballiert/A
 emballiertest
-Embargoland
-Embargoländer/N
-Embargolandes
 Embodiment
-Embolus
-Embrach/S #name
 EMEA/S #abk
 Emeli/S #name
 Emerson/S #name
@@ -6512,7 +6501,7 @@ entgegenzulachen
 Entgeltfortzahlungsanspruch/S
 Entgiftungsarbeit
 Entgiftungsfunktion
-Entgiftungsmaßnahme/N
+Entgiftungsmassnahme/N
 Entgiftungsmethode/N
 Entgiftungstee/S
 Entgiftungstrank/S
@@ -6569,7 +6558,7 @@ entschlauche/N
 entschlauchst
 entschlaucht/A
 Entschleuniger/NS
-Entschließungsermessen/S
+Entschliessungsermessen/S
 Entschlüsselungsmethode/N
 Entsendungsvertrag/S
 Entsendungsverträge/N
@@ -6631,7 +6620,7 @@ Entzündungssymptome/N
 Entzündungssystem/S
 Entzündungswerte/N
 Entzündungszelle/N
-entzweizureißen
+entzweizureissen
 entzweizuschlagen
 Enumerationsprinzip/S
 enumeriere/N
@@ -6641,7 +6630,7 @@ enumeriert/A
 enumeriertest
 Enzersdorf/S #name
 Enzo/S #name
-Enzstraße #name
+Enzstrasse #name
 Enzyklopädismus
 Enzymaktivitätstest/S
 Enzymanalytik
@@ -6660,10 +6649,6 @@ Epenwöhrden/S #name
 Ephebie
 Ephoren
 Epic-Games-Konto/S
-Epidemiekurve/N
-Epidemiengesetz
-Epidemiengesetzes
-Epidemievorbeugung
 Epiduralanästhesie/N
 Epigenom/S
 Epiphänomenalismus
@@ -6811,7 +6796,7 @@ Erledigungserklärung
 Erledigungserklärungen
 Erleichterungsschrei/E
 Erlenhof/S #name
-Erlenstraße
+Erlenstrasse
 Erlenzapfen/S
 Erleuchter/S
 Erlösausfall/S
@@ -6826,10 +6811,10 @@ Erlösrechnungen
 Erlösungsplan/S
 Erlösverprobung
 Erlösverprobungen
-Ermäßigungsantrag/S
-Ermäßigungsanträge/N
+Ermässigungsantrag/S
+Ermässigungsanträge/N
 ermittlungsrelevant/A
-ernährungsmäßig/A
+ernährungsmässig/A
 ernährungsspezifisch/A
 Erneuerbarkeit
 Ernstthal/S #name
@@ -6861,10 +6846,10 @@ Ersatzwischblätter/N
 Erschaffungsprozess
 Erschaffungsprozesse/NS
 erschein #ugs
-Erschließungsqualität
-Erschließungsrecht/S
-Erschließungssystem/S
-Erschließungssysteme/N
+Erschliessungsqualität
+Erschliessungsrecht/S
+Erschliessungssystem/S
+Erschliessungssysteme/N
 erschmecke/N
 erschmeckend/A
 Erschmeckens
@@ -6995,7 +6980,7 @@ Espressolöffelchen/S
 Espressotässchen/S
 Espressotasse/N
 Esquinzo #name
-Eßbach/S #name
+Essbach/S #name
 ESSEC #abk
 Essen-Schonnebeck/S #name
 Essengehen/S
@@ -7187,7 +7172,6 @@ EY #name #abk
 Eye-Catcher/NS
 Eye-Liner/NS
 Eyeliner/NS
-Eyjafjallajökull/S #name
 Eyleen/S #name
 Eystrup/S
 EZR
@@ -7200,20 +7184,10 @@ Fabelvolk/S
 Fabelvölker/N
 Fabelvolkes
 Fabi/S #name #abk
-Fabien/S #name
-Fabienne/S #name
-Fabio/S #name
 Fabrikantenhaus
 Fabrikantenhäuser/N
 Fabrikantenhauses
 Fabritius #name
-Face-to-Face-Kommunikation
-Facecam/S
-Facelift/S #eng
-Facelifting/S #eng
-FaceTime/S #name
-facettengeschliffen/A
-facettiert/A
 Fachanleiter/NS
 Fachanleiterin
 Fachanleiterinnen
@@ -7298,7 +7272,7 @@ Falkenheim/S #name
 Falkensteiner/S #name
 Falkenweg/S #name
 Falkert/S #name
-fallabschließend/A
+fallabschliessend/A
 Fällarbeiten
 Fallback/S #eng
 fallbasiert/A
@@ -7354,7 +7328,7 @@ Farbeindringprüfungen
 Farbeindringverfahren/S
 Farbenbenennung
 Farbenbenennungen
-farbenmäßig/A
+farbenmässig/A
 Farbenpinsel/NS
 farbentechnisch/A
 farbgleich/A
@@ -7372,7 +7346,7 @@ Farmleiterin
 Farmleiterinnen
 Faro/S #name
 FAS
-Fasanenstraße #name
+Fasanenstrasse #name
 Fasanenweg/S
 faserfrei/A
 fashionable
@@ -7458,7 +7432,6 @@ fehlerarm/A
 fehlgeprägt/A
 fehlzugehen
 fehlzuschlagen
-Fehrenbach/S #name
 Feiertagslockdown/S
 Feilbild
 Feilbilder/N
@@ -7814,11 +7787,11 @@ Fliederweg/S
 Fliesenlegerbetrieb/S
 Fliesenlegerbetriebe/NS
 Fliesenlegermeister/S
-fließendste
-fließendstem
-fließendsten
-fließendster
-fließendstes
+fliessendste
+fliessendstem
+fliessendsten
+fliessendster
+fliessendstes
 Flightcase/S
 Flightradar24 #name
 Flintbek/S #name
@@ -7856,7 +7829,7 @@ Floristikunternehmen/S
 Floristmeister/NS
 Floristmeisterin
 Floristmeisterinnen
-Floßbau/S
+Flossbau/S
 flottzukriegen
 Flow/S #eng
 Flowchart/S #eng
@@ -7975,7 +7948,7 @@ Fortbewegungsgeschwindigkeit
 Fortbewegungsgeschwindigkeiten
 Fortbewegungstechnologie/N
 fortführbar/A
-Fortführungsmaßnahme/N
+Fortführungsmassnahme/N
 Fortführungsrecht/S
 Fortführungsrechtes
 Fortgeschrittenenprogramm/S
@@ -8081,7 +8054,7 @@ freihattet
 freikriegen #ugs
 freikünstlerisch/A
 Freilegungskosten
-Freilegungsmaßnahme/N
+Freilegungsmassnahme/N
 Freiraumschaffer/NS
 freirubbele #ugs
 freirubbeln #ugs
@@ -8104,7 +8077,7 @@ Freizügigkeitsberechtigung
 Freizügigkeitskonten
 Freizügigkeitskonto/S
 freizukriegen
-freizuschießen
+freizuschiessen
 fremdaggressiv/A
 fremdanamnestisch/A
 fremdnützig/A
@@ -8127,7 +8100,7 @@ Fridericianum/S #name
 friedensethisch/A
 friedensfördernd/A
 Friedensreiches
-Friedenstraße
+Friedenstrasse
 Friedhofsgesetz
 Friedhofsgesetzes
 Friedhofsmanagement/S
@@ -8292,26 +8265,26 @@ Funnel/S
 Furkan/S #name
 Fuselalkohol/S
 Fuselalkohole/N
-fußballbezogen/A
-Fußballenbereich/S
-fußballspezifisch/A
-füßebaumelnd/A
-Fußgängerausbildung
-Fußgängererkennung
-Fußgängerfreundlichkeit
-fußgängergerecht/A
-Fußgängerkollision
-Fußgängerkollisionen
-Fußgängerschutz
-Fußgängerschutzes
-Fußgängersignalgruppe/N
-Fußgängertor/S
-Fußgängertore/NS
-Fußgängerverhalten/S
+fussballbezogen/A
+Fussballenbereich/S
+fussballspezifisch/A
+füssebaumelnd/A
+Fussgängerausbildung
+Fussgängererkennung
+Fussgängerfreundlichkeit
+fussgängergerecht/A
+Fussgängerkollision
+Fussgängerkollisionen
+Fussgängerschutz
+Fussgängerschutzes
+Fussgängersignalgruppe/N
+Fussgängertor/S
+Fussgängertore/NS
+Fussgängerverhalten/S
 Füssing/S #name
-Fußpulse
-Fußschalterunterstützung
-Fußwärmer/NS
+Fusspulse
+Fussschalterunterstützung
+Fusswärmer/NS
 FuStW
 Futonbett/S
 Futonbetten
@@ -8566,7 +8539,7 @@ gegrabscht/A
 Gehaltsabrechner/NS
 Gehaltsabrechnerin
 Gehaltsabrechnerinnen
-gehaltsmäßig/A
+gehaltsmässig/A
 gehändelt
 gehandwerkelt
 geheimdiensttypisch/A
@@ -8593,8 +8566,8 @@ Gehwegüberfahrten
 gehypt/A
 Geinsheim/S #name
 Geinsheimer #name
-Geißenklösterle/S #name
-Geißlerbewegung
+Geissenklösterle/S #name
+Geisslerbewegung
 Geistigbehindertenpädagogik
 gejährt
 gekellnert
@@ -8640,7 +8613,7 @@ gelullt/A
 geluncht
 gemailt/A
 gemalmt
-gemäßigter/A
+gemässigter/A
 Gemeindediakonin
 Gemeindediakoninnen
 gemeinschaftsfeindlich/A
@@ -8757,7 +8730,7 @@ Geradehalter/NS
 Gerardo/S #name
 Gerattere/S
 Geraufe/S
-geräuschmäßig/A
+geräuschmässig/A
 gerechtigkeitstheoretisch/A
 geringgradig/A
 gerinnungsfördernd/A
@@ -9044,7 +9017,7 @@ GLN/S #abk
 Globalisierer/NS
 Globalismus
 Globulus
-Glockengießerwall/S #name
+Glockengiesserwall/S #name
 Glockensachverständige/N
 Glockensachverständiger
 Glorie/N
@@ -9125,8 +9098,8 @@ Gospelsinger/S
 Gospelsingerin
 Gospelsingerinnen
 Gossenjournalismus
-Gößnitzkopf/S #name
-Gößnitztal/S #name
+Gössnitzkopf/S #name
+Gössnitztal/S #name
 Gösta/S #name
 Gotteskindschaft
 gotteslästernd/A
@@ -9277,15 +9250,15 @@ Grisella/S #name
 Grobmotoriker/SN
 Grohe/S #name
 GroKo/S #abk #name
-größenbeschränkt/A
-größenveränderbar/A
-Großgründlach/S #name
-Großliebental/S
+grössenbeschränkt/A
+grössenveränderbar/A
+Grossgründlach/S #name
+Grossliebental/S
 Grossmann/S #name
-Großpetersdorf/S #name
-großspannig/A
-Großvenediger/S #name
-großzumachen
+Grosspetersdorf/S #name
+grossspannig/A
+Grossvenediger/S #name
+grosszumachen
 Grötzinger/S #name
 Group/S #eng
 Gruftgewölbe/NS
@@ -9364,9 +9337,9 @@ Gutbürgerin
 Gutbürgerinnen
 Gute-KiTa-Gesetz
 Gute-KiTa-Gesetzes
-Gutenmorgengruß
-Gutenmorgengrüße/N
-Gutenmorgengrußes
+Gutenmorgengruss
+Gutenmorgengrüsse/N
+Gutenmorgengrusses
 Guthabenauszahlung
 Guthabenauszahlungen
 Guthabenbasis
@@ -9433,7 +9406,7 @@ Hagebuttenöl/S
 Hagebuttenöle/N
 Hagemann/S #name
 Hagenberg/S #name
-Hagenstraße #name
+Hagenstrasse #name
 hahaha #ugs
 Hahnblock/S
 Hahnblöcke/N
@@ -9486,7 +9459,7 @@ HAM-Nat #abk
 Hamann/S #name
 Hämaturie/N
 Hamilton/S #name
-hammermäßig/A
+hammermässig/A
 Hämolymphe
 Hampstead/S #name
 Hamsterei #ugs
@@ -9505,7 +9478,7 @@ händelst
 händelt
 händelte
 händelten
-handflächengroß/A
+handflächengross/A
 handgefärbt/A
 handgepolstert/A
 handgeschnitten/A
@@ -9611,7 +9584,7 @@ Haubenspülmaschine/N
 Haubold/S #name
 Hauches
 Haumann/S #name
-Hauptabmaße
+Hauptabmasse
 Hauptbilligkeitsdarlehen/S
 Häuptel/NS
 Haupterzgang/S
@@ -9645,7 +9618,7 @@ Häutungsintervalle/N
 hautverträglich/A
 Havighurst/S #name
 Hawking/S #name
-Haydnstraße
+Haydnstrasse
 Hayek/S #name
 HBBK #abk
 HD-TV/S
@@ -9720,12 +9693,12 @@ Heinicke/S #name
 Heiningen/S #name
 Heinkel/S #name
 Heinlein/S #name
-Heinrichstraße #name
+Heinrichstrasse #name
 Heinze #name
 Heinzelmann/S #name
-heißgeräuchert/A
-Heißsiegelmaschine/N
-Heißwasseraquifere/N
+heissgeräuchert/A
+Heisssiegelmaschine/N
+Heisswasseraquifere/N
 Heitmann/S #name
 Heizpad/S
 Helaba/S #name
@@ -9803,7 +9776,7 @@ herausguckend/A
 Heraushebungsmerkmal/S
 Heraushebungsmerkmale/N
 herausklappbar/A
-herausmeißeln #todo
+herausmeisseln #todo
 herauspuste
 herauspusten
 herauspustest
@@ -9813,9 +9786,9 @@ herauspusteten
 herauspustetest
 herausragender/A
 herausschauend/A
-heraussprieße
-heraussprießen
-heraussprießt
+herausspriesse
+herausspriessen
+herausspriesst
 herausspritzend/A
 herauszoomen
 herauszubohren
@@ -9832,7 +9805,7 @@ herauszuschleichen
 herauszuschnüffeln
 herauszusehen
 herauszustaffieren
-herauszustoßen
+herauszustossen
 herauszutun
 herauszuzoomen
 herbegeben
@@ -9853,7 +9826,7 @@ hereingeschoben/A
 hereinlaufend/A
 hereinscheinend/A
 hereinströmend/A
-hereinzureißen
+hereinzureissen
 hergeflogen/A
 hergejagt
 hergemusst
@@ -9911,7 +9884,7 @@ hertransportiert
 Hertzsprung-Russell-Diagramm/S
 herüberschauend
 herüberzurufen
-herumbeißen #todo
+herumbeissen #todo
 herumbissen
 herumbrodele
 herumbrodeln
@@ -9947,7 +9920,7 @@ herumdöst
 herumdöste/N
 herumdöstest
 Herumfliegerei
-herumfließen
+herumfliessen
 herumfotografieren #ugs
 herumfotografierst #ugs
 herumfotografiert #ugs
@@ -10080,7 +10053,7 @@ herumzumeckern
 herumzuprassen #ugs
 herumzurasen
 herumzurechnen
-herumzuschießen
+herumzuschiessen
 herumzuschlendern
 herumzuschnuppern
 herumzuscrollen
@@ -10155,7 +10128,7 @@ herunterzustellen
 Hervey/S #name
 hervorgepresst/A
 hervorgesagt
-hervorgestoßen/A
+hervorgestossen/A
 hervorgewölbt
 Hervorhebungseffekt/S
 Hervorhebungseffekte/NS
@@ -10389,7 +10362,7 @@ hinausflatterst
 hinausflattert
 hinausflatterte/N
 hinausflattertest
-hinausfließen #todo
+hinausfliessen #todo
 hinausgeblasen
 hinausgedreht
 hinausgedrückt
@@ -10489,7 +10462,7 @@ hinauszuhalten
 hinauszumanövrieren
 hinauszunehmen
 hinauszurücken
-hinauszuschmeißen
+hinauszuschmeissen
 hindrehe
 hindrehen
 hindrehend
@@ -10498,9 +10471,9 @@ hindreht
 hindrehte
 hindrehten
 hindrehtest
-hindurchaß
-hindurchaßen
-hindurchaßt
+hindurchass
+hindurchassen
+hindurchasst
 hindurchblickend
 hindurchbrachte
 hindurchbrachten
@@ -10580,7 +10553,7 @@ hindurchgeschritten
 hindurchgesehen
 hindurchgesteckt
 hindurchgestiegen
-hindurchgestoßen
+hindurchgestossen
 hindurchgetaucht
 hindurchgetrieben
 hindurchgewunden
@@ -10698,9 +10671,9 @@ hindurchschien
 hindurchschiene
 hindurchschienen
 hindurchschient
-hindurchschieße
-hindurchschießen
-hindurchschießend
+hindurchschiesse
+hindurchschiessen
+hindurchschiessend
 hindurchschimmere
 hindurchschimmern
 hindurchschimmernd
@@ -10746,9 +10719,9 @@ hindurchstiege
 hindurchstiegen
 hindurchstiegst
 hindurchstiegt
-hindurchstoße
-hindurchstoßen
-hindurchstößt
+hindurchstosse
+hindurchstossen
+hindurchstösst
 hindurchtauche
 hindurchtauchen
 hindurchtauchend
@@ -10802,15 +10775,15 @@ hindurchzukommen
 hindurchzulaufen
 hindurchzuleiten
 hindurchzuschieben
-hindurchzuschießen
+hindurchzuschiessen
 hindurchzuschimmern
 hindurchzustecken
 hindurchzusteigen
-hindurchzustoßen
+hindurchzustossen
 hindurchzutreiben
-hineinbeiße
-hineinbeißend
-hineinbeißt
+hineinbeisse
+hineinbeissend
+hineinbeisst
 hineinbiss
 hineinbisse
 hineinbissen
@@ -10893,7 +10866,7 @@ hineinkneift
 hineinkniff
 hineinkniffen
 hineinkniffst
-hineinließet
+hineinliesset
 hineinlocke
 hineinlocken
 hineinlockend
@@ -10927,8 +10900,8 @@ hineinspazierte
 hineinspazierten
 hineinspaziertest
 hineinstiege
-hineinstieße
-hineinstoßend
+hineinstiesse
+hineinstossend
 Hineintasten/S
 hineintäte
 hineintäten
@@ -10991,7 +10964,7 @@ hineinzulotsen
 hineinzumanövrieren
 hineinzuretten
 hineinzuschaufeln
-hineinzuschießen
+hineinzuschiessen
 hineinzuschneien
 hineinzusprechen
 hineinzustolpern
@@ -11190,7 +11163,7 @@ hinüberwanderte
 hinüberwanderten
 hinüberwandertest
 hinüberwechselnd
-hinüberzuschießen
+hinüberzuschiessen
 hinüberzuwandern
 hinuntergeflossen
 hinuntergerissen/A
@@ -11200,11 +11173,11 @@ hinuntergeschmissen
 hinuntergescrollt
 hinuntergetänzelt
 hinuntergewandert
-hinuntergießend
+hinuntergiessend
 hinunterschauend
-hinunterschmeiße
-hinunterschmeißen
-hinunterschmeißt
+hinunterschmeisse
+hinunterschmeissen
+hinunterschmeisst
 hinunterschmiss
 hinunterscrolle
 hinunterscrollen
@@ -11279,7 +11252,7 @@ hinweggeritten
 hinweggeschaut
 hinweggesprungen
 hinweggestiegen
-hinweggestoßen
+hinweggestossen
 hinweggetragen
 hinweggewischt
 hinweggeworfen
@@ -11365,9 +11338,9 @@ hinwegstiege
 hinwegstiegen
 hinwegstiegst
 hinwegstiegt
-hinwegstoße
-hinwegstoßen
-hinwegstößt
+hinwegstosse
+hinwegstossen
+hinwegstösst
 hinwegströme
 hinwegströmen
 hinwegströmend
@@ -11412,7 +11385,7 @@ hinwegzurollen
 hinwegzuschauen
 hinwegzuspringen
 hinwegzusteigen
-hinwegzustoßen
+hinwegzustossen
 hinwegzutragen
 hinwegzuwerfen
 hinzerre
@@ -11445,7 +11418,7 @@ hinzufliegen
 hinzugegossen/A
 hinzugelangen
 hinzugeschaltet
-hinzugießen
+hinzugiessen
 hinzugreifen
 hinzukarren
 hinzukleben
@@ -11473,7 +11446,7 @@ hinzuschalteten
 hinzuschaltetest
 hinzuschieben
 hinzuschielen
-hinzuschießen
+hinzuschiessen
 hinzusprechen
 hinzuspucken
 hinzustecken
@@ -11658,8 +11631,8 @@ Hockstand/S
 Hockstrecksprung/S
 Hockstrecksprünge/N
 Hockstrecksprunges
-Hodensackvergrößerung
-Hodensackvergrößerungen
+Hodensackvergrösserung
+Hodensackvergrösserungen
 Hodenschmerzen
 Hodler/S #name
 Höfchen/S
@@ -11860,7 +11833,7 @@ Hummelvolk/S
 Hummelvölker/N
 Hummelvolkes
 Hümmling/S #name
-Humperdinckstraße #name
+Humperdinckstrasse #name
 Humphrey/S #name
 Humusaufbau/S
 hundeerfahren/A
@@ -11878,8 +11851,6 @@ Hunnenrede
 Hunspell/S #name
 Hupenknopf
 Hupenknöpfe/N
-Huppertz #name
-Hürlimann/S #name
 Hurtigruten
 Husemann/S #name
 Huskyfarm
@@ -12172,7 +12143,7 @@ Infektiologie
 Infektiologin
 infektionshemmend/A
 infektionsschützend/A
-Infektionsschutzmaßnahmenverordnung
+Infektionsschutzmassnahmenverordnung
 Infektiosität
 infernal/A
 Infiltrationstherapie
@@ -12666,8 +12637,8 @@ ISSN
 Issue/S #eng
 Issy/S #name
 IStGH #abk
-Istmaß
-Istmaßes
+Istmass
+Istmasses
 Istrianer
 It-Girl/S #eng
 IT-Know-how
@@ -12998,7 +12969,7 @@ kalorisch/A
 Kaloyan/S #name
 Kalterbach/S #name
 kälteverträglich/A
-kaltweiß/A
+kaltweiss/A
 Kaluza/S #name
 Kalzifikation
 Kalzifikationen
@@ -13075,7 +13046,7 @@ Kappelberg/S #name
 Kappeln/S #name
 Kappendecke/N
 Kappenschalung
-Kapselgröße/N
+Kapselgrösse/N
 Kapselkaffeemaschine/N
 kaputtlach #ugs
 Kara/S #name
@@ -13181,7 +13152,7 @@ Kategorieseite/N
 Kategorietext
 Kategorietexte/NS
 Katerina/S #name
-Katharina-Belgica-Straße #name
+Katharina-Belgica-Strasse #name
 Kathedralglas
 Kathedralglases
 Katholikos
@@ -13295,7 +13266,7 @@ Kickoffmeeting/S
 Kiefernstumpf/S
 Kiefernstümpfe/N
 Kiefernweg/S
-Kiefholzstraße
+Kiefholzstrasse
 Kiemenblättchen/S
 Kienzle/S #name
 Kiesböden
@@ -13375,8 +13346,8 @@ Kitakindes
 Kitanotbetreuung
 Kitaqualität
 Kitaqualitäten
-Kitaschließung
-Kitaschließungen
+Kitaschliessung
+Kitaschliessungen
 Kitatag/S
 Kitatage/NS
 Kitchenette
@@ -13465,7 +13436,7 @@ kleinkindhaft/A
 Kleinkindspielzeug/S
 Kleinkindspielzeuge/NS
 Kleinpetersdorf/S #name
-Kleinscheiß #ugs
+Kleinscheiss #ugs
 Kleinschmidt/S #name
 Kleinschrittigkeit
 Kleinzschachwitz #name
@@ -13509,7 +13480,7 @@ Klimawandelfolgen
 klimawissenschaftlich/A
 Klingbeil/S #name
 Klingenberg/S #name
-Klingenbergstraße #name
+Klingenbergstrasse #name
 Klingenstahl/S
 Klingenstähle/N
 Klingenstahles
@@ -13530,7 +13501,7 @@ Klopfwerke/NS
 Klosettpapierrolle/N
 Klositz #ugs
 Klositze/NS #ugs
-Kloßmasse/N
+Klossmasse/N
 Klosterlechfeld/S #name
 Kluftsystem/S
 Kluftsysteme/N
@@ -13572,7 +13543,7 @@ Knospenheide/N
 Knoterapparat/S
 Knoterapparate/NS
 Knowledge/S #eng
-Knuddelgrüße/N
+Knuddelgrüsse/N
 Knuddels #name
 knüppelartig/A
 Knurrton/S
@@ -13652,13 +13623,13 @@ Komagataella
 Kombiabschottung
 Kombidose/N
 Kombilimousine/N
-Kombinierspaß
-Kombinierspaßes
+Kombinierspass
+Kombinierspasses
 Kombispeicher/NS
 Kombivorteil/S
 Kombucha
 komedogen/A
-Kommandantenstraße #name
+Kommandantenstrasse #name
 Kommandeurfahrer/NS
 Kommandeursfahrer/NS
 Kommanditanteil/S
@@ -13827,7 +13798,7 @@ Kontaktinfos
 Kontaktnachverfolgungsapp/S
 Kontaminationsgefahr
 Kontaminationsgefahren
-Kontermaßnahme/N
+Kontermassnahme/N
 Konterpart/S
 kontextbewusst/A
 Kontextualität
@@ -13915,7 +13886,7 @@ Kopp/S #name
 Köppl/S #name
 Kopter #name
 Kopulae
-korangemäß/A
+korangemäss/A
 korantreu/A
 Korbmarante/N
 Koreastudien
@@ -14035,7 +14006,7 @@ Krankentragenlagerung
 Krankentragenlagerungen
 krankheitsbezogen/A
 krankheitsgefährdend/A
-krankheitsgemäß/A
+krankheitsgemäss/A
 krankheitsvorbeugend/A
 krankheitswertig/A
 Krankschreibungswelle/N
@@ -14087,7 +14058,7 @@ Kreiseleinfahrten
 Kreiselstabilisator/S
 Kreiselstabilisatoren
 kreislauffähig/A
-kreislaufmäßig/A
+kreislaufmässig/A
 kreislaufstärkend/A
 Kremer/S #name
 Kremlgegner/SN
@@ -14096,7 +14067,7 @@ Kremlgegnerinnen
 Kremstal #name
 Krepitation
 Krepitationen
-Kreß #name
+Kress #name
 Kresseschaumsüppchen/S
 Kretschmer/S #name
 Kretzschmar/S #name
@@ -14151,7 +14122,7 @@ Kronenkappungen
 Kronenregenerationsschnitt/S
 Kronenregenerationsschnitte/NS
 Kronenrückschnitt/S
-Kronenstraße #name
+Kronenstrasse #name
 Kronenzeitung
 Krönkenhagen/S #name
 Kröpfchen/S
@@ -14226,7 +14197,7 @@ Kühlungsräume/N
 Kühlungssystem/S
 Kühlungssysteme/N
 Kühnert/S #name
-Kuhscheiße #ugs
+Kuhscheisse #ugs
 Kükentöten/S
 Kulanzanspruch/S
 Kulanzansprüche/N
@@ -14417,9 +14388,9 @@ ladungsfähig/A
 Lael/S #name
 Laertes #name
 Lageerkundung
-Lagemaß
-Lagemaße/NS
-Lagemaßzahlen
+Lagemass
+Lagemasse/NS
+Lagemasszahlen
 Lagemerkmal/S
 Lagemerkmale/N
 lageorientiert/A
@@ -14526,7 +14497,7 @@ Laserscanning/S
 Laserstanzmaschine/N
 Laserstrahlschmelzen/S
 Laserstrahlschneideanlage/N
-Laserstrahlverbindungsschweißen/S
+Laserstrahlverbindungsschweissen/S
 Lasertracker/NS
 Laskowski/S #name
 Last-minute-Angebot/S
@@ -15111,12 +15082,12 @@ logistikbezogen/A
 Logistikgebiet/S
 Logistikgebiete/NS
 Logistikimmobilie/N
-Logistikmaßnahme/N
+Logistikmassnahme/N
 logistikrelevant/A
 Logistikvorstand/S
 Logistikwelt
 Logodruck/S
-Logogröße/N
+Logogrösse/N
 Logoi
 Logonutzungsvertrag/S
 Logonutzungsverträge/N
@@ -15174,7 +15145,7 @@ Lorenzen/S #name
 Lorenzo/S #name
 Loria/S #name
 Loris #name
-Lortzingstraße #name
+Lortzingstrasse #name
 löschpflichtig/A
 Löschungsbestätigung
 Löschungsbestätigungen
@@ -15189,7 +15160,7 @@ Lösegeldversicherung
 Lösegeldversicherungen
 Löseverhalten/S
 losgezockt #ugs
-Losgrößentrennung
+Losgrössentrennung
 Loslager/NS
 lossurfen
 Lostau/S #name
@@ -15349,7 +15320,7 @@ LZA #abk
 LZK
 Maack/S #name
 Maasai
-Maaßen/S #name
+Maassen/S #name
 Mac/S #name
 Macan #name
 mach #ugs
@@ -15474,7 +15445,7 @@ Malereibetrachtung
 Malereibetrachtungen
 Malereistudium/S
 Malerkosten
-malermäßig/A
+malermässig/A
 Malerschablone/N
 Malerweg/S #name
 Malgorzata/S #name
@@ -15674,25 +15645,25 @@ Maskierprozess
 Maskierprozesse/NS
 Maslowsche #name
 Massageliege/N
-maße
+masse
 Masseaufbau/S
 Massefläche/N
 massenmarkttauglich/A
 massenproduziert/A
 Massezylinderisolierung
 Massimo/S #name
-Maßnahmebögen
-Maßnahmebogen/S
-Maßnahmekoordination
-Maßnahmenfall/S
-Maßnahmenfälle/N
-Maßnahmenfläche/N
-Maßnahmenverantwortliche/N
-Maßnahmenverantwortlicher
-Maßnahmeträger/NS
-Maßnahmeverlauf/S
-Maßnahmeziel
-maßzuhalten
+Massnahmebögen
+Massnahmebogen/S
+Massnahmekoordination
+Massnahmenfall/S
+Massnahmenfälle/N
+Massnahmenfläche/N
+Massnahmenverantwortliche/N
+Massnahmenverantwortlicher
+Massnahmeträger/NS
+Massnahmeverlauf/S
+Massnahmeziel
+masszuhalten
 Masterabsolvent
 Masterabsolventen
 Masterabsolventin
@@ -15738,14 +15709,8 @@ mathematikdidaktisch/A
 Mathematikstudierende/N
 Mathematikstudierender
 Mathematikum/S #name
-Matheunterricht/S
-Mathewettbewerb/S
-Mathewettbewerbe/NS
-Mathias #name
-Mathilda/S #name
 MathWorks #name
 Matija #name
-Matilda/S #name
 Matlab #name
 Matratzenschoner/NS
 Matratzenverkäufer/NS
@@ -15791,7 +15756,7 @@ Maverick/S #name #eng
 Maxdome #name
 Maxfeld/S #name
 Maxhütte-Haidhof #name
-Maximilianstraße #name
+Maximilianstrasse #name
 Maybelline #name
 Maye/S #name
 Mayerhofer/S #name
@@ -15966,7 +15931,7 @@ Memoji/S #name
 Memoranda
 Menage/N
 Mencken/S #name
-Mendelstraße #name
+Mendelstrasse #name
 mengenanteilig/A
 Meniskusband
 Meniskusbänder/N
@@ -15984,7 +15949,7 @@ menschenfreundlichsten
 menschenfreundlichster
 menschenfreundlichstes
 menschengebunden/A
-Menschengemäßheit
+Menschengemässheit
 menschenlesbar/A
 menschenrechtskonform/A
 Menschlichkeitsentwicklung
@@ -16073,7 +16038,7 @@ Metaplanwand
 Metaplanwände/N
 Metatarsalgie
 Metaxasauce/N
-Metaxasoße/N
+Metaxasosse/N
 Meterzähler/NS
 Metformin
 Meth
@@ -16378,7 +16343,7 @@ Mobbingverhalten/S
 Möbelerhöher/NS
 Möbelmarke/N
 MobileSync #name
-Mobilisierungsmaßnahme/N
+Mobilisierungsmassnahme/N
 Mobilitätsabfrage/N
 Mobilitätsanbieter/NS
 Mobilitätsangebot/S
@@ -16474,7 +16439,7 @@ Molekülbindungen
 Molekülgitter/NS
 Molekültransport/S
 Molex #name
-Mollstraße
+Mollstrasse
 Molltöne/N
 Mollwitz #name
 Mombach/S #name
@@ -16487,7 +16452,7 @@ Mönchsfriedhof/S
 Mönchsfriedhöfe/N
 Mönchsfriedhofes
 Mönchsrobe/N
-Mönckebergstraße #name
+Mönckebergstrasse #name
 Mondenlicht/S
 Mondenlichtes
 Mondeo #name
@@ -16536,12 +16501,12 @@ Moro-Reflexes
 MorphoSys #name
 Mörtelwespe/N
 Morteza/S #name
-Mosaikparkettfußböden
-Mosaikparkettfußboden/S
+Mosaikparkettfussböden
+Mosaikparkettfussboden/S
 Moscheebesucher/SN
 Moscheegemeinde/N
 moselaufwärts
-Moselweiß #name
+Moselweiss #name
 Mösenschleim/S
 Moskwitsch #name
 Mostafa/S #name
@@ -16629,7 +16594,7 @@ Mühlenrecht/S
 Mühlenrechtes
 Mühlenweg/S
 Mühlgasse
-Mühlstraße
+Mühlstrasse
 Mühsale/N
 Mukositis
 Mulchsaatverfahren/S
@@ -16644,7 +16609,7 @@ Müllerssohnes
 Müllerssohns
 Müllerstochter
 Müllerstöchter/N
-Müllerstraße
+Müllerstrasse
 Mulligan/S #name
 Mülltonnenbrand/S
 Mülltonnenbrände/N
@@ -16737,7 +16702,7 @@ Mutante/N
 Mutationsgebiet/S
 Mutationsgebiete/N
 mutmachend/A
-mutmaßend/A
+mutmassend/A
 Mutschler/S #name
 Muttertagskampagne/N
 Muttilein #ugs
@@ -16910,24 +16875,24 @@ Nachreifungsprozess
 Nachreifungsprozesse/NS
 Nachrichtenfeed/S
 Nachrüstpläne/N
-Nachrüstungsmaßnahme/N
+Nachrüstungsmassnahme/N
 Nachschreibtermin/S
 Nachschreibtermine/N
 Nachspann/S
 Nachsportkarriere/N
 Nachstellbarkeit
-nächstgrößte
-nächstgrößtem
-nächstgrößten
-nächstgrößter
-nächstgrößtes
+nächstgrösste
+nächstgrösstem
+nächstgrössten
+nächstgrösster
+nächstgrösstes
 nächstwöchige
 nächstwöchigem
 nächstwöchigen
 nächstwöchiger
 nächstwöchiges
 nachstylen #ugs #todo
-nachsüßen #todo
+nachsüssen #todo
 nachsynchronisieren #todo
 nachsynchronisiert/A
 Nachtermin/S
@@ -17125,12 +17090,10 @@ nephrologisch/A
 Nersingen/S #name
 Nervenendigungen
 nervenstrapazierend/A
-nervenzerreißend/A
+nervenzerreissend/A
 Nervigkeit
 nervraubend/A
 Nerzzüchter/NS
-Nespresso/S #name
-Nesquik #name
 nestbar/A
 Nestchen/S
 Netatmo #name
@@ -17220,7 +17183,7 @@ Neutralisierungsstrategie/N
 Neutralposition
 Neutralteilcheninjektion
 Neutralteilcheninjektionen
-neutralweiß/A
+neutralweiss/A
 Neuwagendisponent
 Neuwagendisponenten
 Neuwagendisponentin
@@ -17294,10 +17257,10 @@ Nielsen/S #name
 Niendorf/S #name
 Nienstädt/S
 Niesetikette/N
-Nießbraucher/NS
-Nießbraucherin
-Nießbraucherinnen
-Nießbrauchrecht/S
+Niessbraucher/NS
+Niessbraucherin
+Niessbraucherinnen
+Niessbrauchrecht/S
 Nietenstift
 Nietenstifte/NS
 Niggemann/S #name
@@ -17427,9 +17390,9 @@ Normtabelle/N
 Normteilregal/S
 Normteilregale/N
 Normverdeutlichung
-Normverstoß
-Normverstöße/N
-Normverstoßes
+Normverstoss
+Normverstösse/N
+Normverstosses
 Normvorgabe/N
 Norsk-Hydro-Werk/S #name
 Nortorf/S #name
@@ -17553,7 +17516,7 @@ Oberlahnstein/S #name
 Obermaier/S #name
 Obermeier/S #name
 Obernkirchen/S
-Obernstraße #name
+Obernstrasse #name
 Oberottmarshausen/S #name
 Oberpullendorf/S #name
 Obersendling/S #name
@@ -17589,7 +17552,7 @@ Ochsentour
 Ochsentouren
 Octavia #name
 Odense #name
-Odilostraße #name
+Odilostrasse #name
 Odoardo/S #name
 Odometrie
 ÖDP #abk #name
@@ -17684,7 +17647,6 @@ Oktavia/S #name
 Olbernhau/S #name
 Olbia #name
 Olching/S #name
-Oldenbüttel/S #name
 Oldenstadt/S #name
 Oldtimeraufbereitung
 Oldtimermodell/S
@@ -17695,12 +17657,6 @@ Olduvai-Schlucht #name
 Ole/S #name
 OLED-TV/S
 Olfaktorik
-Olivera/S #name
-Olivia/S #name
-Ollenhauerstraße #name
-Olli/S #name
-Olliver/S #name
-Olpener #name
 Olschewski/S #name
 Olvenstedter
 Olympiakos #name
@@ -17832,9 +17788,9 @@ Oratorin
 Oratorinnen
 Orbán/S #name
 Orbitaldepot/S
-Orbitalschweißgerät/S
-Orbitalschweißgeräte/NS
-Orbitalschweißstromquelle/N
+Orbitalschweissgerät/S
+Orbitalschweissgeräte/NS
+Orbitalschweissstromquelle/N
 Orca/S
 Orchestrationsmöglichkeiten
 Orchideendünger/S
@@ -18097,7 +18053,7 @@ Pantomimespiele/NS
 Pantry
 Papayaöl/S
 Papendorf/S #name
-Papenfuß #name
+Papenfuss #name
 Paper/SN #eng
 Paperback/S
 Paperdiskussion
@@ -18115,7 +18071,7 @@ Paragrafendschungel/S
 paralinguistisch/A
 Paralipomena
 Paralipomenon/S
-Parallelanreißer/NS
+Parallelanreisser/NS
 Parallelisierbarkeit
 Paramount #name
 Parapet/S
@@ -18178,7 +18134,7 @@ Partikularenzyklopädie/N
 Partikulier/S
 Partikuliere/N
 partisanisch/A
-Partitionsgröße/N
+Partitionsgrösse/N
 Partitionsmechanismen
 Partitionsmechanismus
 Partitionsschema/S
@@ -18203,7 +18159,7 @@ Partylöwinnen
 Partymotto/S
 Partyspiel/S
 Partyspiele/NS
-Partyspießeset/S
+Partyspiesseset/S
 Partyteilnehmer/NS
 Partyteilnehmerin
 Partyteilnehmerinnen
@@ -18249,7 +18205,7 @@ Patissier/S
 Patissière/N
 Patrizia/S #name
 patronal/A
-Patronenausstoßer/NS
+Patronenausstosser/NS
 Patronenbox
 Patronenboxen
 Patronenfilter/NS
@@ -18428,7 +18384,7 @@ Personalienblattes
 Personalisierungsgrad/S
 Personalisierungsgrade/NS
 Personality #eng
-personalmäßig/A
+personalmässig/A
 personalverantwortlich/A
 Personalvorgesetzte/N
 Personalvorgesetzter
@@ -18469,7 +18425,7 @@ Petersilienblätter/N
 Petersilienblattes
 Petersilienhochzeit
 Petersilienhochzeiten
-Petersiliensträußchen/S
+Petersiliensträusschen/S
 Peterson/S #name
 Petit
 Petitionsbescheid/S
@@ -18538,7 +18494,7 @@ Pflanzkonzepte/NS
 Pflanzliste/N
 Pflanzloch/S
 Pflanzlöcher/N
-Pflanzmaßnahme/N
+Pflanzmassnahme/N
 Pflanzmischung
 Pflanzmischungen
 Pflanzpartner/NS
@@ -18684,7 +18640,7 @@ Pinkwart/S #name
 Pinole/N
 Pinosylvin
 Pinselbestäubung
-Pinselgröße/N
+Pinselgrösse/N
 Pinzettenzange/N
 Pionierbaum/S
 Pionierbäume/N
@@ -18776,8 +18732,8 @@ Planwert/E
 Planzahlen
 Planzeichenverordnung
 Plasencia/S #name
-Plasmaeiweiß
-Plasmaeiweiße/NS
+Plasmaeiweiss
+Plasmaeiweisse/NS
 Plasmaspendezentren
 Plasmaspendezentrum/S
 Plasmastrom/S
@@ -18803,7 +18759,7 @@ Plätzchenduft/S
 Plätzchenduftes
 Plätzchenteig/S
 Plätzchenteige/NS
-platzmäßig/A
+platzmässig/A
 Plätzstelle/N
 Plauderstündchen/S
 Plauderstunde/N
@@ -19062,7 +19018,7 @@ Porträtversionen
 Portugiesischlehrer/NS
 Portugiesischlehrerin
 Portugiesischlehrerinnen
-porzellanweiß/A
+porzellanweiss/A
 Porzer #name
 posaunenartig/A
 Pöschl/S #name
@@ -19271,8 +19227,8 @@ Pressenservice
 Pressler/S #name
 Pressluftatmer/NS
 Preuss #name
-Preuß #name
-Preußenkönig/SE
+Preuss #name
+Preussenkönig/SE
 Preview/S #eng
 Prickelnadel/N
 Prickings-Hof/S #name
@@ -19330,7 +19286,7 @@ Priogruppe/N
 Priorisierungsstufe/N
 Prioritätengruppe/N
 Prioritätenmatrix
-prioritätsmäßig/A
+prioritätsmässig/A
 Prioritätsregel/N
 Prioritätstag/S
 Prioritätstage/NS
@@ -19373,7 +19329,7 @@ Profilieranlage/N
 Profiling
 Profiling/S
 Profilitverglasung
-profimäßig/A
+profimässig/A
 Progesteronmangel/S
 Progger/NS #eng #ugs
 progredierend/A
@@ -19471,7 +19427,7 @@ Provadis #name
 Provence-Alpes-Côte #name
 Provenceweg/S #name
 Provinzialisierung
-Provinzialstraße
+Provinzialstrasse
 Provisionierungsauftrag/S
 Provisionierungsaufträge/N
 Provisionsaufstellung
@@ -19758,7 +19714,7 @@ Quarantänebriefe/S
 Quarantäneformular/ES
 Quarantäneformularen
 Quarantäneliste/N
-Quarantänemaßnahme/N
+Quarantänemassnahme/N
 Quarantänepflicht
 Quarantänepflichten
 Quarantänepolitik
@@ -19989,7 +19945,7 @@ rätselhaftesten
 rätselhaftester
 rätselhaftestes
 Rattelsdorf/S #name
-Rattenscheiße #ugs
+Rattenscheisse #ugs
 Rattermarke/N
 Räucheropfer/NS
 Räuchertofu/S
@@ -20013,7 +19969,7 @@ raumprägend/A
 Raupach/S #name
 Rauputz
 Rauputzes
-rausbeißen #todo
+rausbeissen #todo
 rausbrachte
 rausbringt
 Rauschs
@@ -20078,7 +20034,7 @@ rausgeschubst/A
 rausgesprudelt/A
 rausgesprungen/A
 rausgestellt/A
-rausgestoßen/A
+rausgestossen/A
 rausgestreckt
 rausgetragen
 rausgewachsen
@@ -20111,7 +20067,7 @@ rauskristallisiert
 rauslaufen
 rauslegen
 rauslesen
-rausließen
+rausliessen
 rauslocken
 rausnehmbar/A
 rausnehme
@@ -20124,9 +20080,9 @@ rausrechnest
 rausrechnet/E
 rausrechneten
 rausreden
-rausreiße
-rausreißen
-rausreißt
+rausreisse
+rausreissen
+rausreisst
 rausrennen
 rausrutschen
 rausrutscht
@@ -20177,7 +20133,7 @@ rauszukramen
 rauszunehmen #ugs
 rauszurechnen
 rauszureden
-rauszureißen
+rauszureissen
 rauszuschicken
 rauszuspringen
 rauszustellen
@@ -20253,8 +20209,8 @@ Rechnungswesenunterricht/S
 Rechtfertigungsbedarf/S
 Rechtleitung
 rechtlinig/A
-Rechtmäßigkeitsvoraussetzung
-Rechtmäßigkeitsvoraussetzungen
+Rechtmässigkeitsvoraussetzung
+Rechtmässigkeitsvoraussetzungen
 rechtsanwaltlich/A
 rechtsbindend/A
 rechtsformabhängig/A
@@ -20307,7 +20263,7 @@ Reduktionsanteil/S
 Reduktionsstrom/S
 Redundanzfreiheit
 Redux #name
-Reduzierungsmaßnahme/N
+Reduzierungsmassnahme/N
 Reduzierungsmethode/N
 Reedition
 Reeditionen
@@ -20458,7 +20414,7 @@ Reimers #name
 Reimkette/N
 Reinach/S #name
 Reinartz #name
-reinbeiß #ugs
+reinbeiss #ugs
 reinbekommen
 reinblickend/A
 Reindl/S #name
@@ -20467,7 +20423,7 @@ reindrücken
 Reinecker/S #name
 reinfahr
 reinfloss
-reinfraß
+reinfrass
 reingeboren/A
 reingedrängt
 reingedrückt
@@ -20492,7 +20448,7 @@ reingescrollt
 reingesetzt
 reingesprungen/A
 reingestolpert
-reingestoßen
+reingestossen
 reingestürmt
 reingestürzt
 reingetan
@@ -20530,7 +20486,7 @@ reinschieben
 reinschiebt
 reinschlagen
 reinschlüpfen
-reinschmeiße #ugs
+reinschmeisse #ugs
 reinschütten
 reinscrolle
 reinscrollen
@@ -20554,9 +20510,9 @@ reinspringt
 Reinstallation
 Reinstallationen
 Reinstetten/S #name
-reinstoße
-reinstoßen
-reinstößt
+reinstosse
+reinstossen
+reinstösst
 reinstürzen
 Reintegrationsprogramm/S
 Reintegrationsprogramme/N
@@ -20580,7 +20536,7 @@ reinzuschieben
 reinzuscrollen
 reinzusetzen
 reinzuspringen
-reinzustoßen
+reinzustossen
 reinzutragen
 reinzuversetzen
 reinzuzoomen
@@ -20593,7 +20549,7 @@ Reismehlkäfer/NS
 Reismilch
 Reisproduktion
 Reispulver/NS
-Reißnadel/N
+Reissnadel/N
 reitbar/A
 Reithalfter/NS
 reizmildernd/A
@@ -20699,7 +20655,7 @@ Renovierungsteam/S
 Rentabilitätskennzahlen
 Rentabilitätsplanung
 Rentabilitätsplanungen
-rentenmäßig/A
+rentenmässig/A
 Rentensplitting/S
 Rentierfell/S
 Rentierfelle/N
@@ -21001,7 +20957,7 @@ Rinnenformsteine/N
 Riol/S #name
 Risi-Bisi
 risikominimierend/A
-Risikominimierungsmaßnahme/N
+Risikominimierungsmassnahme/N
 Riskassessment
 Riskmanagement/S
 Risperidon/S
@@ -21109,16 +21065,16 @@ Rosmarinaroma/S
 Rosmarinkartoffelspalten
 Rosmarinsäure/N
 Rosner/S #name
-Roßdorf/S #name
+Rossdorf/S #name
 Rosskastanienbaum/S
 Rosskastanienbäume/N
-Roßleben/S #name
-Rößler/S #name
-Roßmann/S #name
-Rößner/S #name
+Rossleben/S #name
+Rössler/S #name
+Rossmann/S #name
+Rössner/S #name
 Rossstall/S
 Rossställe/N
-Roßwein/S #name
+Rosswein/S #name
 Rostbrätel/NS
 Rösterei
 Röstereien
@@ -21215,13 +21171,13 @@ rüberkommt
 rübermachen
 rüberschauen
 rüberschieben
-rüberschmeiße #ugs
-rüberschmeißen #ugs
-rüberschmeißt #ugs
+rüberschmeisse #ugs
+rüberschmeissen #ugs
+rüberschmeisst #ugs
 rüberzubringen
 rüberzugehen
 rüberzukommen
-rüberzuschmeißen
+rüberzuschmeissen
 Rubinkehlkolibri/S
 Rubinsplitter/NS
 rück
@@ -21321,7 +21277,7 @@ Ruderalvegetation
 Rüdershausen/S #name
 Rudloff/S #name
 Rudolfinum/S
-Rudolfstraße #name
+Rudolfstrasse #name
 Rügenbrücke #name
 Ruhedyspnoe
 Ruhestandsalter/S
@@ -21337,7 +21293,7 @@ Ruhrpottwache
 Rührreaktor/S
 Rührreaktoren
 Rührstäbchen/S
-Ruhrstraße #name
+Ruhrstrasse #name
 Rülke/S #name
 Rülzheim/S #name
 rumärgern
@@ -21443,15 +21399,15 @@ rumquatschtest
 rumreiten
 rumrennen
 rumrennt
-rumsaß
-rumsaßen
+rumsass
+rumsassen
 rumschlage
 rumschlagen
 rumschlägst
 rumschlägt
-rumschmeiße #ugs
-rumschmeißen #ugs
-rumschmeißt #ugs
+rumschmeisse #ugs
+rumschmeissen #ugs
+rumschmeisst #ugs
 rumschnüffeln
 rumschubsen
 rumschwirre/N
@@ -21591,10 +21547,10 @@ runterratterte/N
 runterrattertest
 runterschalten
 runterschlingen
-runterschmeiße #ugs
-runterschmeißen
-runterschmeißen #ugs
-runterschmeißt #ugs
+runterschmeisse #ugs
+runterschmeissen
+runterschmeissen #ugs
+runterschmeisst #ugs
 runterschmiss #ugs #todo
 runterscrollen
 runterscrollst
@@ -21602,8 +21558,8 @@ runterscrollt
 runterspringen
 runterspülen
 runtersteigen
-runterstoße
-runterstößt
+runterstosse
+runterstösst
 runtertragen
 runterwerfe
 runterwerfen
@@ -21630,15 +21586,15 @@ Rüschchen
 Rüschpark/S #name
 Rushmore
 Ruslana/S #name
-Rußablagerungen
-Rußausstoß
-Rußausstoßes
+Russablagerungen
+Russausstoss
+Russausstosses
 Russendisko #name
 Russischunterricht/S
-Rußmessgerät/S
-Rußmessgeräte/NS
-Rußschicht
-Rußschichten
+Russmessgerät/S
+Russmessgeräte/NS
+Russschicht
+Russschichten
 Rüstarbeiten
 Rüstprozess
 Rüstprozesse/NS
@@ -21735,8 +21691,8 @@ Säkularisierungstheorie
 Säkularität
 Salatsaucenrezept/S
 Salatsaucenrezepte/NS
-Salatsoßenrezept/S
-Salatsoßenrezepte/NS
+Salatsossenrezept/S
+Salatsossenrezepte/NS
 Salbengesicht/S
 Salbengesichter/N
 Salbungsstein/S
@@ -21763,7 +21719,7 @@ Salonkulturen
 saltatorisch/A
 Saluki
 salutogenetisch/A
-Salutschießen/S
+Salutschiessen/S
 Salvacyl #name
 Salvadorianer/NS
 Salvadorianerin
@@ -21779,8 +21735,8 @@ Samir/S #name
 Samira/S #name
 Sammelkommissionierung
 Sammlermünzenset/S
-Sammlungserschließung
-Sammlungserschließungen
+Sammlungserschliessung
+Sammlungserschliessungen
 Sammlungsgut
 Sammlungsgutes
 Sammlungsinhalte/N
@@ -21872,9 +21828,9 @@ Satzungsgebiet
 Satzungsgebietes
 Satzungsrecht/E
 Satzungsrechten
-Satzungsverstoß
-Satzungsverstöße/N
-Satzungsverstoßes
+Satzungsverstoss
+Satzungsverstösse/N
+Satzungsverstosses
 Satzungsziel/S
 Satzungsziele/NS
 Satzungszweck/S
@@ -21996,7 +21952,7 @@ Scharnierbewegung
 Scharnierbewegungen
 Scharniersystem/S
 Scharniersysteme/N
-Scharnweberstraße
+Scharnweberstrasse
 scharriere/N
 scharrierend/A
 Scharrierens
@@ -22077,9 +22033,9 @@ Schiefstand/S
 Schienbeinmitte
 Schienbeintreterei
 Schienbeintretereien
-Schieritzstraße #name
+Schieritzstrasse #name
 Schiesser #name
-Schießpulverkügelchen/S
+Schiesspulverkügelchen/S
 Schiffmann/S #name
 Schiffsmechanikerbrief/S
 Schiffsmechanikerbriefe/NS
@@ -22089,7 +22045,7 @@ schildkrötenförmig/A
 Schilfgewächs
 Schilfgewächse/NS
 Schilfröhrchen/S
-Schilfstraße #name
+Schilfstrasse #name
 Schillinger/S #name
 Schimanski/S #name
 Schimansky/S #name
@@ -22140,10 +22096,10 @@ Schleppfinishanlage/N
 Schleusensteuerung
 Schlicker/S
 Schlierbach/S #name
-schließ
-Schließmittel/NS
-Schließplanentwurf/S
-Schließplanentwürfe/N
+schliess
+Schliessmittel/NS
+Schliessplanentwurf/S
+Schliessplanentwürfe/N
 Schlitterkurs
 Schlömer/S #name
 Schluchteingang/S
@@ -22327,9 +22283,9 @@ Schuko #abk
 Schuladmin
 schulbereit/A
 Schulcloud/S
-Schuldausschließungsgrund
-Schuldausschließungsgründe/N
-Schuldausschließungsgrundes
+Schuldausschliessungsgrund
+Schuldausschliessungsgründe/N
+Schuldausschliessungsgrundes
 Schuldentilgungskonten
 Schuldentilgungskonto/S
 Schuldnergesellschaft
@@ -22404,10 +22360,10 @@ schweinebillig/A
 Schweinegeschnetzelte/NS
 Schweinegeschnetzeltem
 Schweinheim/S #name
-schweißbeständig/A
-Schweißerhelfer/NS
-Schweißerhelferin
-Schweißerhelferinnen
+schweissbeständig/A
+Schweisserhelfer/NS
+Schweisserhelferin
+Schweisserhelferinnen
 Schwellbereich/S
 schwellenlos/A
 Schwellzeit
@@ -22532,9 +22488,9 @@ Seeräuberflagge/N
 Seersucker
 Seferihisar #name
 SEG #abk
-Segensgruß
-Segensgrüße/N
-Segensgrußes
+Segensgruss
+Segensgrüsse/N
+Segensgrusses
 Seglermesser/NS
 Seglerverein/S
 Seglervereine/N
@@ -22690,7 +22646,7 @@ Sensenhammer/S
 Sensibilisierungsarbeit
 Sensibilisierungskonzept/S
 Sensibilisierungskonzepte/NS
-Sensibilisierungsmaßnahme/N
+Sensibilisierungsmassnahme/N
 sensitiviert/A
 sensorgestützt/A
 SensoryBoost #name
@@ -22952,7 +22908,7 @@ Silbererzfunde/N
 Silbererzlagerstätte/N
 silberhaarig/A
 Silberpunze/N
-Silcherstraße #name
+Silcherstrasse #name
 Silikatnetzwerk/S
 Silikatnetzwerke/NS
 Silikonharzlösung
@@ -23088,8 +23044,8 @@ Skopophilie
 Skriptausführung
 Skriptentwurf/S
 Skriptentwürfe/N
-Skrotumvergrößerung
-Skrotumvergrößerungen
+Skrotumvergrösserung
+Skrotumvergrösserungen
 SKU #abk
 Skull/S
 Skulpturengiebel/NS
@@ -23166,9 +23122,9 @@ Social-Network-App/S
 Socializing/S #eng
 Sockelfeuchtigkeit
 Sockelfliese/N
-Sockelfuß
-Sockelfüße/N
-Sockelfußes
+Sockelfuss
+Sockelfüsse/N
+Sockelfusses
 Sockenkurs
 Sockenkurse/NS
 Sockenpuppe/N
@@ -23345,8 +23301,8 @@ Spanischkenntnisse/N
 Spannbacken
 spannig/A
 Spannungsfolger
-Spanreißschutz
-Spanreißschutzes
+Spanreissschutz
+Spanreissschutzes
 Spargelcremesüppchen/S
 Spargelköpfe/N
 Spargelplatte/N
@@ -23362,7 +23318,7 @@ Spartenorganisationen
 Spartentrennung
 Spartenversammlung
 Spartenversammlungen
-spaßvoll/A
+spassvoll/A
 Spätbucher/NS
 Spätbucherin
 Spätbucherinnen
@@ -23428,7 +23384,7 @@ Spezifikationsdatei
 Spezifikationsdateien
 Spezifikationsformular
 Spezifikationsformulare/N
-spezifikationsgemäß/A
+spezifikationsgemäss/A
 spezifikationsgerecht/A
 Sphärifikation
 SPI #abk
@@ -23469,8 +23425,8 @@ Spielzeugflugzeuge/NS
 Spielzeugküche/N
 Spielzeugwaren
 Spielzeugwelt
-Spießbürgerlichkeit
-spießiger/A
+Spiessbürgerlichkeit
+spiessiger/A
 Spin-off/S #eng
 Spinalganglien
 Spinalkanalstenose
@@ -23493,10 +23449,10 @@ Spirit
 spirometrisch/A
 Spirulina
 spitalärztlich/A
-Spleißnägel/N
-Spleißnagel/S
-Spleißwerkzeug/S
-Spleißwerkzeuge/N
+Spleissnägel/N
+Spleissnagel/S
+Spleisswerkzeug/S
+Spleisswerkzeuge/N
 Splitting/S
 Spondylodese
 Spondylose/N
@@ -23507,8 +23463,8 @@ Sponsorenpaket/S
 Sponsorenpakete/NS
 Sponsorenspiel/S
 Sponsorenspiele/NS
-Spontanäußerung
-Spontanäußerungen
+Spontanäusserung
+Spontanäusserungen
 Spontannystagmus
 Spoofing/S #eng
 Spörl/S #name
@@ -23622,10 +23578,8 @@ Stabpipette/N
 Stabtomate/N
 Stachelbeerbusch/S
 Stachelbeerbüsche/N
-Stackgröße/N
-Stadelmann/S #name
+Stackgrösse/N
 Stadia/S #name
-Stadler/S #name
 stadtbildprägend/A
 stadtgrenzenüberschreitend/A
 Stadtinspektoranwärter/NS
@@ -23838,8 +23792,8 @@ Staukontrollalgorithmus
 Staupunkt/S
 Staupunkte/NS
 Stauraumwunder/S
-Stauseefloß
-Stauseefloßes
+Stauseefloss
+Stauseeflosses
 Stauverursacher/NS
 Stauzeiten
 Steakart
@@ -23923,7 +23877,7 @@ Steyrtal/S #name
 Stichlinge
 Stichomythie
 stichomythisch/A
-stichprobenmäßig/A
+stichprobenmässig/A
 Stichtagsbewertung
 Stichtagsinventur
 Stichtagsinventuren
@@ -24063,14 +24017,11 @@ Stornowünsche/N
 Stornowunsches
 störungstechnisch/A
 Storyline/S
-Stoßfängerschutz
-Stoßfängerschutzes
-Stoßfängerverkleidung
-Stoßfängerverkleidungen
-stoßfrei/A
-Stöver/S #name
-Str.
-Strabag #name
+Stossfängerschutz
+Stossfängerschutzes
+Stossfängerverkleidung
+Stossfängerverkleidungen
+stossfrei/A
 Strafgesetzordnung
 Sträflingsinsel/N
 Sträflingskolonne/N
@@ -24098,10 +24049,10 @@ Strangspannung
 Strangstrom/S
 Strangulationsgefahr
 Strangulierungsgefahr
-Straßenbauerin
-Straßenbauerinnen
-Straßenmalkreide/N
-straßenmäßig/A
+Strassenbauerin
+Strassenbauerinnen
+Strassenmalkreide/N
+strassenmässig/A
 Strauchgewächs
 Strauchgewächse/NS
 Strauchpflege
@@ -24121,20 +24072,7 @@ Streamingpartner/NS
 Streamingplattform
 Streamingplattformen
 streberisch/A
-Streeruwitz #name
 Street-Art
-Streetball/S
-Streetband/S
-Streetdance
-Streetdancer/S
-Streetdancerin
-Streetdancerinnen
-Streetfood
-Streetfood/S
-Streetgang/S
-Streetscooter/S #name #eng
-Streetstyle/S #eng
-Strehlitz #name
 Streicherbegleitung
 Streichquartettprobe/N
 streifenfrei/A
@@ -24151,8 +24089,8 @@ Stretching/S
 Streugutbehälter/NS
 streupflichtig/A
 Streuungsbereich/S
-Streuungsmaßzahl
-Streuungsmaßzahlen
+Streuungsmasszahl
+Streuungsmasszahlen
 strieze/N
 striezend/A
 Striezens
@@ -24162,10 +24100,8 @@ strieztest
 Stringplan/S
 Stringpläne/N
 Stringplanung
-Stripe/S #name
 Striplokal
 Striplokale/N
-Strobel #name
 Stromer/SN #ugs
 Strömungsanalyse
 Strömungsdynamik
@@ -24187,7 +24123,6 @@ Strukturierungsgrade/NS
 strukturorientiert/A
 strukturräumlich/A
 Strukturwandelkommission
-Strunz #name
 Stubenreinheitserziehung
 Stubentisch/S
 Stubentische/N
@@ -24206,14 +24141,13 @@ Studiohintergrundes
 Studioinhaber/NS
 Studioinhaberin
 Studioinhaberinnen
-Studioschließung
-Studioschließungen
+Studioschliessung
+Studioschliessungen
 StudiumPlus
 studiumsbegleitend/A
 studiumsrelevant/A
 Studiumsvorbereitung
 Studiumsvorbereitungen
-StudiVZ #name
 stufentheoretisch/A
 stufenübergreifend/A
 Stuhlerbrechen/S
@@ -24226,7 +24160,7 @@ Stundungsbetrag/S
 Stundungsbeträge/N
 stundungsfähig/A
 Stundungsgesuch/E
-Stundungsmaßnahme/N
+Stundungsmassnahme/N
 Stundungswunsch
 Stundungswünsche/N
 Stundungswunsches
@@ -24242,10 +24176,9 @@ sturzbesoffen/A
 Stutfohlen/S
 Stützenfundament/S
 Stützenfundamente/NS
-Stützenfuß
-Stützenfüße/N
-Stützenfußes
-Stützengrün/S #name
+Stützenfuss
+Stützenfüsse/N
+Stützenfusses
 Stützungsleistung
 Stützungsleistungen
 Stützungspaket/S
@@ -24259,15 +24192,7 @@ stylischsten
 stylischster
 stylischstes
 Styriarte
-Styrodur #name
-Styropordämmung
-Styroporfigur
-Styroporfiguren
-Styroporwand
-Styroporwände/N
-Styx #name
 subäquatorial/A
-Subaru #name
 Subcharter/S
 subhuman/A
 Subjektivitäten
@@ -24302,46 +24227,33 @@ Substitutionsprogramme/N
 Substratträger/NS
 Substratzufuhr
 Subtraktionsaufgabe/N
-Subway #name
 Suchsel/N
 Sucrase
 Sucuk
-Sudeck #name
 Süderzgebirge
 Süderzgebirgen
 Süderzgebirges
-Sudetenstraße
+Sudetenstrasse
 Sudler/NS
-Sue/S #name
 Suffigierung
 Suggestionskraft
 Sühnegesandtschaft
 Sühneleiden/S
 Sühneversuch/S
 Sühneversuche/NS
-Suisse #name
 Suizidant
 Suizidanten
 Suizidantin
 Suizidantinnen
 Suizidforschung
-Sukhumvit #name
 Sukzessionsfläche/N
 Sukzessivadoption
 Sukzessivadoptionen
-sulfatfrei/A
-Sulfonsäure/N
-Sullivan/S #name
-Süllrand/S
-Süllränder/N
-Süllrandes
 Summary/S #eng
 summativ/A
 Summit/S #eng
 Sumo
 Sumoringer/NS
-Sündermann/S #name
-SunExpress #name
 Superbowl/S
 supereinfach/A
 superelastisch/A
@@ -24384,7 +24296,6 @@ Supreme
 Surferlebnis
 Surferlebnisse/NS
 Surferszene
-SurfPass #name
 Surftraining/S
 Surfwachs
 Surfwachses
@@ -24392,34 +24303,22 @@ Surimi
 Surrealität
 Surround
 Surroundanlage/N
-Survey/S
-Susann/S #name
 Suspensionsart
 Suspensionsarten
 Suspensionspartikel/N
-Süßkartoffelstampf/S
-Süßlichkeit
+Süsskartoffelstampf/S
+Süsslichkeit
 SUT #abk
-Suworow/S #name
 SW #abk
 Swap/S #eng
 swappe
 swappen #eng
-swasiländisch/A
-Swetlana/S #name
-Swiffer #name
 Swingjugend
 Swingtanzszene
 Swiss
 Swisttal/S #name
-Switzerland #eng
-Swoboda/S #name
-SWOT #abk
 Swyx #name
-Sydow/S #name
 Syllabus
-Sylva/S #name
-Sylvio/S #name
 Symbiotika
 Symbiotikum/S
 symmetrischer/A
@@ -24442,7 +24341,6 @@ Syndikusanwältinnen
 Synergiemöglichkeit
 Synergiemöglichkeiten
 Synesios #name
-Synology/S #name
 Syntaktiker/NS
 Syntaktikerin
 Syntaktikerinnen
@@ -24469,10 +24367,6 @@ Szenarioannahme/N
 Szenariobeschreibung
 Szenariobeschreibungen
 szenografisch/A
-Szymanski/S #name
-T-Mobile/S #name
-T-Systems #name
-Tabaluga/S #name
 Tabata
 tabellenartig/A
 Tabellendrittletzte/N
@@ -24490,11 +24384,10 @@ Tachobildes
 Tachografs
 Tackerklammer/N
 Tackernadeln
-Tacloban/S #name
 Tagebauregion
 Tagebauregionen
 Tagebuchstudie/N
-tageslichtweiß/A
+tageslichtweiss/A
 Tageszeitenklima/S
 Taggiasche
 Tagging/S #eng
@@ -24507,11 +24400,9 @@ Taillenformen
 Taillenhöhe/N
 Taillenzug/S
 Taillenzüge/N
-Taira/S #name
 taktflankengesteuert/A
 Taktilität
 Taktschlagen/S
-Talea/S #name
 Talentabwanderung
 Talentidentifikation
 Talentknappheit
@@ -24520,13 +24411,7 @@ Talentzuwanderung
 Talgzyste/N
 Talitha/S
 Talusschulter/N
-Tamagotchi/S
-Tamaris #name
-Tamaulipas #name
-Tamaya
 Tambo/S
-Tamina/S #name
-Tamoil #name
 Tandemmeeting/S
 Tandemtermin/S
 Tandemtermine/N
@@ -24535,9 +24420,6 @@ Tangentenabschnitt/S
 Tangentenabschnitte/N
 Tangentenlänge/N
 Tangentenverfahren/S
-Tangerhütte/S #name
-Tangerhütter #name
-Tania/S #name
 Tanninen
 Tänzerregelung
 Tänzersteuerung
@@ -24546,8 +24428,6 @@ Tanzlustbarkeiten
 Tape-Library
 Tapenaden
 Tapinganlage/N
-Tapiokamehl/S
-Tarek/S #name
 Tarierjacket/S
 Taschendoppler/NS
 Task-Force/S
@@ -24566,11 +24446,10 @@ Taststock/S
 Taststöcke/N
 Tatbegehende/N
 Tatbegehender
-tatbestandsausschließend/A
+tatbestandsausschliessend/A
 Tätererkennung
 Tätergeneration
 Täterwelt
-Tatiana/S #name
 tätigkeitsspezifisch/A
 Tatkräftigkeit
 Tatortaufnahme/N
@@ -24585,11 +24464,8 @@ Taubennetze/NS
 Taubenproblematik
 Taubenschutznetz
 Taubenschutznetze/NS
-Tauberger #name
 Taucherbecken/S
 Tauchresort/S
-Täuffelen/S #name
-Taupo #name
 tausendachthundert
 tausendachthundertfünfzig
 Tausendblattgewächs
@@ -24608,7 +24484,6 @@ tausendseitig/A
 tausendsiebenhundert
 tausendvierhundert
 tausendzweihundert
-Tautenburg/S #name
 Tauwasserleitung
 Tauwasserleitungen
 Tavor
@@ -24618,13 +24493,9 @@ Taxe/N
 Taxler/NS
 Taxlerin
 Taxlerinnen
-Tay-Mündung #name
-Taycan/S #name
 Tbit
 TBS #abk
-Tchoukball
 TCI #abk
-TDI/S #abk
 TDV
 Teakholzleiter/N
 Teamabstimmung
@@ -24655,7 +24526,6 @@ Teambestellungen
 Teambuilding/S #eng
 Teamchat/S
 Teamchemie
-TeamCloud #name
 Teamdynamik
 Teamdynamikforschung
 Teameinbruch/S
@@ -24727,8 +24597,6 @@ Teamzuordnung
 Teamzuordnungen
 Teamzusammensetzung
 Teamzusammensetzungen
-TecDax #name
-TecDAX #name
 Tech-Aktie/N
 Tech-Blog/S
 Tech-Blog/S #eng
@@ -24757,13 +24625,12 @@ Technikerausbildung
 Technikerausbildungen
 Technikerebene
 techniksüchtig/A
-Technikumsmaßstab/S
+Technikumsmassstab/S
 technikversiert/A
 Technoklub/S
 Technokonzert/ES
 technologisiert/A
 Technomathematik
-Technopark/S #name
 Teddybärmann/S
 Teddybärmänner/N
 Teenagerleben/S
@@ -24824,13 +24691,11 @@ Teilrefundierungen
 Teilshutdown/S
 teilw.
 Teilzeitarbeitende/N
-Teisnachtal/S #name
 Tekkie/S #ugs
 Tektonikgruppe/N
 Telefon-Nr.
 Telefonates
 Telefonavis
-Telefonica/S #name
 Telefonschalte/N
 Telefonsupporter/NS
 Telegram/S
@@ -24874,12 +24739,7 @@ Teleskopverbünde/N
 Teleskopverbundes
 Teletubbies
 Teletubby
-Telgter #name
 Tellerfliehkraftanlage/N
-Tellicherry/S #name
-Tellonym #name
-Telschow/S #name
-Telse/S #name
 Temp-Verzeichnis
 Temp-Verzeichnisse/NS
 Tempeldrache/N
@@ -24894,10 +24754,8 @@ Temporaladverb/S
 Temporaladverbien
 Temporalbewusstsein/S
 Tennō/S
-Tenochtitlán/S #name
 Tenorsänger/S
 Tensoranalysis
-TensorFlow #name
 Teppichklopfen/S
 Terabit
 Termin-Nr.
@@ -24911,9 +24769,6 @@ Terminologielehre
 Terminologieverwaltung
 Terminplananpassung
 Terminplananpassungen
-Terracotta
-Terraform/S #name
-Terraforming
 Terraner/NS
 terranisch/A
 Terrarianer/SN
@@ -24925,14 +24780,10 @@ Terraristik
 Terrierrasse/N
 Terroir/S
 terroirbezogen/A
-Terry/S #name
 Tertia
 Tertial/S
 Tertiale/N
 Tertiärzementit
-Tesa #name
-Teschner/S #name
-Teseo #name
 Test-Set-up/S
 Testabo/S
 Testamentsmitteilung
@@ -24951,17 +24802,8 @@ Testskript/S
 Testskripte/N
 Testudo
 Tête-à-Tête
-Tether #name
-Tétouan/S #name
-Tetraplegiker/NS
-Tetraplegikerin
-Tetraplegikerinnen
-Tettenweis #name
-Tetzlaff/S #name
 TEU
-Teubner/S #name
 TEUR
-TextLab #name
 Textpraktik
 Textpraktiken
 Textsortenmerkmal/S
@@ -24977,13 +24819,8 @@ TG-Plätze/N
 TG-Platzes
 TGBBZ #abk
 tgl. #abk
-TGV #name
 TH #abk
-Thade/S #name
 Thalassämie/N
-Thälmannstraße #name
-Thalwil/S #name
-Thanksgiving #eng
 THB
 Theaterplastiker/NS
 Theaterplastikerin
@@ -25002,12 +24839,10 @@ Thekenmitarbeiterinnen
 Thematisierungsfunktion
 Thematisierungshäufigkeit
 Thematisierungshäufigkeiten
-Theme/S #eng
 themenunabhängig/A
 themenzentriert/A
 Theodizeefrage
 Theogamie
-Theokrit/S #name
 theologisiere
 theologisieren
 theologisierend/A
@@ -25034,7 +24869,6 @@ Therapeutenliste/N
 Therapierbarkeit
 Therapiesetting/S
 theresianisch/A
-Theresienklinik #name
 Thermalisierung
 Thermalwasserkreislauf/S
 thermografisch/A
@@ -25045,42 +24879,21 @@ Thermostatregelung
 Thermoverglasung
 Thesaurierungsbedingungen
 Thesaurierungsbegünstigung
-Thiel/S #name
-Thiele/S #name
-Thiemann/S #name
-Thieme/S #name
-Thies #name
-Thimm/S #name
-Think-Tank/S #eng
-Thinktank/S #eng
-Thisbe #name
-Thomann/S #name
-Thomy/S #name
 Thoraxkompression
 Thoraxkompressionen
 Thoraxschmerz
 Thoraxschmerzen
-Thore/S #name
-Thorina/S #name
 Threadregeln
 Threoninkinase/N
 Thrombektomie/N
 Thrombophlebitis
 Throninsignien
-Thuja
-Thumbnail/S
-Thunberg/S #name
-Thurau #name
-Thüringerberg/S #name
 Thymoleptika
 Thymoleptikum/S
 Thymos
 Thyristorgleichrichter/NS
-Thyssenkrupp
-thyssenkrupp/S #name
 Tibiaplateau/S
 Ticker/SN
-Tiedje/S #name
 Tiefenanzeiger/NS
 Tiefenbegrenzerabstand/S
 Tiefenbegrenzerabstände/N
@@ -25101,8 +24914,8 @@ tiefergreifend/A
 Tiefparterrewohnung
 Tiefparterrewohnungen
 tiefpassartig/A
-Tiefstmaß
-Tiefstmaßes
+Tiefstmass
+Tiefstmasses
 Tiefstpreisgarantie/N
 Tiefwurzler/NS
 Tiefziehfähigkeit
@@ -25123,15 +24936,12 @@ Tiertragekasten
 Tiertragekästen
 Tiertragekastens
 tierversuchsfrei/A
-Tietjen/S #name
 Tifosi
 Tifoso
 Tigerbaby/S
 Tigerbarsch/S
 Tigerbarsche/NS
 Tigerhaut
-Tiguan/S #name
-Tilemann/S #name
 Tilgungsbedingungen
 Tilgungsbescheinigung
 Tilgungsbescheinigungen
@@ -25145,38 +24955,22 @@ Tilgungssatzänderungen
 Tilgungssatzwechsel/NS
 Tilgungszeichen/S
 Tilidin
-Timaios #name
-Timișoara/S #name
-Timmendorf/S #name
-Timmermeisterschule #name
-Timmi/S #name
-Timon/S #name
-Timothy/S #name #eng
-Timur/S #name
-Tinchen/S #name
-Tine/S #name
 tintenverschmiert/A
-Tioga/S #name
 Tischautoklav
 Tischautoklaven
 Tischgesteck/S
 Tischgestecke/N
 Tischzarge/N
 Tissue #eng
-Titanflex #name
 Titer
 Titer/S
-Tithonos #name
 Titularkönig/S
 Titularkönige/N
 Titularkönigin
 Titularköniginnen
-Tiziano #name
-Tjorven/S #name
 TK #abk
 TKG #abk
 TKKG
-Tlatelolco/S #name
 TLD/S #abk
 TMA-Test/S
 TMS #abk
@@ -25184,7 +24978,6 @@ TNG #abk
 Tobel/NS
 Toberaum/S
 Toberäume/N
-Toby/S #name
 TOC #abk
 TOC-Wert
 TOC-Werte/NS
@@ -25201,14 +24994,9 @@ tokenisiertest
 Tokenisierung
 Töle/N #ugs
 Toleranzbesoffenheit
-Tolino/S #name
 Tollerei
 Tollitätenpaar/S
 Tollitätenpaare/NS
-Tollwood #name
-Tomatensugo
-Tommaso #name
-Toms #name
 Tonerdhummel/N
 Tonerdzement/S
 Tonerdzemente/N
@@ -25218,13 +25006,9 @@ toniert/A
 Tonkabohne/N
 Tonnenleerung
 Tonnenleerungen
-Tönnies #name
 Tonsillektomie/N
 Tönungsfolie/N
-Tony/S #name
-Toolbar/S
 Tooling
-Toolset/S
 topasfarben/A
 Topfenkuchen/S
 Topfhalter/NS
@@ -25232,17 +25016,9 @@ Topfinhalt/S
 Topfkultur
 Topfschlagen/S
 Topologe/N
-Topseller/NS
-Topspeaker
-Torarolle/N
-Torben/S #name
-Torge/S #name
 törichterweise
 Torii
 Torpedoluke/N
-Torquato #name
-Torque #eng
-Torrevieja/S #name
 Torrosioneffekt/S
 Torsionsbeanspruchung
 Torsionsbeanspruchungen
@@ -25305,26 +25081,16 @@ Tourismusmagnete/NS
 Tourismuspunkt
 Tourismuspunkte/NS
 tourismusstrategisch/A
-Toussaint/S #name
-Töwerland #name
 Toy/S
 Trace/S #eng
-Trachau/S #name
 Tracheostoma/S
 Trachinierinnen
 Tracing/S #eng
 Track-Record/S #eng
 Trackbook
 tracken
-Tracker/NS
-Tracking/S
-Trackinglink/S
-Trackingnummer/N
-Tracklist/S
-Trackpad/S
 trade
 Trade-off/S #eng
-Tradegate/S #name
 traden
 Trades
 tradest
@@ -25377,7 +25143,6 @@ Traktorspur
 Traktorspuren
 Traktorstrahl/S
 Traktorstrahlen
-Tramadol #name
 Tramanbindung
 Tramanbindungen
 Tramfahrt
@@ -25393,14 +25158,11 @@ tränenaufgelöst/A
 tränendurchnässt/A
 Tränkeeinrichtung
 Tränkeeinrichtungen
-trans-
-Trans-Europ-Express #name
 transaktionsspezifisch/A
 Transaminasenerhöhung
 Transceiver/NS
 transdimensional/A
 Transducer/NS
-TransFair #name
 Transfeindlichkeit
 transferorientiert/A
 Transfette/N
@@ -25476,7 +25238,6 @@ Trattenbachtal/S
 Trauanmeldung
 Trauanmeldungen
 Traubenwelke
-Traude/S #name
 Traufband
 Traufblech/S
 Traufbleche/N
@@ -25485,23 +25246,16 @@ Traumaambulanzen
 traumaassoziiert/A
 traumapädagogisch/A
 traumatologisch/A
-Traunreut/S #name
-Traunreuter #name
 Trautermin/S
 Trautermine/N
-Trautmann/S #name
 Trauungssaal/S
 Trauungssaales
 Trauungssäle/N
 Travelmanagement/S
-Travis #name
-Travolta/S #name
-Trazodon
 TRE #abk
 Treckerfahrer/NS
 Treckerfahrerin
 Treckerfahrerinnen
-Trefcon/S #name
 treff #ugs
 Treffdatum/S
 Trefferbearbeitung
@@ -25514,17 +25268,11 @@ Treiberentwicklung
 Treiberproblem/S
 Treiberprobleme/N
 treibhausgasneutral/A
-Treichel/S #name
 Trekkingliebhaber/NS
-Trello #name
-Tremmelberg/S #name
-Trenbolon
 Trennübertrager/NS
-Tresdorf/S #name
 Tresenaufsteller/NS
 Tresenkraft
 Tresenkräfte/N
-Treskowstraße #name
 Tretinoin/S
 Treuhändergremium/S
 treuwidrig/A
@@ -25577,9 +25325,6 @@ Trinkwassererwärmer/NS
 trinkwassertechnisch/A
 Triops
 Triphosphat
-Trippstadt #name
-Trippstadter #name
-Triptis #name
 Triptolid
 Trireme/N
 Triskaidekaphobie
@@ -25588,7 +25333,6 @@ trittfest/A
 Triumphfahrt
 Triumphfahrten
 Trivium/S
-Trixie/S #name
 Trochanter
 Trockengerm
 trockenheitsliebend/A
@@ -25613,7 +25357,6 @@ Trollfabriken
 Trollwesen/S
 Trommelreibe/N
 Trommelröstverfahren/S
-Tromsø/S #name
 Tropfbewässerung
 Tröpfchenkern/S
 Tröpfchenkerne/NS
@@ -25646,7 +25389,6 @@ Truppleiterin
 Truppleiterinnen
 Truppmann/S
 Truppmänner/N
-Trusetal/S #name
 Trustpilot #name
 Truxal
 Trypanblau
@@ -25662,16 +25404,12 @@ Tscherenkowstrahlung
 Tschick/S
 TSE #abk
 TSN #abk
-TT/S #name
-Tubenfalz
-Tubenfalzes
 Tufan/S #name
 TUHH #abk
 Tuiskonia #name
 Tulipa
 Tüllrock/S
 Tüllröcke/N
-Tulsa #name
 Tumorentdeckung
 Tumorinfiltration
 Tumorinfiltrationen
@@ -25691,7 +25429,6 @@ Turnaround/S #eng
 Turnbeutelvergesser/NS
 Turnbeutelvergesserin
 Turnbeutelvergesserinnen
-Turnersee/S #name
 Turnover/S #eng
 Turnow/S
 Türöffnertaster/NS
@@ -25711,14 +25448,11 @@ Tutorlehrerinnen
 tuts #ugs
 TÜV-geprüft/A
 TÜV-zertifiziert/A
-Twilio/S #name
 Twillband/S
-Twingo/S #name
 TWINT
 Twitch
 Typhusimpfstoff/S
 Typhusimpfstoffe/NS
-TypoScript #name
 U-Turn/S #eng
 Übelkeiten
 überallher
@@ -25745,12 +25479,12 @@ U-Turn/S #eng
 überentwickelt
 Überfahrtsgenehmigung
 Überfahrtsgenehmigungen
-überfleißig/A
+überfleissig/A
 überfürsorglich/A
 überglänzen
-Übergreifungsstoß
-Übergreifungsstöße/N
-Übergreifungsstoßes
+Übergreifungsstoss
+Übergreifungsstösse/N
+Übergreifungsstosses
 Übergriffigkeiten
 überhör #ugs
 überkompliziert/A
@@ -25779,9 +25513,9 @@ U-Turn/S #eng
 überputztest
 überranken
 überrankt/A
-überreiße
-überreißen
-überreißt
+überreisse
+überreissen
+überreisst
 Überrollung
 Überrollungen
 übersäuern
@@ -25805,8 +25539,7 @@ U-Turn/S #eng
 Überströmventil/S
 Überströmventile/N
 überstumpf/A
-Ubersuggest #name
-übersüßen
+übersüssen
 übertragungsorientiert/A
 Übertrittsquote/N
 überübermorgen
@@ -25819,20 +25552,13 @@ Ubersuggest #name
 überzupflanzen
 überzusprudeln
 Übphase/N
-UBS #name
 Übungsplanerstellung
 Uchronie
 UdK #abk
-Uebigau-Wahrenbrück #name
-Uetendorf/S #name
 UFA #abk
 UFA-DFH #abk
 uff #ugs
 UGB #abk
-Uhlenhof/S #name
-Uhlenhuth-Probe/N
-Uhlig/S #name
-Uhlmann/S #name
 Uhrenanzeige
 Uhrenband
 Uhrenbänder/N
@@ -25849,21 +25575,11 @@ UHV #abk
 UIC-Ländercode/S
 UID/S #abk #eng
 UK #abk
-UKE/S #name
 Ukraineaffäre/N
 Ukrainischstunde/N
 UKSH #abk
-Ulbrich/S #name
 Ulcus
-Ulli/S #name
-Ullrich/S #name
-Ulmenmarkt #name
-Ulmenmarktes #name
 Ulmenweg/S
-Ultrabook/S #name
-Ulyana/S #name
-Ulysses #name
-Umarex #name
 Umarmungsstrategie/N
 Umbindung
 Umbrathor
@@ -25908,9 +25624,9 @@ Umglasungskosten
 Umhängebändchen/S
 umherbummeln
 umherflatternd/A
-umherfließe
-umherfließen
-umherfließt
+umherfliesse
+umherfliessen
+umherfliesst
 umhergehend
 umhergejagt
 umhergerutscht/A
@@ -26016,7 +25732,7 @@ umsatztechnisch/A
 Umschlossenheit
 Umschluss
 Umschlusses
-umschmeißen #ugs
+umschmeissen #ugs
 Umschuldungsoption
 Umschuldungsoptionen
 Umschuldungsrechner/NS
@@ -26078,7 +25794,7 @@ umzunutzen
 umzuplatzieren
 umzuprägen
 umzupriorisieren
-umzuschmeißen
+umzuschmeissen
 umzuspeichern
 umzustempeln
 umzustufen
@@ -26124,7 +25840,6 @@ unernst/A
 unfallanalytisch/A
 unfallbeschädigt/A
 unfallkausal/A
-UNFCCC #name #abk
 unfoliert/A
 Ungebildetheit
 ungeborgen/A
@@ -26137,7 +25852,6 @@ ungegessen/A
 ungekoppelt/A
 ungepflückt/A
 ungepuffert/A
-Unger/S #name
 Ungerechtigkeitsgefühl/S
 ungereinigt/A
 ungerinnbar/A
@@ -26163,14 +25877,11 @@ Ungunstfaktoren
 Unheilsansage/N
 Unheimlichkeit
 UniCredit/S
-UNiDAYS #name
 Unifest/S
 Unifeste/NS
 UNIFIL #abk
-Unify #name
 unikal/A
 unintuitiv/A
-Uniper/S #name
 Uniriese/N
 unironisch/A
 Unit-Test/S
@@ -26214,7 +25925,7 @@ Unperfektheit
 unplattbar/A
 unpoliert/A
 unpräjudiziell/A
-unpreußisch/A
+unpreussisch/A
 unrassistisch/A
 unreal/A
 unrepariert/A
@@ -26266,8 +25977,6 @@ Unternehmenserwerbe/N
 unternehmensfreundlich/A
 unternehmenskonform/A
 unternehmensorientiert/A
-Unterpfaffenhofen/S #name
-Unterpremstätten/S #name
 untersäuert/A
 Unterschlagung
 Unterschlagungen
@@ -26281,9 +25990,7 @@ untervögelt/A #ugs
 Unterweiser/NS
 Unterweiserin
 Unterweiserinnen
-Unterwellenborn/S #name
 unterweltlich/A
-Unterwössen/S #name
 unterzeichnungsberechtigt/A
 unterzubelichten
 unterzuhaken
@@ -26383,14 +26090,12 @@ Urolithiasis
 Urphänomen/S
 Ursachenermittlung
 Ursachenfindung
-Ursel/S #name
-Ururgroßeltern
+Ururgrosseltern
 Urwaldkaffee/S
 US-Marshal/S
 US-Start-up/S
 usable #eng
 USB-Dongle/S #eng
-UserBenchmark #name
 Userliste/N
 Userzahlen
 USK
@@ -26402,15 +26107,11 @@ USt-Rechnungen
 UStE #abk
 Uteri
 UTM #abk
-Uttendorf/S #name
 UWZ #abk
 V-Brake/S
 VA #abk
 Vaginismus
 Vaginose/N
-Vahrn #name
-Vahrner #name
-Vaillant #name
 Vakanzzeit
 Vakanzzeiten
 Vakuumerhitzung
@@ -26425,21 +26126,12 @@ vakziniert
 vakzinierte
 vakzinierten
 Vakzinierung
-Valcamonica #name
-Valchiavenna #name
-Valdobbiadene #name
-Valentine/S #name
-Valentino/S #name
-Valérie/S #name
-Valery/S #name
 valgus
 Validierungscode/S
 Validierungsprüfung
 Validierungsprüfungen
 Validierungstechnik
 Validierungstechniken
-Vallendar/S #name
-Valleri/S #name
 valorisiere/N
 valorisierend/A
 Valorisierens
@@ -26447,7 +26139,6 @@ valorisierst
 valorisiert/A
 valorisiertest
 valorisiertet
-Valtellina #name
 Value-at-Risk-Berechnung
 Value/S
 Van-der-Pauw-Messung
@@ -26457,23 +26148,14 @@ Vanadylsulfat/S
 Vanillecustard
 Vanillemark/S
 Vanillenote/N
-Vanja/S #name
 Vans
 Vantage #eng
 Vape #eng #ugs
 Vaper/NS #eng
-Vapiano #name
 Vaporizer/NS
 Vaporizer/NS #eng
-VArea #name
-Varga/S #name
 Varikozele/N
-Varone #name
-Vasco/S #name
 Vasenschmuck/S
-Vásquez #name
-Vaterländle
-Vaupel/S #name
 VBB
 VC/S #abk
 VDA #abk
@@ -26493,12 +26175,10 @@ Veggie-Day/S
 Veggieday/S
 Veggietag/S
 Veggietage/NS
-Veitsbronn/S #name
 vektorwertig/A
 Velokauf/S
 Velomobil/S
 Veloroute/N
-Veltheim/S #name
 Velux #name
 Velvet
 Venn-Diagramm/ES
@@ -26553,8 +26233,8 @@ Verarmungspotenzial/S
 Verarztung
 Verästelung
 Verästelungen
-Verbaläußerung
-Verbaläußerungen
+Verbaläusserung
+Verbaläusserungen
 Verbalbeurteilung
 Verbalbeurteilungen
 Verbandbuch/S
@@ -26622,8 +26302,8 @@ verdaddelt/A #ugs
 Verdampferkopf/S
 Verdampferköpfe/N
 Verdampferkopfes
-Verdampfungsgefäß
-Verdampfungsgefäße/NS
+Verdampfungsgefäss
+Verdampfungsgefässe/NS
 Verdeckmechanik
 Verdeckmechaniken
 Verdeckscharnier
@@ -26963,13 +26643,13 @@ Verschleierungstechniken
 Verschleierungszauber/S
 Verschleimung
 Verschleimungen
-Verschleißerkennung
-Verschleißmaß
-Verschleißmaße/NS
-Verschleißminderung
-Verschleißquelle/N
-verschleißsicher/A
-Verschließanlage/N
+Verschleisserkennung
+Verschleissmass
+Verschleissmasse/NS
+Verschleissminderung
+Verschleissquelle/N
+verschleisssicher/A
+Verschliessanlage/N
 verschluckbar/A
 verschmelzbar/A
 Verschmorung
@@ -27087,7 +26767,7 @@ verstörendstes
 Verstreichens
 verstürzt/A
 versuchs #ugs
-Versüßung
+Versüssung
 Verteiltag/S
 Verteiltage/NS
 Verteilzentrale/N
@@ -27117,7 +26797,7 @@ vertragsintern/A
 Vertraulichkeitshinweis
 Vertraulichkeitshinweise/NS
 Vertrautheitsphase/N
-Vertreibungsmaßnahme/N
+Vertreibungsmassnahme/N
 vertretungsbefugt/A
 Vertriebscontrolling/S
 Vertriebsinnen-
@@ -27262,7 +26942,7 @@ Viewport/S
 Vigenère-Verschlüsselung
 vigilant/A
 Vigilanz
-Viktoriastraße #name
+Viktoriastrasse #name
 Viktualia/S #name
 Villarreal/S #name
 Villingendorf/S #name
@@ -27495,8 +27175,8 @@ Vorausvermächtnis
 Vorausvermächtnisse/NS
 vorauswarf
 vorauswarfen
-vorausweiß
-vorausweißt
+vorausweiss
+vorausweisst
 vorauswerfe
 vorauswerfen
 vorauswerfend
@@ -27775,8 +27455,8 @@ VStGB
 Vukovar/S #name
 Vulgoname
 Vulgonamen/S
-Vulkaniergruß
-Vulkaniergrußes
+Vulkaniergruss
+Vulkaniergrusses
 Vulnerabilitäts-Stress-Modell/S
 Vulnerabilitätsgrenze/N
 VwGH #abk
@@ -27856,7 +27536,7 @@ Walzerbahnen
 Wälzkörper/NS
 Wälzlagerstahl/S
 Wälzlagerstähle/N
-Wälzstoßen/S
+Wälzstossen/S
 WamS #name
 Wandanschlussverblechung
 Wanddickenverteilung
@@ -27979,7 +27659,7 @@ wegautomatisierst
 wegautomatisiert/A
 wegautomatisiertest
 wegbefördert/A
-wegbeißen #todo
+wegbeissen #todo
 wegbröseln #ugs
 wegbröselnd/A #ugs
 wegbröselt #ugs
@@ -28011,9 +27691,9 @@ weggeschossen/A
 weggeschubst
 weggewollt
 weggewunken
-weggieße
-weggießen
-weggießt
+weggiesse
+weggiessen
+weggiesst
 weggoss
 weggossen
 wegkaufe/N
@@ -28066,7 +27746,7 @@ wegzuautomatisierenden
 wegzuautomatisierender
 wegzuautomatisierendes
 wegzubegeben
-wegzubeißen
+wegzubeissen
 wegzublinzeln
 wegzubröseln #ugs
 wegzudelegieren
@@ -28076,7 +27756,7 @@ wegzudelegierenden
 wegzudelegierender
 wegzudelegierendes
 wegzuekeln
-wegzugießen
+wegzugiessen
 Wegzugsstaat/S
 wegzuhaben
 wegzukaufen
@@ -28123,19 +27803,15 @@ Weichschalenhelm/S
 Weichschalenhelme/N
 Weichschalenkoffer/NS
 Weichselbaum/S #name
-Weidachstraße #name
+Weidachstrasse #name
 Weidinger/S #name
 Weidner/S #name
 Weierhof/S
-Weiherstraße
+Weiherstrasse
 Weihnachtsdeko
 Weihnachtsmuffel/NS
 Weihnachtspräsent/E
 Weikersheim/S #name
-Weindegustation
-Weindegustationen
-Weingart/S #name
-weinhaltig/A
 Weirich/S #name
 Weishaupt/S #name
 Weisheitsspruch/S
@@ -28160,7 +27836,7 @@ weiterlizenzieren
 weiterlizenzierst
 weiterlizenziert
 weitermailen
-weiterreißen
+weiterreissen
 weiterschreiten
 weiterscrolle
 weiterscrollen
@@ -28255,7 +27931,7 @@ Wendt/S #name
 Wendtorf/S #name
 Wenzenbach/S #name
 Wenzeslaus #name
-Werbellinstraße #name
+Werbellinstrasse #name
 Werbungskostenabzug/S
 Werbungskostenzuschuss
 Werbungskostenzuschusses
@@ -28273,7 +27949,7 @@ Werklieferungsvertrag/S
 Werklieferungsverträge/N
 Werkskalibrierzertifikat/S
 Werkskalibrierzertifikate/NS
-werksmäßig/A
+werksmässig/A
 werksspezifisch/A
 Werkstudierende/N
 Werkstudierender
@@ -28317,7 +27993,7 @@ Whirlpoolüberdachungen
 Whistleblowing/S
 Whiteboardmarker/NS
 Whitney/S #name
-Wichernstraße #name
+Wichernstrasse #name
 wichteln
 Wichtelopfer/NS
 Wichtelpaket/S
@@ -28333,7 +28009,7 @@ Wickelkreuztrage/N
 Wicklungskopf
 Wicklungsköpfe/N
 Wicklungskopfes
-Wiclefstraße #name
+Wiclefstrasse #name
 Widerrechtlichkeit
 widerreden
 Widerrufsbedingungen
@@ -28762,8 +28438,8 @@ Zauberhaftigkeit
 zaubrig/A
 Zäumung
 Zausel/NS
-Zechenschließung
-Zechenschließungen
+Zechenschliessung
+Zechenschliessungen
 Zeckenhalsband
 Zeckenhalsbänder/N
 Zeckenhalsbandes
@@ -28904,7 +28580,7 @@ zielfrei/A
 Zielgen/S
 zielgleich/A
 zielgruppenabhängig/A
-zielgruppengemäß/A
+zielgruppengemäss/A
 Zielinski/S #name
 zielkonform/A
 Zielvariable/N
@@ -28917,7 +28593,7 @@ Zikadenarten
 Zimmeraufräumen/S
 Zimmerin
 Zimmerinnen
-zimmermannsmäßig/A
+zimmermannsmässig/A
 Zinkbisglycinat
 Zinkerz
 Zinkerze/NS
@@ -29067,9 +28743,9 @@ zurückbeförderndes
 zurückbefördertem
 zurückbeförderter
 zurückbefördertes
-zurückbeiße
-zurückbeißen
-zurückbeißt
+zurückbeisse
+zurückbeissen
+zurückbeisst
 zurückbeordernd
 zurückbesinnend
 zurückbesinnende
@@ -29162,7 +28838,7 @@ zurückgedrückt/A
 zurückgefragt
 zurückgegafft
 zurückgegrinst
-zurückgegrüßt
+zurückgegrüsst
 zurückgejuckelt
 zurückgekarrt/A #ugs
 zurückgekippte
@@ -29254,9 +28930,9 @@ zurückgrinste
 zurückgrinsten
 zurückgrinstest
 zurückgrinstet
-zurückgrüße
-zurückgrüßen
-zurückgrüßt
+zurückgrüsse
+zurückgrüssen
+zurückgrüsst
 Zurückhaltungsvermögen/S
 zurückhumpeln #todo
 zurückhumpelt #todo
@@ -29340,15 +29016,15 @@ zurückpassendem
 zurückpassenden
 zurückpassender
 zurückpassendes
-zurückreiße
-zurückreißen
-zurückreißend
-zurückreißende
-zurückreißendem
-zurückreißenden
-zurückreißender
-zurückreißendes
-zurückreißt
+zurückreisse
+zurückreissen
+zurückreissend
+zurückreissende
+zurückreissendem
+zurückreissenden
+zurückreissender
+zurückreissendes
+zurückreisst
 zurückriss
 zurückrisse
 zurückrissen
@@ -29510,7 +29186,7 @@ zurückzubeförderndem
 zurückzubefördernden
 zurückzubefördernder
 zurückzubeförderndes
-zurückzubeißen
+zurückzubeissen
 zurückzubestellen
 zurückzubeziehen
 zurückzubeziehende
@@ -29544,7 +29220,7 @@ zurückzugewährenden
 zurückzugewährender
 zurückzugewährendes
 zurückzugrinsen
-zurückzugrüßen
+zurückzugrüssen
 zurückzujuckeln
 zurückzukatapultieren
 zurückzukippen
@@ -29553,7 +29229,7 @@ zurückzulenken
 zurückzumailen #ugs
 zurückzumigrieren
 zurückzuordern
-zurückzureißen
+zurückzureissen
 zurückzurennen
 zurückzusacken
 zurückzuschiebende
@@ -29728,33 +29404,3 @@ zwischenartlich/A
 zwischenkirchlich/A
 Zwischenstandsmeldung
 Zwischenstandsmeldungen
-Zwölfprophetenbuch/S
-Zwölfprophetenbuches
-zwölftälteste/A
-zwölftausendachthundert
-zwölftausenddreihundert
-zwölftausendeinhundert
-zwölftausendfünfhundert
-zwölftausendneunhundert
-zwölftausendsechshundert
-zwölftausendsiebenhundert
-zwölftausendvierhundert
-zwölftausendzweihundert
-zwölftjüngste/A
-Zyanidgas
-Zyanidgase/N
-Zyklenschwankungen
-Zyklik
-Zyklorotation
-zyklothym/A
-Zyklusgesundheit
-Zyklusplan/S
-Zykluspläne/N
-Zyklusplanung
-Zyklusunregelmäßigkeit
-Zyklusunregelmäßigkeiten
-Zystenniere/N
-Zystoskopie/N
-Zytokinsturm/S
-Zytokinstürme/N
-Zytopathologie
