@@ -4145,9 +4145,6 @@ Citrullin/S
 Cityrad/S
 Cityräder
 CK/S #abk
-CKEditor/S #name
-Claire/S #name
-Clancy/S #name
 Clankriminalität
 Clanleitung
 Clare/S #name
@@ -9500,13 +9497,7 @@ Harzsystem/S
 Harzsysteme/N
 Hasan/S #name
 Haseloff/S #name
-Hashcode/S
-Hasliberg/S #name
-Hasliberger #name
 Haspa/S #name
-Hasselbach/S #name
-Hasselblad #name
-Hasselmann/S #name
 Hatchback/S #eng
 Hater/NS
 Haterkommentar/S
@@ -9514,11 +9505,8 @@ Haterkommentare/N
 Hatespeech
 Hatespeeches
 hättens #ugs
-Hattersheim/S #name
 Haubenspülmaschine/N
-Haubold/S #name
 Hauches
-Haumann/S #name
 Hauptabmasse
 Hauptbilligkeitsdarlehen/S
 Häuptel/NS
@@ -9539,30 +9527,23 @@ Häuserfront
 Häuserfronten
 Haushaltsaktivitäten
 haushaltsplangebunden/A
-Hausschachen #name
 Hausstaubmilbenallergie/N
 haustierfreundlich/A
 Hausyak/S
 Hautanhänge/N
-Hauts-de-Seine/S #name
 hautschonend/A
 hautstraffend/A
 Hautturgor
 Häutungsintervall/S
 Häutungsintervalle/N
 hautverträglich/A
-Havighurst/S #name
-Hawking/S #name
 Haydnstrasse
-Hayek/S #name
 HBBK #abk
 HD-TV/S
 HDD-Clock/S
 HDD/S #abk #eng
-HDI/S #name #abk
 Headwriter/SN #eng
 Healthcare-Industrie
-Healthineers #name
 hebammengeführt/A
 Hebammenmangel/S
 Hebammenwesen/S
@@ -9573,10 +9554,6 @@ Hebemaschine/N
 Hebetätigkeiten
 Hebezeugkunde
 Hebungsphase/N
-Hechtsheim/S #name
-Hecker/S #name
-Heckershausen/S #name
-Hecking/S #name
 Hedgefondsmanager/NS
 Hedgefondsmanagerin
 Hedgefondsmanagerinnen
@@ -9587,34 +9564,20 @@ Hefeflocken
 hefefrei/A
 Hefelösung
 Hefelösungen
-Hefnersteig/S #name
 Hehlerbande/N
 Hehlerring/S
 Hehlerringe/N
-Heidecke/S #name
-Heidelbach/S #name
 Heidelbeerfeld/S
 Heidelbeerfelder/N
 Heidelbeerfeldes
 Heidelbeerkuchen/S
-HeidelbergCement/S #name
-Heidemann/S #name
-Heidenhain/S #name
-Heider/S #name
 Heideweg/S
 heilerzieherisch/A
-Heiligenberg/S #name
-Heiligengeistfeld/S #name
-Heiligengeistfeldes #name
-Heiligengrabe/S #name
-Heiligenwald/S #name
-Heilongjiang #name
 Heilpraktikerausbildung
 Heilpraktikerausbildungen
 Heilsworte/N
 Heilszeit
 heimarbeitend/A
-Heimbuchenthal/S #name
 heimgewunken
 Heimwehr
 Heimwehren
@@ -9622,67 +9585,32 @@ heimwerkend/A
 heimzufallen
 heimzufliegen
 heimzulaufen
-Heineken #name
-Heiners #name
-Heinicke/S #name
-Heiningen/S #name
-Heinkel/S #name
-Heinlein/S #name
-Heinrichstrasse #name
-Heinze #name
-Heinzelmann/S #name
 heissgeräuchert/A
 Heisssiegelmaschine/N
 Heisswasseraquifere/N
-Heitmann/S #name
 Heizpad/S
-Helaba/S #name
-Helbing/S #name
-Helbra/S #name
-Helenesee/S #name
-Helfenstein #name
 Helferrolle/N
 Helferteam/S
-Helfrich/S #name
-Helgard/S #name
-Helgo/S #name
 Helikaseaktivität
 Helikoptergeld/S
 Heliostaten
-HelloFresh/S #name
-Helma/S #name
 Helmabnahme/N
 Helmadapter/NS
-Helmbrecht/S #name
 Helmhalterung
 Helmhalterungen
 Helmkauf/S
 Helmkontrolle/N
 Helmschale/N
-Hemicellulose/S #name
-Hemmhof/S
-Hemmhöfe/N
-Hendrike/S #name
-Hengelo/S #name
-Hengsbach/S #name
 Hengstdepot/S
 Hengststation
 Hengststationen
 Henkerbeil/S
 Henkerbeile/N
-Hennecke/S #name
-Hennigsdorf/S #name
-Henschel/S #name
-Hentschel/S #name
-Hephata #name
-Heppner/S #name
 herabgekühlt
 herabgestreift
 Herabsendung
 herabzukühlen
 herabzuschlagen
-Heraeus #name
-Heraklion/S #name
 heranfliegend/A
 herangeritten
 herangewunken
@@ -9751,10 +9679,6 @@ herbeifantasiert
 herbeizufahren
 herbeizufantasieren
 herbeizulassen
-Herbizidausbringung
-Herbizidausbringungen
-Hercinie #name
-Herdenimmunisierung
 Herdfläche/N
 hereingelotst/A
 hereingeschoben/A
@@ -9770,10 +9694,8 @@ hergeschenkt
 hergeschwappt #ugs
 hergeschwommen/A
 hergeworfen
-Hergiswil #name
 Hericium/S
 Heringshappen/S
-Herisau #name
 herjage
 herjagen
 herjagend/A
@@ -9782,15 +9704,11 @@ herjagt
 herjagte
 herjagten
 herjagtest
-Herleshausen/S #name
-Herlikofen/S #name
-Hermann-Ehlers-Kolleg/S
 hermuss
 hermüssen
 hermusst
 hermusste
 hermüssten
-Hernandez #name
 herniedergestiegen
 herniedersteige
 herniedersteigen
@@ -9801,19 +9719,14 @@ herniederstiegen
 herniederzusteigen
 hernimmst
 hernimmt
-Heron/S #name
 herpetisch/A
 Herrensammelumkleide/N
-Herrensohr #name
-Herrnhut/S #name
 hersandte
-Herscheider #name
 herschwappt #ugs
 herschwappte/N #ugs
 hersieht
 Herstelllänge/N
 herstellungsgerecht/A
-Hertlein/S #name
 hertransportieren
 hertransportiert
 Hertzsprung-Russell-Diagramm/S
@@ -10091,9 +10004,6 @@ Herzinsuffizienzsyndrom/S
 Herzinsuffizienztherapie/N
 herzitieren
 herzitiert
-Herzogenbuchsee/S #name
-Herzogenweiler/S #name
-Herzoginkartoffeln
 Herzratenvariabilität
 Herzschlagen/S
 herzubeten
@@ -10103,26 +10013,19 @@ herzusetzen
 herzustürzen
 herzuwerfen
 herzvoll/A
-Hespe #name
-Hessenpark/S #name
 heterodiegetisch/A
 Heterodimer
 Heterogenitätskonzept/S
-Hetzner/S #name
 Hetzspruch/S
 Hetzsprüche/N
 Heuaufguss
 Heuaufgüsse/N
 Heuaufgusses
-Heubach/S #name
 Heulage/N
 Heumilchpulver/S
 Heumilchschokolade/N
 Heuraufe/N
-Heusweiler/S #name
-heute-journal/S #name
 Heutrocknungsanlage/N
-Heuwieser/S #name
 HF/S #abk
 HFK #abk
 HH #abk
@@ -10131,11 +10034,9 @@ Hi-Tech
 Hibakusha
 Hibiskusfrucht
 Hibiskusfrüchte/N
-HiDrive/S #name
 Hiebnummer/N
 Hiebzahl
 Hiebzahlen
-Hielscher/S #name
 hierherbemühen
 hierherbitten
 hierherblicken
