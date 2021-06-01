@@ -2061,7 +2061,6 @@ Ausstrahlungszeit
 Ausstrahlungszeiten
 Ausstreifbeutel/NS
 austauschpflichtig/A
-Austerschulte/S #name
 Auswahlermessen/S
 Auswaschverhalten/S
 Auswechselvorgang/S
@@ -2187,28 +2186,16 @@ Autoresponder/S
 Autorisierungscode/S
 Autorisierungsstelle/N
 Autosave #eng
-Autovía #name
 AUX #abk
-Auxmoney/S #name
 AV/S #abk
-Avacon #name
 Aval
-Avalon/S #name
-Avast/S #name
-Avéline/S #name
-Avengers #name
-Avenwedde/S #name
 Average/S #eng
-Avery/S #name
 AVGS #abk
 Aviation
-Avicii/S #name
 Aviophobie
 AVL #abk
-AVM/S #name
 Avocadoaroma/S
 Avocadotoast/S
-AVS #abk #name
 AVUS
 AVV/S #abk
 AW #abk
@@ -2224,13 +2211,7 @@ Axtkopf
 Axtköpfe
 Axtkopfes
 Axtkopfs
-Aydın #name
-Aying/S #name
-Ayleen/S #name
-Ayran/S
-AYT/S #name #abk
 AZ #abk
-Azadeh/S #name
 Azathioprin
 Aztekenherrscher/NS
 Azubiaufgabe/N
@@ -2240,14 +2221,12 @@ Azubigewinnung
 Azubimeeting/S
 Azubiprojekt/S
 Azubiprojekte/NS
-Azure #name
 BA #abk
 Baader-Meinhof-Bande
 Baader-Meinhof-Gruppe
 Baader-Meinhof/S
 BAB
 babbelnd/A #ugs
-Babette/S #name
 Babykapuzenhandtuch/S
 Babykapuzenhandtücher/N
 Babykostwärmer/NS
@@ -2262,10 +2241,6 @@ Backdoor/S
 Backend #eng
 Bäckereitechnik
 Backlight
-Backlog/S #eng
-Backnang/S #name
-backofenfest/A
-Backoffice/S #eng
 Backofficesales
 Backpulvergemisch/S
 Backstubenleiter/NS
@@ -2281,12 +2256,9 @@ Backuptypen
 Badausstattung
 Badausstattungen
 Badbeleuchtung
-Badenstedt/S #name
 Badentlüftung
 Badentlüftungen
 Bäderschliessungen
-Badge/S #name
-Badgestaltung
 Badhocker/SN
 Badkeramik
 Badkultur
@@ -2294,30 +2266,20 @@ Badlüfter/NS
 Badmintonnetz
 Badmintonnetze/NS
 Badneubau/S
-Badorf/S #name
 Badplaner/NS
 Badreinigung
 Badschrank/S
 Badschränke/N
 Badschrankes
 Badstudio/S
-Baerbock/S #name
 BAF
-BAFA/S #abk #name
-Bafin #name
 Bag/S
 Bagatellverstoss
 Bagatellverstösse/N
 Bagatellverstosses
 Bahai
 Bahaitum/S
-Bahlingen/S #name
 Bahntaktung
-Bahrdorf/S #name
-Bahrenfeld/S #name
-Baier/S #name
-Baileys #name
-Bakersfield/S #name
 Bakterienschüttler/S
 bakterienspezifisch/A
 Balancierbalken/S
@@ -2348,7 +2310,6 @@ Bambusröhrchen/S
 Bambussocken
 Bambusständer/NS
 Bambuszahnbürste/N
-Bandido/S #name
 Bändiger/NS
 Bandscheibenprolaps
 Bandscheibenprotrusion
@@ -2360,45 +2321,28 @@ Bankettleiter/NS
 Bankettleiterin
 Bankettleiterinnen
 Bankirai
-Banksy/S #name
 bankweit/A
-Bansko #name
-Banton/S #name
 BAPersBw #abk
 Baphomet/S
 Baphometfigur
-Baranyai/S #name
 Barberstuhl/S
 Barberstühle/N
-Barça/S #name
-Barclaycard/S #name
 Bare-Metal-Server/SN
-Bargeshagen/S #name
 Bariatrie
 Barium-Komplexseife
 Bariumfluorid/ES
-Barmstedt/S #name
-Bärndorf/S #name
-Barranquilla/S #name
 Barriereabbau/S
 Barrierefolie/N
 Barrique
 Barriquefass
 Barriquefässer/N
 Barriquefasses
-Barry/S #name
-Barsbüttel/S #name
-Barsinghausen/S #name
 Bartagame/N
-Bartels #name
 Barter-Deal/S
 Bartglättbürste/N
-Barthel/S #name
-Bartsch/S #name
 Basaliom/S
 Basaliome/NS
 Base-Jumping
-Basecamp/S #name
 Baseline/S
 Basellandschaftliche/N
 basenbildend/A
@@ -2411,17 +2355,13 @@ Basilikumsamen/S
 Basisreproduktionszahl
 Basisreproduktionszahlen
 Basse/N
-Bassermann/S #name
 Bastardtochter
 Bastardtöchter/N
-Basti/S #name
 Batch-Processing/S #eng
 Batchprocessing/S #eng
-Bathseba/S #name
 Batikklamotten
 batteln
 Battle/S #eng
-Battlefield/S #name
 Bauabrechner/NS
 Bauabrechnerin
 Bauabrechnerinnen
@@ -2439,17 +2379,12 @@ Baumaschinenmechatronikerin
 Baumaschinenmechatronikerinnen
 bäume/N
 Baumerdbeere/N
-Baumgärtel/S #name
-Baumgartlinger/S #name
 Baumkurren
-Bäumler/S #name
 bäumst
 bäumt
 bäumte/N
 bäumtest
 bäumtet
-Baumwipfelpfad/S
-Baumwipfelpfade/NS
 Baumwoll-Voile-Kleid
 Baumwoll-Voile-Kleider/N
 Baunach-Allianz
@@ -12831,11 +12766,9 @@ JS #abk
 JU
 Jubilarenehrung
 Jubilarenehrungen
-Jüchnitztal/S #name
 Judäer/NS
 Judäerin
 Judäerinnen
-Judenburg/S #name
 Judikativakt
 Judikativakte/NS
 Jugenddelinquenz
