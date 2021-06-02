@@ -11669,7 +11669,6 @@ Hummelvolk/S
 Hummelvölker/N
 Hummelvolkes
 Hümmling/S #name
-Humperdinckstrasse #name
 Humphrey/S #name
 Humusaufbau/S
 hundeerfahren/A
@@ -12986,7 +12985,6 @@ Kategorieseite/N
 Kategorietext
 Kategorietexte/NS
 Katerina/S #name
-Katharina-Belgica-Strasse #name
 Kathedralglas
 Kathedralglases
 Katholikos
@@ -13314,7 +13312,6 @@ Klimawandelfolgen
 klimawissenschaftlich/A
 Klingbeil/S #name
 Klingenberg/S #name
-Klingenbergstrasse #name
 Klingenstahl/S
 Klingenstähle/N
 Klingenstahles
@@ -13463,7 +13460,6 @@ Kombispeicher/NS
 Kombivorteil/S
 Kombucha
 komedogen/A
-Kommandantenstrasse #name
 Kommandeurfahrer/NS
 Kommandeursfahrer/NS
 Kommanditanteil/S
@@ -13956,7 +13952,6 @@ Kronenkappungen
 Kronenregenerationsschnitt/S
 Kronenregenerationsschnitte/NS
 Kronenrückschnitt/S
-Kronenstrasse #name
 Kronenzeitung
 Krönkenhagen/S #name
 Kröpfchen/S
@@ -14979,7 +14974,6 @@ Lorenzen/S #name
 Lorenzo/S #name
 Loria/S #name
 Loris #name
-Lortzingstrasse #name
 löschpflichtig/A
 Löschungsbestätigung
 Löschungsbestätigungen
@@ -15588,9 +15582,6 @@ Mausekätzchen/S
 Maven #name
 Maverick/S #name #eng
 Maxdome #name
-Maxfeld/S #name
-Maxhütte-Haidhof #name
-Maximilianstrasse #name
 Maybelline #name
 Maye/S #name
 Mayerhofer/S #name
@@ -16273,9 +16264,7 @@ Molekülbindungen
 Molekülgitter/NS
 Molekültransport/S
 Molex #name
-Mollstrasse
 Molltöne/N
-Mollwitz #name
 Mombach/S #name
 Momentanleistung
 Momentanleistungen
@@ -16286,7 +16275,6 @@ Mönchsfriedhof/S
 Mönchsfriedhöfe/N
 Mönchsfriedhofes
 Mönchsrobe/N
-Mönckebergstrasse #name
 Mondenlicht/S
 Mondenlichtes
 Mondeo #name
@@ -16428,7 +16416,6 @@ Mühlenrecht/S
 Mühlenrechtes
 Mühlenweg/S
 Mühlgasse
-Mühlstrasse
 Mühsale/N
 Mukositis
 Mulchsaatverfahren/S
@@ -17346,19 +17333,8 @@ Oberhaching/S #name
 oberkörperfrei/A
 Oberlagsbahn
 Oberlagsbahnen
-Oberlahnstein/S #name
 Obermaier/S #name
 Obermeier/S #name
-Obernkirchen/S
-Obernstrasse #name
-Oberottmarshausen/S #name
-Oberpullendorf/S #name
-Obersendling/S #name
-Obertauern/S #name
-Obertaunuskreis
-Obertaunuskreises
-Obertrum/S #name
-Oberursel-Hohemark/S #name
 Obervinschgau/S #name
 Oberwallis #name
 Obhutsverhältnis
@@ -17386,12 +17362,10 @@ Ochsentour
 Ochsentouren
 Octavia #name
 Odense #name
-Odilostrasse #name
 Odoardo/S #name
 Odometrie
 ÖDP #abk #name
 oe24/S #name
-Oebisfelde-Weferlingen #name
 OEKO-TEX #name
 Oeko-Tex-Zertifikat/S
 Oeko-Tex-Zertifikate/NS
